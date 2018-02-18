@@ -96,10 +96,6 @@ def gen_state_location_list(state):
 
     return location_list 
 
-test_list = gen_state_location_list("Illinois")
-
-lm_test = test_list[10]
-drriver = webdriver.Firefox()
 
 #image_url = lm_test.get_photo_urls(10, driver)
 
