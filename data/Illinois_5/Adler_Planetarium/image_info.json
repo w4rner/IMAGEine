@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "http://pics4.city-data.com/cpicc/cfiles680.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://www.destination360.com/north-america/us/illinois/chicago/images/s/adler-planetarium-chicago.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "http://holeinthedonut.com/wp-content/uploads/2015/01/Illinois-Chicago-Adler-Planetarium.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://static.thousandwonders.net/Adler.Planetarium.original.7787.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "http://n7.alamy.com/zooms/50477b0e57a54ba2a1276f22246ca7e3/chicago-illinois-adler-planetarium-b390e2.jpg"
+    }
+}

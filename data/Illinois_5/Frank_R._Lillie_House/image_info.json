@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20080909_Frank_R._Lillie_House.JPG/1920px-20080909_Frank_R._Lillie_House.JPG"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://farm6.staticflickr.com/5233/14465250327_95e0a06a93_b.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://media2.fdncms.com/chicago/imager/lillie-house/u/original/1488522/lillie_house.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://c1.staticflickr.com/4/3547/3442703325_79a830885a.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://c2.staticflickr.com/8/7016/6577550511_a5f9ee44fb_b.jpg"
+    }
+}

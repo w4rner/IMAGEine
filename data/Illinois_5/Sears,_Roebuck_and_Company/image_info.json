@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 1,
+        "source_url": "http://thumbs.ebaystatic.com/d/l400/pict/222187952500_1.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 2,
+        "source_url": "https://img1.etsystatic.com/132/0/6927912/il_fullxfull.860342383_r5e9.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 3,
+        "source_url": "https://www.picclickimg.com/00/s/MTA4MFgxNjAw/z/bcQAAOSwLEtYiOwC/$/Photo-Memory-Box-Sold-By-Searsroebuck-And-Cochicagoil-_57.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 5,
+        "source_url": "https://images.sammleraktien-online.de/sears_1000_blau.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 6,
+        "source_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8gIR-Swprz2bnLVKcCOhIg/ls.jpg"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Henry_Gerber_House%2C_Chicago%2C_IL.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 2,
+        "source_url": "http://www.windycitymediagroup.com/images/publications/wct/2015-02-09/Gerber_CrillyCourt_CHM_aaa.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 3,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gerber%2C_Henry_House_2.JPG/1200px-Gerber%2C_Henry_House_2.JPG"
+    },
+    "FILE_4": {
+        "image_rank": 4,
+        "source_url": "https://www.servicemasterbyzaba.com/wp-content/uploads/2017/12/historic-henry-gerber-house-chicago-il.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 5,
+        "source_url": "http://assets.dnainfo.com/generated/chicago_photo/2015/06/henry-gerber-house-1434733116.jpg/extralarge.jpg"
+    }
+}

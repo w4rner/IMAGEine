@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Old_Kaskaskia_Village_from_W.jpg/1200px-Old_Kaskaskia_Village_from_W.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://lh5.googleusercontent.com/-G0txpAUKUmA/TWtqudpIINI/AAAAAAAAAqM/yPXkmkhVU8U/s1600/july19kaskskia2.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://c2.staticflickr.com/4/3660/3381193200_7acb700b0f_b.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "https://c2.staticflickr.com/4/3589/3381193206_20f06884cf_b.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://farm4.staticflickr.com/3178/2841615486_481dd57889_z.jpg"
+    }
+}

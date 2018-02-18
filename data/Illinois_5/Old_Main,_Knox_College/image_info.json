@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://farm5.staticflickr.com/4052/4536583554_95fbed4f54_z.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://www.cardcow.com/images/set281/card00031_fr.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://farm3.staticflickr.com/2846/11410630835_fc5205218d_z.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 4,
+        "source_url": "http://departments.knox.edu/newsarchive/knox-college-old-main-4095.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 5,
+        "source_url": "https://cardcow.com/images/set402/card00392_fr.jpg"
+    }
+}

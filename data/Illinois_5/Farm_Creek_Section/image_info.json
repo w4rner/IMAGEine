@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Farm_Creek_Section_series_2_b.jpg/1200px-Farm_Creek_Section_series_2_b.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Farm_Creek_Section_bare_earth_exposure_3.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Farm_Creek_Section_from_DS_1.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Farm_Creek_Section_series_2_a.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://s3.amazonaws.com/gs-waymarking-images/159399c4-0e36-4501-83a2-df44a308086e_d.jpg"
+    }
+}

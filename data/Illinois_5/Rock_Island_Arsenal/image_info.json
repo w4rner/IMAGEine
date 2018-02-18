@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://militarybases.com/images/bases/rockisland2.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://www.landsat.com/town-aerial-map/illinois/rock-island-arsenal-il-1765104.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 3,
+        "source_url": "http://www.mvr.usace.army.mil/portals/48/docs/Recreation/ODM/images/ARSENAL%20VISITOR%20GUIDE%20MAP,%20FALL%202015.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 4,
+        "source_url": "https://militarybases.com/wp-content/uploads/2010/08/rockIsland.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 5,
+        "source_url": "https://s3.amazonaws.com/bonanzleimages/afu/images/9202/2317/__kgrhqvhjbce7_8vfqoqbp_c6s4gbw__60_3.jpg"
+    }
+}

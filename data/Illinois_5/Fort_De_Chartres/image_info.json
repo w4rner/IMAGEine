@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "http://static.panoramio.com/photos/large/12443703.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://static.panoramio.com/photos/large/12443740.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "http://static.panoramio.com/photos/large/4380702.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://www.ameriquefrancaise.org/media-6947/fort_chartres_19.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "http://www.ameriquefrancaise.org/media-6932/6932_fort_chartres_3.jpg"
+    }
+}

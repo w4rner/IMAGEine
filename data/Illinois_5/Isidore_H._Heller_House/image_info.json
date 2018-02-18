@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "http://i.pinimg.com/736x/48/33/c6/4833c6457b7736938829845d26706539.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://arx.novosibdom.ru/story/NOV_ARX/Wright/044_Wright_05.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://c1.staticflickr.com/3/2473/3545876358_61e1c63020_b.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://housing.totalarch.com/files/wright/044/01.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://farm3.staticflickr.com/2464/3772139485_27abc86a1c_z.jpg?zz=1"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "http://static.panoramio.com/photos/large/59258024.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Oak_Park_Il_Heurtley_House5.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Oak_Park_Il_Heurtley_House4.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arthur_Heurtley_House_%281902%29%2C_Oak_Park%2C_IL.JPG"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "http://www.architravel.com/architravel_wp/wp-content/uploads/2016/08/Arthur-Heurtley-House_1.jpg"
+    }
+}

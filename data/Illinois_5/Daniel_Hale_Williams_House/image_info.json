@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dr._Daniel_Hale_Willaims_House.jpg/1920px-Dr._Daniel_Hale_Willaims_House.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://images-mediawiki-sites.thefullwiki.org/06/1/6/1/11077664105166854.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "http://www.providentfoundation.org/images/content_img/gallery/001.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://chicagopatterns.com/wp-content/uploads/2013/12/doctor_dan_1974-782x900.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://i0.wp.com/blackthen.com/wp-content/uploads/2015/04/daniel-hale-williams.png?fit=600%2C528&ssl=1"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/1f/2d/a3/galena.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://www.planetware.com/photos-large/USIL/illinois-galena-ulysses-s-grant-home.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "http://www.vacationgalena.com/wp-content/uploads/2014/10/Ulysses-S-Grant-Home-Galena-Illinois.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://c8.alamy.com/comp/BBKGR0/president-ulysses-s-grant-home-in-galena-illinois-BBKGR0.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "http://www.destination360.com/north-america/us/illinois/images/s/illinois-grant-home.jpg"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://s3.amazonaws.com/gs-waymarking-images/cf60ac1c-077d-4134-aef6-d387384a3625_d.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://landmarkhunter.com/photos/50/90/509042-M.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://c1.staticflickr.com/5/4096/4869057492_7ec8448d23_z.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://landmarkhunter.com/photos/50/90/509041-M.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/05f89052219617.590931cc5eb82.jpg"
+    }
+}

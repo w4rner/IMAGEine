@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Astronomical_Observatory_University_of_Illinois_at_Urbana-Champaign_from_west.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Astronomical_Observatory_University_of_Illinois_at_Urbana-Champaign_from_northwest.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/UIUC_Observatory.JPG"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "http://astronomy.snjr.net/blog/wp-content/uploads/2011/07/edDSC_0105.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Prairie_Observatory%2C_Oakland_Illinois%2C_North_Facade.jpg/1280px-Prairie_Observatory%2C_Oakland_Illinois%2C_North_Facade.jpg"
+    }
+}

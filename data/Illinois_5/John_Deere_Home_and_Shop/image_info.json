@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://ssl.c.photoshelter.com/img-get/I0000sdGJn7ICoUM/s/900/900/Moline-Deere-Museum-708961.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/John_Deere_Mansion_Moline.JPG/1200px-John_Deere_Mansion_Moline.JPG"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "http://blog.machinefinder.com/wp-content/uploads/2012/06/historicsite_outbuilding-deere.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "https://farm7.staticflickr.com/6191/6033158376_e730a0fc72_z.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/John_Deere_House11.jpg/1200px-John_Deere_House11.jpg"
+    }
+}

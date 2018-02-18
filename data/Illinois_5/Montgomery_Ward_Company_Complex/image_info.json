@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Montgomery_Ward_Catalogue_House.JPG/1200px-Montgomery_Ward_Catalogue_House.JPG"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "http://i.pinimg.com/736x/7e/c9/cf/7ec9cfa8b7cbaed60389a357f3b72c17.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://c1.staticflickr.com/5/4073/4957529852_323e99b8be_b.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 4,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Montgomery.jpg/1200px-The_Montgomery.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 5,
+        "source_url": "https://img0.etsystatic.com/139/0/5744229/il_fullxfull.979779196_eanp.jpg"
+    }
+}

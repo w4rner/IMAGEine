@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20070601_Lorado_Taft_Midway_Studio_%283%29.JPG/1200px-20070601_Lorado_Taft_Midway_Studio_%283%29.JPG"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://farm8.staticflickr.com/7232/7376813776_f773ef9a37_z.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://c1.staticflickr.com/3/2360/2217059249_8c3920904b.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20070601_Lorado_Taft_Midway_Studio.JPG/1920px-20070601_Lorado_Taft_Midway_Studio.JPG"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "http://static.panoramio.com/photos/large/90454213.jpg"
+    }
+}

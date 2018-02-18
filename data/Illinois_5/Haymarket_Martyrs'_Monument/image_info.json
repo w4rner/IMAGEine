@@ -1,0 +1,22 @@
+{
+    "FILE_1": {
+        "image_rank": 0,
+        "source_url": "http://i.pinimg.com/736x/71/bb/11/71bb11c7bb8e80138da4c59176765078.jpg"
+    },
+    "FILE_2": {
+        "image_rank": 1,
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haymarket-martyrs-memorial-Forest-Home-Cemetery-IL.jpg/250px-Haymarket-martyrs-memorial-Forest-Home-Cemetery-IL.jpg"
+    },
+    "FILE_3": {
+        "image_rank": 2,
+        "source_url": "https://farm1.staticflickr.com/82/252634323_0b4c0ce085_z.jpg"
+    },
+    "FILE_4": {
+        "image_rank": 3,
+        "source_url": "https://c1.staticflickr.com/1/51/141032386_e0ad233753_b.jpg"
+    },
+    "FILE_5": {
+        "image_rank": 4,
+        "source_url": "https://farm6.staticflickr.com/5062/5677148453_2a62117fe5_o.jpg"
+    }
+}
