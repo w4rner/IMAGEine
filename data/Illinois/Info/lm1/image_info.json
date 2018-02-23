@@ -1,0 +1,113 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://holeinthedonut.com/wp-content/uploads/2015/01/Illinois-Chicago-Adler-Planetarium.jpg",
+            2
+        ],
+        [
+            "https://www.universetoday.com/wp-content/uploads/2013/03/Adler-planetarium-Fritz-Geller-Grimm-OK.jpg",
+            4
+        ],
+        [
+            "http://www.cityprofile.com/forum/attachments/illinois/5221-chicago-adler-planetarium-1.jpg",
+            18
+        ],
+        [
+            "http://www.cityprofile.com/forum/attachments/illinois/5220-chicago-adler_planetarium.jpg",
+            20
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 27,
+            "source_url": "http://www.upportunityu.com/wp-content/uploads/2016/07/DSC_1924-e1469484269295-995x498.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://www.destination360.com/north-america/us/illinois/chicago/images/s/adler-planetarium-chicago.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 1,
+            "source_url": "http://pics4.city-data.com/cpicc/cfiles680.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 13,
+            "source_url": "http://weddingmapper.s3.amazonaws.com/assets/photos/1/13/73255_l.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 14,
+            "source_url": "http://4.bp.blogspot.com/_2e20MNnBOLo/SxPqrhmgwVI/AAAAAAAABSk/8bxgpKDLWCA/s1600/IMG_5716.JPG"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 15,
+            "source_url": "https://i.pinimg.com/564x/79/e7/b6/79e7b6bf29a601ad8b82b6c44bc5c845.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 17,
+            "source_url": "https://media.timeout.com/images/100892289/image.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 19,
+            "source_url": "https://www.womangettingmarried.com/wp-content/uploads/2015/12/adler-planetarium-wedding-cost.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 21,
+            "source_url": "http://towngoodiesch.wdfiles.com/local--files/place:us-il-chicago-adler-planetarium/Adler_Planetarium.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 22,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/00/17/de/f4/adler-planetarium-and.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 23,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Adler_Planetarium_August_2010_1.JPG"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 24,
+            "source_url": "http://rlv.zcache.com/adler_planetarium_chicago_il_mouse_pad-r4e6a7373e5a242569de85746ea91f1a6_x74vi_8byvr_512.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 25,
+            "source_url": "http://s.ecrater.com/stores/165530/564e9cfe59db6_165530b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://static.thousandwonders.net/Adler.Planetarium.original.7787.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 26,
+            "source_url": "https://www.acmehotelcompany.com/resourcefiles/chicago-museums-page-snippet-big-img/adler-planetarium-at-illinois.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "http://www.towrs.com/Images/Building/System/2011/08/24/AdlerPlanetariumChicagoIllinois072009004a.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 6,
+            "source_url": "https://img1.etsystatic.com/004/0/5744229/il_fullxfull.364113831_4obf.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "http://n7.alamy.com/zooms/50477b0e57a54ba2a1276f22246ca7e3/chicago-illinois-adler-planetarium-b390e2.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "http://static.panoramio.com/photos/large/73650068.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "https://farm4.staticflickr.com/3622/3350270199_045ed354d5_z.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.magazinusa.com/images_st2/il/chicago/Adler-Planetarium_780.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 12,
+            "source_url": "https://www.getawaymavens.com/wp-content/uploads/2016/09/Adler-Planetarium-Chicago-IL.jpg"
+        }
+    }
+}
