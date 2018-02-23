@@ -8,13 +8,17 @@ from selenium import webdriver
 illinois_list = data_fns.gen_state_location_list("Illinois")
 
 driver = webdriver.Firefox()
+# lm10 = illinois_list[10]
+# lm10.get_photo_urls(20, driver)
+
 
 start_count = 0
 cur_count = start_count
+
 for landmark in illinois_list[start_count:]:
 	#landmark.get_wiki_data()
-	landmark.get_photo_urls("ALL", driver)
-	landmark.save_to_file()																																																																																																																																																																
+	landmark.get_photo_urls(2, driver)
+	landmark.save_to_file(test_count=1)																																																																																																																																																																
 
 	print("COMPLETED:")
 	print(cur_count)
