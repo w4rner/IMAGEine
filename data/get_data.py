@@ -17,7 +17,7 @@ cur_count = start_count
 
 for landmark in illinois_list[start_count:]:
 	#landmark.get_wiki_data()
-	landmark.get_photo_urls(2, driver)
+	landmark.get_photo_urls(26, driver)
 	landmark.save_to_file(test_count=1)																																																																																																																																																																
 
 	print("COMPLETED:")
