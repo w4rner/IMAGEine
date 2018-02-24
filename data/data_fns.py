@@ -110,10 +110,16 @@ def gen_image_summary(info_path):
 	** No return value, creates "lm_summary.csv"
 	'''
 
+	print(info_path)
+
 	info_dir = os.fsencode(info_path)
 	lm_dir_list = os.listdir(info_dir)
 
-	with open('lm_summary.csv', 'w') as output_csv:
+	with open(info_path+'/summary_lm.csv', 'w') as output_csv:
+		col_headings = ['id', 'name', 'test_image_url', 'wiki_summary', 'wiki_url', 'fails_getting_links', 'fails_saving_images']
+		col_headings_line = "|".join(col_headings)
+		output_csv.write(col_headings_line)
+		output_csv.write("\n")
 
 		for lm_dir in lm_dir_list:
 			dir_str = os.fsdecode(lm_dir)
@@ -128,7 +134,10 @@ def gen_image_summary(info_path):
 					image_dict = json.load(image_file)
 
 				test_image_url = image_dict['TEST_DATA']['FILE_0.jpg']['source_url']
-				lm_data_list = [ lm_dict['id'], lm_dict['name'], test_image_url, lm_dict['summary'], lm_dict['url']   ]
+				error_retrieving_count = len(image_dict['ERRORS_TEST']) + len(image_dict['ERRORS_TRAIN'])
+				lm_data_list = [ lm_dict['id'], lm_dict['name'], test_image_url, 
+								 lm_dict['summary'], lm_dict['url'] , str(lm_dict['fail_count']), 
+								 str(error_retrieving_count)]
 
 				lm_summary_line = "|".join(lm_data_list)
 
