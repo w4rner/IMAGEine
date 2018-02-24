@@ -97,11 +97,51 @@ def gen_state_location_list(state):
     return location_list 
 
 
-#image_url = lm_test.get_photo_urls(10, driver)
+def gen_image_summary(info_path):
+	'''
+	info_path is an 'Info' directory resulting from the saving 
+	out of landmark images for a given state. This function summarizes 
+	and aggregates a few important statistics for each landmark and 
+	outputs into a csv. 
 
-#for i in test_list:
-#     i.get_wiki_data()
-#     print(i)
-#     i.save_to_file()
-#     print()
+	Inputs:
+		- info_path: (str) of 'Info' directory
+
+	** No return value, creates "lm_summary.csv"
+	'''
+
+	info_dir = os.fsencode(info_path)
+	lm_dir_list = os.listdir(info_dir)
+
+	with open('lm_summary.csv', 'w') as output_csv:
+
+		for lm_dir in lm_dir_list:
+			dir_str = os.fsdecode(lm_dir)
+
+			if dir_str.find('lm') == 0:
+				lm_path = info_path + "/" + dir_str
+
+				with open(lm_path + "/landmark_info.json", "r") as lm_file:
+					lm_dict = json.load(lm_file)
+
+				with open(lm_path + "/image_info.json", "r") as image_file:
+					image_dict = json.load(image_file)
+
+				test_image_url = image_dict['TEST_DATA']['FILE_0.jpg']['source_url']
+				lm_data_list = [ lm_dict['id'], lm_dict['name'], test_image_url, lm_dict['summary'], lm_dict['url']   ]
+
+				lm_summary_line = "|".join(lm_data_list)
+
+				output_csv.write(lm_summary_line)
+				output_csv.write('\n')
+
+
+
+
+
+
+
+
+
+
 
