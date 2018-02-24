@@ -1,0 +1,113 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://southsideweekly.com/wp-content/uploads/2017/02/DePriestHouse_LandmarksIllinois.jpg",
+            18
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 25,
+            "source_url": "https://www.alternatehistory.com/forum/proxy.php?image=http%3A%2F%2Fillinoisreview.typepad.com%2Fillinoisreview%2Fimages%2Foscar_de_priest_1.jpg&hash=b338c0ab35feeebf6017528fd65b3a21"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Oscar_Stanton_De_Priest.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 1,
+            "source_url": "http://bronzevillechicago.weebly.com/uploads/2/9/1/1/29115233/6524828.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 10,
+            "source_url": "http://i1.wp.com/quadcitiesdaily.com/wp-content/uploads/2016/01/Oscar-DePriest.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 11,
+            "source_url": "http://1.bp.blogspot.com/-2xhBmtGedTE/VeiVUJSX3cI/AAAAAAAYKaA/02luX6NFIjY/s1600/1613.JPG"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 12,
+            "source_url": "http://cache4.asset-cache.net/gc/90960613-portrait-of-oscar-stanton-de-priest-the-first-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=X7WJLa88Cweo9HktRLaNXkZ252uSMapdhT%2bRIaCbcX9KRGF0eJI5utpiN4il9ZJb1CuyQgvU1jLUd%2bhpqjJF6w%3d%3d"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 13,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oscar_Stanton_DePriest_House.jpg/100px-Oscar_Stanton_DePriest_House.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 14,
+            "source_url": "http://historycms.house.gov/assets/41241.jpeg?wd=190"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 15,
+            "source_url": "http://1.bp.blogspot.com/-yfgtDRRbfDg/VSkfaF-tOQI/AAAAAAATqzU/ntVnm08vPzw/s1600/375.JPG"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 16,
+            "source_url": "https://www.nps.gov/nr/travel/civilrights/buildings/depries1.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 17,
+            "source_url": "http://1.bp.blogspot.com/-xfqpnEB5SMM/VeiUyD7i2OI/AAAAAAAYKUw/PEUXbiZUz_k/s1600/1572.JPG"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://2.bp.blogspot.com/-pOx_-fTxHLQ/VeiVXkMal-I/AAAAAAAYKao/MXYOIs6sy1I/s1600/1618.JPG"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://3.bp.blogspot.com/-1VuOofbyatQ/VSkfeFpR8CI/AAAAAAATq0I/wxIcG4R0GP4/s1600/383.JPG"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 2,
+            "source_url": "https://www.biography.com/.image/t_share/MTE5NTU2MzE1ODQ4MDgyOTU1/oscar-stanton-de-priest-7328-1-402.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://3.bp.blogspot.com/-TNp7nzjyUm4/VSkfbxZsJSI/AAAAAAATqzs/w7cFbQxJcgM/s1600/379.JPG"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://historycms.house.gov/uploadedImages/Historical_Highlights/1901-1950/depriest-display.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://3.bp.blogspot.com/-iihpSf7rgcQ/VSkfbRpt3tI/AAAAAAATqz0/CTprACmSWnY/s1600/378.JPG"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://i.pinimg.com/236x/ec/32/85/ec328514b6ff270417aa22980021a7fc.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oscar_Stanton_DePriest_House.jpg/600px-Oscar_Stanton_DePriest_House.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 4,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oscar_Stanton_DePriest_House.jpg/600px-Oscar_Stanton_DePriest_House.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 5,
+            "source_url": "http://3.bp.blogspot.com/-76s7kRGxN7c/VeiVU0jUIZI/AAAAAAAYKaI/uwFgi2f9fRo/s1600/1614.JPG"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 6,
+            "source_url": "https://i.pinimg.com/736x/87/f4/35/87f43575ac2f1f177119b11899ffa4f4.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 7,
+            "source_url": "http://webapps.cityofchicago.org/landmarksweb/static/images/photos/6008.jpeg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 8,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oscar_Stanton_De_Priest.jpg/75px-Oscar_Stanton_De_Priest.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 9,
+            "source_url": "http://1.bp.blogspot.com/-2xhBmtGedTE/VeiVUJSX3cI/AAAAAAAYKaA/02luX6NFIjY/s1600/1613.JPG"
+        }
+    }
+}

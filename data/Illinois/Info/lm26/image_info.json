@@ -1,0 +1,112 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 25,
+            "source_url": "http://st.houzz.com/simgs/e351aeb2028a47e5_4-4090/traditional-home-office.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://2.bp.blogspot.com/-bpAV3sfanlg/UEs221jtT1I/AAAAAAAAAdw/ccE1tsvW7k8/s1600/John-J-Glessner-House_cd21f70fcd14a3bd49327abdbfa7b4eac97fb5bd.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 1,
+            "source_url": "http://travelphotobase.com/i/USIL/ILCS111.JPG"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 10,
+            "source_url": "http://st.houzz.com/simgs/e35151e4028a479a_4-4015/traditional-exterior.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 11,
+            "source_url": "https://fthmb.tqn.com/oI-AP6jmGcfZgvNAkMcb6yCt45g=/768x0/filters:no_upscale()/RichardRoman-Glessner-125721369-58653dc95f9b586e02df37de.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 12,
+            "source_url": "https://fthmb.tqn.com/oI-AP6jmGcfZgvNAkMcb6yCt45g=/768x0/filters:no_upscale()/RichardRoman-Glessner-125721369-58653dc95f9b586e02df37de.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 13,
+            "source_url": "http://68.media.tumblr.com/575f5bb481d674e4bf8dfa1b0ff5e3d5/tumblr_mvhqtn7Mr71s5e9l4o1_500.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 14,
+            "source_url": "http://images2.mygola.com/60b97fac2d18adea0c6ad53b9721d217_1402918223_l.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 15,
+            "source_url": "http://images2.mygola.com/60b97fac2d18adea0c6ad53b9721d217_1402918223_l.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 16,
+            "source_url": "http://images2.mygola.com/60b97fac2d18adea0c6ad53b9721d217_1402918223_l.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 17,
+            "source_url": "https://classconnection.s3.amazonaws.com/395/flashcards/3357395/png/20-142F7E7652E08B6107E.png"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 18,
+            "source_url": "https://static1.squarespace.com/static/55ef0304e4b03f4c029572a4/5730d01c37013b94d84c5514/5730d1c1044262a7f8c7903d/1462894085125/exterior.JPG"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 19,
+            "source_url": "https://c1.staticflickr.com/7/6191/6037391882_2137bc7b6a_b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 2,
+            "source_url": "http://travelphotobase.com/i/USIL/ILCS111.JPG"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 20,
+            "source_url": "http://s3.amazonaws.com/architecture-org/files/buildings/glessner-house-01-ear.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 21,
+            "source_url": "http://st.houzz.com/simgs/8951d9a5028a47f9_4-4109/traditional-hall.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 22,
+            "source_url": "http://st.houzz.com/simgs/9181b111028a47d3_4-4072/traditional-hall.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 23,
+            "source_url": "https://c2.staticflickr.com/4/3565/3769226268_95bbe0624a.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 24,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/John_J._Glessner_House%2C_1800_South_Prairie_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C17-_%28sheet_2_of_6%29.png/761px-John_J._Glessner_House%2C_1800_South_Prairie_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C17-_%28sheet_2_of_6%29.png"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 3,
+            "source_url": "https://st3.idealista.com/news/archivos/2016-02/9_john_j._glessner_house.jpg?sv=7xQWXtzw"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 4,
+            "source_url": "https://static1.squarespace.com/static/55ef0304e4b03f4c029572a4/5730d01c37013b94d84c5514/5730d01cc6fc0829127aee79/1462816806522/Glessner+House+exterior.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 5,
+            "source_url": "http://www.artcom.com/Museums/vs/mr/80.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 6,
+            "source_url": "https://classconnection.s3.amazonaws.com/395/flashcards/3357395/png/22-142F7E7FDD45F1D7D9C.png"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 7,
+            "source_url": "http://s3.amazonaws.com/architecture-org/files/buildings/glessner-house-05-2.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 8,
+            "source_url": "https://classconnection.s3.amazonaws.com/395/flashcards/3357395/png/22-142F7E7FDD45F1D7D9C.png"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 9,
+            "source_url": "http://st.houzz.com/simgs/e35151e4028a479a_4-4015/traditional-exterior.jpg"
+        }
+    }
+}

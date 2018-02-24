@@ -1,0 +1,112 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 26,
+            "source_url": "http://www.skokiesrestaurants.com/www.skokiesrestaurants.com/images/large/lgateshouse9-725x485.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://readtiger.com/img/wkp/en/Dawes_1.JPG"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 1,
+            "source_url": "https://lowellsilverman.files.wordpress.com/2015/05/charles-g-dawes-house.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://static.panoramio.com/photos/original/73944236.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://static.panoramio.com/photos/original/121769477.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://static.panoramio.com/photos/original/121769446.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://farm4.staticflickr.com/3078/2896940949_c38125feff_z.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://static.panoramio.com/photos/original/73944253.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://static.panoramio.com/photos/original/5851041.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dawes_2.JPG/120px-Dawes_2.JPG"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kimball_1.jpg/220px-Kimball_1.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://static.panoramio.com/photos/original/121769461.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/9f/81/f1/front-of-dawes-house.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 2,
+            "source_url": "https://1.bp.blogspot.com/-i54eksLydas/WLYQjPeDpiI/AAAAAAAAXdE/T9c4zZRL_I0QcMaApSrQ2itIg9RGwAHeQCLcB/s1600/Dawes1.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "https://s3-media1.fl.yelpcdn.com/bphoto/g1P2gFd8qJZ4LfImfIs-EQ/ls.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "https://c1.staticflickr.com/9/8149/7444597256_3a1db1fbef_b.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://static.panoramio.com/photos/large/2640059.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://igx.4sqi.net/img/general/600x600/1585773_Ag315u0KZYj4JOBy9VkX6VJ8QLf8nzYWb-bJxxkYgdA.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://static.panoramio.com/photos/original/121769505.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 3,
+            "source_url": "http://static.panoramio.com/photos/original/5850996.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 4,
+            "source_url": "https://irs1.4sqi.net/img/general/600x600/2337882_33-oD2ntNxigB8-CtvSFK1UHAHZmJkehhgbQkOc1lOY.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://static.panoramio.com/photos/original/73944268.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Charles_Gates_Dawes_House_%287160476075%29.jpg/1200px-Charles_Gates_Dawes_House_%287160476075%29.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Charles_Gates_Dawes_House_%287160476075%29.jpg/1200px-Charles_Gates_Dawes_House_%287160476075%29.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://activerain-store.s3.amazonaws.com/image_store/uploads/5/9/6/9/2/ar137881887829695.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://static.panoramio.com/photos/large/121769490.jpg"
+        }
+    }
+}
