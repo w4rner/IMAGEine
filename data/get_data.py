@@ -6,6 +6,7 @@ import sys
 
 # Run this from linux command line using nohup command format
 # nohup python3 get_data.py "Illinois" 30 1 0
+# nohup python3 get_data.py "Illinois" 30 1 28
 
 def pull_data(state, photo_count, test_photo_count, start_count = 0):
     '''
