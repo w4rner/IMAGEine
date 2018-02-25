@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://www.outtraveler.com/sites/outtraveler.com/files/2016/01/28/Gerber%20House%20Collage.jpg",
+            10
+        ],
+        [
+            "http://highestcashoffer.com/wp-content/uploads/1970/01/illinois.jpg",
+            13
+        ],
+        [
+            "https://i.ytimg.com/vi/OTU8fz14iUQ/hqdefault.jpg",
+            23
+        ],
+        [
+            "http://landguys.net/wp-content/uploads/2016/09/Henry-County-Home-For-Sale-01-1.jpg",
+            24
+        ],
+        [
+            "http://cdn.onlyinyourstate.com/wp-content/uploads/2016/05/a-617-700x430.jpg",
+            27
+        ],
+        [
+            "https://www.outtraveler.com/sites/outtraveler.com/files/styles/small_teaser_custom_user_desktop_1x/public/2016/01/28/nola-3-lead-2.jpg?itok=g20hCdJp",
+            30
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Henry_Gerber_House%2C_Chicago%2C_IL.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gerber%2C_Henry_House_2.JPG/1200px-Gerber%2C_Henry_House_2.JPG"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx6_yUJJalkMAI4.jzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519567218/RO=11/RU=http%3a%2f%2fwww.windycitymediagroup.com%2fimages%2fpublications%2fwct%2f2015-02-09%2fGerber_CrillyCourt_CHM_aaa.jpg/RK=2/RS=DU1BpDijS5aCwhFtf5d3WsxLi1k-"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 14,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx62EUZJaAG0A3AWjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519567364/RO=11/RU=https%3a%2f%2fs-media-cache-ak0.pinimg.com%2f736x%2fae%2f95%2f67%2fae9567c22d1be51a006c846d74da2935.jpg/RK=2/RS=jgHkBrRlTVssFPiboXAcuJoMPGc-"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 15,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/ANNAWAN_CHAPTER_HOUSE%2C_HENRY_COUNTY%2C_ILLINOIS.JPG"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 16,
+            "source_url": "http://4.bp.blogspot.com/_hRF685U5m7I/TGwgYNhdkoI/AAAAAAAACWc/09zKgZpWcec/s1600/009.JPG"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 17,
+            "source_url": "http://www.mcnees.org/architecture/prairie_arch_images/flw_aurora_henry_cooper_hse_se_remc.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 18,
+            "source_url": "http://1.bp.blogspot.com/_hRF685U5m7I/TGwgYaMVUBI/AAAAAAAACWk/-GIyu5zkHxw/s1600/008.JPG"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 19,
+            "source_url": "http://www.chicagonow.com/my-kind-of-old-town/files/2015/07/Gerber_plaque_front_IMG_33092.jpeg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 20,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx6zMUZJa3TAASE6jzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519567436/RO=11/RU=https%3a%2f%2fs-media-cache-ak0.pinimg.com%2f736x%2fc7%2fc9%2f7f%2fc7c97fe17251a5c7f0ff5a26f0548546.jpg/RK=2/RS=xgVVQprQc1lleIV33isNV2iLRzY-"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "http://www.nyclgbtsites.org/wp-content/uploads/2017/11/gerber-700x700.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "http://4.bp.blogspot.com/_hRF685U5m7I/TGwgXy5egXI/AAAAAAAACWU/TlafoM9THzc/s1600/010.JPG"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 25,
+            "source_url": "https://c1.staticflickr.com/5/4035/4587274131_b68a54d8da_b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "https://www.servicemasterbyzaba.com/wp-content/uploads/2017/12/historic-henry-gerber-house-chicago-il.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 26,
+            "source_url": "http://www.chicagonow.com/my-kind-of-old-town/files/2015/07/Gerber-Hart-Library.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 28,
+            "source_url": "http://faculty.wcas.northwestern.edu/~infocom/scndempr/suburbs/JHMleft.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 29,
+            "source_url": "http://faculty.wcas.northwestern.edu/~infocom/scndempr/suburbs/JHMright.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "http://i1.wp.com/notchesblog.com/wp-content/uploads/2015/03/gerber_henry_house_2-e14253161389581.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 6,
+            "source_url": "http://i0.wp.com/www.towleroad.com/wp-content/uploads/2015/06/gerber.jpg?resize=600%2C600"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "http://www.chicagonow.com/my-kind-of-old-town/files/2014/04/024-gerber1a1.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "http://assets.dnainfo.com/generated/chicago_photo/2015/06/henry-gerber-house-1434733116.jpg/extralarge.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "https://i.pinimg.com/736x/85/37/88/853788d7273bdd06a18ccc6f6afe2e9e.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 11,
+            "source_url": "http://lovelace-media.imgix.net/uploads/1012/bb77d140-4236-0133-8eb3-0e17bac22e39.jpg?w=320"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 12,
+            "source_url": "https://c1.staticflickr.com/9/8216/8368683009_988e2061a8_b.jpg"
+        }
+    }
+}

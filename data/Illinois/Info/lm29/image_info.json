@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://www.graveyards.com/IL/Cook/foresthome/ne-haymarket4.jpg",
+            22
+        ],
+        [
+            "https://graveyards.com/IL/Cook/foresthome/ne-haymarket.jpg",
+            27
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://i.pinimg.com/736x/71/bb/11/71bb11c7bb8e80138da4c59176765078.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haymarket-martyrs-memorial-Forest-Home-Cemetery-IL.jpg/250px-Haymarket-martyrs-memorial-Forest-Home-Cemetery-IL.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://farm1.staticflickr.com/82/252634323_0b4c0ce085_z.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://static.panoramio.com/photos/large/35164568.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://l7.alamy.com/zooms/9a1783101ed24177a2e96f5ff2e88033/forest-park-illinois-the-haymarket-martyrs-monument-by-sculptor-albert-dj9xa7.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2wwb3ZxcDl2OTloMzk5YzBjZjcwM2Y0MjhjNDM4X0lNR18xODIzLkpQRyJdLFsicCIsInRodW1iIiwieDM5MD4iXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgODEgLWF1dG8tb3JpZW50Il1d/IMG_1823.JPG"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "http://static.panoramio.com/photos/large/28579635.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://68.media.tumblr.com/291b8142840730916c76368261e037a2/tumblr_mpyb60J1HL1rjkbz3o1_500.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://farm3.staticflickr.com/2492/3917600455_51092677a1_z.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://media.dziennikzwiazkowy.com/wp-content/uploads/2013/05/Haymarket-Martyrs-Monument.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "http://static.panoramio.com/photos/large/4746631.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://c1.staticflickr.com/9/8406/8709235604_aa85a02f86_b.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "https://3.bp.blogspot.com/-yZ8JSpWQhxo/VxDkMLQp1OI/AAAAAAAADYs/U70YVDtFbVsi5UMPHwEgiMpoW4LJDmpcgCLcB/s1600/S__29712393.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://c1.staticflickr.com/1/51/141032386_e0ad233753_b.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "https://i.pinimg.com/736x/5c/b9/28/5cb928f43b86ebeec99088add69d731c.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.chicagonow.com/chicago-history-cop/files/2017/05/Original-Haymarket-Monument.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "https://s3-us-west-2.amazonaws.com/find-a-grave-prod/photos/2005/59/10545593_110974791917.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://static.panoramio.com/photos/large/4746571.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://farm4.staticflickr.com/3819/11701300054_4e3284262a_z.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "https://enewspf.com/stuff/wp-content/uploads/2017/04/Haymarket_Martyrs_monument.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "http://foresthomecemeteryoverview.weebly.com/uploads/2/1/3/5/21354910/4720058_orig.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Haymarket_Martyr%27s_Memorial.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://farm6.staticflickr.com/5062/5677148453_2a62117fe5_o.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://static.panoramio.com/photos/large/5152934.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://static.panoramio.com/photos/large/44439495.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://talkingunion.files.wordpress.com/2011/04/haymarket_martyrs_monument1.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://n7.alamy.com/zooms/8cc7521e4b5d49ca98ec94323f6a59db/forest-park-illinois-the-haymarket-martyrs-monument-by-sculptor-albert-dj9xhy.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://portside.org/sites/default/files/images/Haymarket%20memorial%20monument.JPG"
+        }
+    }
+}

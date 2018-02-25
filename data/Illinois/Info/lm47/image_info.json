@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQB_SsOaNu2vuvfM&w=720&h=984&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff4%2FTullimonstrum.jpg%2F720px-Tullimonstrum.jpg",
+            1
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/protecticus/Protecticus-L.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 2,
+            "source_url": "https://img0.etsystatic.com/140/1/8954841/il_340x270.894249678_qzpp.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.fieldmuseum.org/sites/default/files/Mazon%20Creek%20Region.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.fossilmall.com/EDCOPE_Enterprises/Mazon-Creek/MC38/Annularia.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/Aviculopecten-mazonensis/Aviculopecten-mazonensis-L.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "https://img1.etsystatic.com/062/0/8954841/il_570xN.789905715_v6b1.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://img1.etsystatic.com/068/0/8954841/il_570xN.789913311_g4we.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/Hesslerella-shermani/CB045B.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/Belotelson-magister/Belotelson-magister-L.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "https://img1.etsystatic.com/138/0/8954841/il_340x270.1048532395_72tz.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://www.maropeng.co.za/uploads/images/15344615908_f9fe49ea5e_o.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 21,
+            "source_url": "http://paleobiology.si.edu/mazoncreek/_imgMazon/Map2b.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "http://www.fossilmall.com/EDCOPE_Enterprises/Mazon-Creek/MC8/UKF149C.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "https://img1.etsystatic.com/136/0/8954841/il_570xN.1050839911_j3cl.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "https://img1.etsystatic.com/030/0/8954841/il_fullxfull.627633331_18y8.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "http://www.museum.state.il.us/exhibits/mazon_creek/gallery/roll03/mazonshale.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 25,
+            "source_url": "http://i.pinimg.com/originals/5e/32/cf/5e32cf7a228b9e2c74e8244f3408fba8.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 26,
+            "source_url": "https://c2.staticflickr.com/4/3951/15507064326_d68e1084d6_b.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 27,
+            "source_url": "https://img0.etsystatic.com/202/0/8954841/il_570xN.1282548442_49hu.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/protecticus/HMC04C.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "https://i1.wp.com/americanfossilhunt.com/wp-content/uploads/2016/12/Mazon-creek-pit-11.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 30,
+            "source_url": "https://img1.etsystatic.com/069/0/8954841/il_570xN.803774273_1kyo.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/Palaeocaris-typus/Palaeocaris-typus-L.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 6,
+            "source_url": "http://c1.vgtstatic.com/thumb/2/0/205236-v1/mazon-creek-fossil-beds.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "http://www.fossilmall.com/EDCOPE_Enterprises/Mazon-Creek/MC14/HMC07C.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "https://img1.etsystatic.com/125/0/8954841/il_340x270.889278529_rg5j.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/Acanthotelson-stimpsoni/CB048C.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "https://img1.etsystatic.com/151/0/8954841/il_340x270.1117933981_49l1.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.fossilmuseum.net/Fossil_Sites/Mazon-Creek/Kallidecthes-richardsoni/CB031B.jpg"
+        }
+    }
+}

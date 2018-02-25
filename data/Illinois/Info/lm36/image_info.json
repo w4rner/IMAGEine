@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_003.JPG",
+            7
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_004.JPG",
+            8
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_002.JPG",
+            9
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_017.JPG",
+            10
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_006.JPG",
+            13
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_066.JPG",
+            14
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_013.JPG",
+            15
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_001.JPG",
+            17
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_016.JPG",
+            18
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_015.JPG",
+            19
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_041.JPG",
+            20
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_065.JPG",
+            22
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_057.JPG",
+            23
+        ],
+        [
+            "http://www.kennicott.com/images/stories/images/Elk_Grove/032_ELKG_Fresh_046.JPG",
+            25
+        ],
+        [
+            "http://www.angeleyesphotographyblog.com/wp-content/uploads/2011/06/Wedding-at-the-Grove-Glenview-Illinos-bridal-photography-Redfield-Esate-reception-photos-Naval-Air-Base-Schram-Navy-Chapel-Church-Hilda-Burke-angel-eyes-photography-chicago-14.jpg",
+            28
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kennicotts_Grove_%287384457524%29.jpg/1200px-Kennicotts_Grove_%287384457524%29.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Robert_Kennicott_House%2C_Glenview_%28Cook_County%2C_Illinois%29.jpg/1280px-Robert_Kennicott_House%2C_Glenview_%28Cook_County%2C_Illinois%29.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://i.pinimg.com/564x/bd/d1/aa/bdd1aa4ba85864434a9e149f3434a910.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 24,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/e2d44241-e57b-4774-a87d-a6d86061ba16.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 26,
+            "source_url": "https://ssl.cdn-redfin.com/photo/68/mbpaddedwide/210/genMid.09149210_0.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 27,
+            "source_url": "http://wibiti.com/images/hpmain/858/273858.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 29,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/JohnKennicott.PNG/200px-JohnKennicott.PNG"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.chicagohousemuseums.org/media/museumImages/Grove-Kennicott_House_a.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://farm4.staticflickr.com/3717/11813949253_a57c2a1b0b_b.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://www.flowersfordreams.com/blog/wp-content/uploads/2014/08/grove.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://i.pinimg.com/736x/02/a3/a8/02a3a852e63703ad6d07e4b068fecaf0.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 11,
+            "source_url": "http://johngress.com/wp-content/uploads/2015/12/17C6975.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 12,
+            "source_url": "https://farm3.staticflickr.com/2820/9358573887_0a50b9a2dd.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 16,
+            "source_url": "https://i.pinimg.com/736x/f4/58/20/f45820e3869cc2d056633815ef71f652.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 21,
+            "source_url": "http://public.media.smithsonianmag.com/legacy_blog/Kennicott-rs2.jpg"
+        }
+    }
+}

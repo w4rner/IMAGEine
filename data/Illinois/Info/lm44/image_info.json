@@ -1,6 +1,15 @@
 {
     "ERRORS_TEST": [],
-    "ERRORS_TRAIN": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://circaoldhouses.com/wp-content/uploads/2017/10/1c298c08aa9eb02135a6105b6425d2b2-150x150.jpg",
+            11
+        ],
+        [
+            "http://www.mrlincolnswhitehouse.org/wp-content/uploads/2016/02/lovejoy2b.jpg",
+            32
+        ]
+    ],
     "TEST_DATA": {
         "FILE_0.jpg": {
             "image_rank": 0,
@@ -11,6 +20,110 @@
         "FILE_0.jpg": {
             "image_rank": 1,
             "source_url": "http://www.illinoisinfocus.com/uploads/5/6/3/9/5639843/1756295_orig.jpg?643"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://www.homesteadfestival.com/images/homestead-new-b.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.galenatrail.com/lovejoy_home.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://www.hmdb.org/Photos1/161/Photo161089.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://www.hmdb.org/Photos1/161/Photo161091.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://www.picclickimg.com/d/l400/pict/222003131579_/Real-Photo-Postcard-Underground-Station-Owen-Lovejoy-Homestead.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://i.ytimg.com/vi/ALdUps2pWjE/0.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "https://www.roadsideamerica.com/attract/images/il/ILPRIlovejoy_heinen.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "https://c2.staticflickr.com/8/7404/9159064383_ef4d8142a6_b.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://media.cdn-redfin.com/photo/68/bigphoto/969/09383969_3.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "https://images1.apartments.com/i2/6yaomLFKIbpVehNpYqjkQLo0WepNM4WFBWuYpTwwuPQ/117/5116-n-lovejoy-ave-chicago-il-primary-photo.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "https://i.pinimg.com/236x/95/44/75/954475087cd2da8245670ac83d8a2610.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://www.nps.gov/nr/travel/underground/graphics/lovejoy.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "https://c1.staticflickr.com/4/3061/3772945826_cc7df25c4e.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "http://www.hmdb.org/Photos1/161/Photo161088.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 26,
+            "source_url": "https://i.pinimg.com/236x/08/e0/59/08e0597b6653791d673f929887cb5b73.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 27,
+            "source_url": "https://i.pinimg.com/236x/90/74/d1/9074d13f773ec633239fc7347b5111bf.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.lincolnhall.illinois.edu/images/quotes/lovejoy.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 29,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Owen_Lovejoy.jpg/220px-Owen_Lovejoy.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 30,
+            "source_url": "http://www.bluegrayreview.com/wp-content/uploads/2014/04/26795r.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://farm3.staticflickr.com/2657/3772139229_31cc72bec0_z.jpg?zz=1"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/9a4b85e1-772e-4e72-8bd9-cbbedffc5ed2_d.JPG"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://www.dailyherald.com/storyimage/DA/20180203/NEWS/180209656/EP/1/8/EP-180209656.jpg&updated=201802031657&MaxW=800&maxH=800&noborder"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://i.pinimg.com/236x/5d/21/de/5d21de94951349877508648d49605a78.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://3.bp.blogspot.com/-YtBLU2p7XeQ/Tjy66tMiEkI/AAAAAAAAEOw/oCeHNXhBWr4/s1600/owen4.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://cdn.cbhomes.com/s3/mediasvc-prd/properties/44d9e2C4De4448b-09111040.jpg?preset=trim"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://www.imnotastalker.com/wp-content/uploads/2008/03/dscn0282.thumbnail.jpg"
         }
     }
 }

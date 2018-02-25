@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://f.tqn.com/y/architecture/1/S/8/7/1/jenney-leiter2-chicago.jpg",
+            7
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Leiter_II_Building,_South_State_%26_East_Congress_Streets,_Chicago,_Cook_County,_IL.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Leiter_II_Building.jpg/1200px-Leiter_II_Building.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Robert_Morris_Center_Leiter_II_Building_403_South_State_Street.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 14,
+            "source_url": "https://webapps.cityofchicago.org/landmarksweb/static/images/photos/7095.jpeg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 15,
+            "source_url": "https://c2.staticflickr.com/4/3038/3101828952_687fd0b4e3_z.jpg?zz=1"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 16,
+            "source_url": "https://classconnection.s3.amazonaws.com/354/flashcards/3844354/png/screen_shot_2014-02-19_at_105418_am-1444AFBB2EF26F198B8.png"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 17,
+            "source_url": "http://3.bp.blogspot.com/_LJHBrB752xY/TL5hwTsFz9I/AAAAAAAAAlc/PqUj8x7fgEI/s1600/Le+Baron+Jenney+-+Leiter+Building+II+Chicago+(1889)+-+Vista.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 18,
+            "source_url": "https://files1.structurae.de/files/photos/haer/060960pv.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 19,
+            "source_url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage/searsstate1932.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 20,
+            "source_url": "http://l450v.alamy.com/450v/btrfbg/leiter-building-403-south-state-street-chicago-illinois-usa-btrfbg.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "https://farm1.staticflickr.com/148/372872236_0e8d298b7d_z.jpg?zz=1"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "https://www.artehistoria.com/sites/default/files/imagenobra/LEL16979.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 23,
+            "source_url": "https://i.pinimg.com/originals/4b/bc/e6/4bbce65f7b5bc43539096575bc543fbb.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://c2.staticflickr.com/8/7212/7184331883_912bfc451d_b.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 24,
+            "source_url": "http://landmarkhunter.com/photos/50/92/509285-M.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 25,
+            "source_url": "https://c2.staticflickr.com/4/3140/3100993311_e3e2d097b2_z.jpg?zz=1"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 26,
+            "source_url": "https://classconnection.s3.amazonaws.com/841/flashcards/713841/jpg/17121r1336450192531.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 27,
+            "source_url": "https://classconnection.s3.amazonaws.com/354/flashcards/3844354/png/screen_shot_2014-02-19_at_105409_am-1444AFA4FF1010D43EE.png"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 29,
+            "source_url": "http://www.ou.edu/class/arch4443/Skyscraper%20East%20and%20West/First%20Leiter%20Building.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 30,
+            "source_url": "http://photos.wikimapia.org/p/00/02/24/35/11_big.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 31,
+            "source_url": "https://media1.britannica.com/eb-media/64/10664-004-A698BB7E.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 32,
+            "source_url": "http://www.urbanremainschicago.com/media/catalog/product/cache/1/image/767x1023/9df78eab33525d08d6e5fb8d27136e95/s/e/second-leiter-building-postcard_1.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage/leiter2circa1910.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://vincemichael.files.wordpress.com/2010/04/leiter-ii-bests.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://c1.staticflickr.com/3/2814/9181549194_761c8275b6_b.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 10,
+            "source_url": "https://c2.staticflickr.com/4/3264/2307247471_578b990cf3.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 11,
+            "source_url": "https://classconnection.s3.amazonaws.com/466/flashcards/2756466/png/capture1367272777203.png"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 12,
+            "source_url": "http://chicagology.com/wp-content/themes/revolution-20/goldenage/siegelcooper1902.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 13,
+            "source_url": "https://www.bluffton.edu/homepages/facstaff/sullivanm/jenney/leiterwhole.jpg"
+        }
+    }
+}

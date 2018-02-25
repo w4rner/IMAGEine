@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Marquette_Building_exterior_overview_-_Chicago_Illinois.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx6wMHZNaKhQAuumjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519619468/RO=11/RU=https%3a%2f%2ffarm8.staticflickr.com%2f7255%2f7833799858_d0154d6a75_k_d.jpg/RK=2/RS=hG2M44MgpMjb2r6yZXQv.VHZETI-"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c2.staticflickr.com/8/7136/7664773514_6501515bd7_z.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2010-03-03_1968x2952_chicago_marquette_building.jpg/1200px-2010-03-03_1968x2952_chicago_marquette_building.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/03/e4/f2/77/marquette-building.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://i.pinimg.com/564x/9c/ee/e4/9ceee458a83bda7d56992dc6608fded5.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://buildingchicago.files.wordpress.com/2013/05/marquette-picture-from-pp.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://l7.alamy.com/zooms/4bc294db90f74abc9c9d9a26f34988e1/marquette-building-chicago-illinois-bd384g.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://l7.alamy.com/zooms/2548c5099f3c4100ac185f28cdbdb17f/the-marquette-building-140-south-dearborn-street-chicago-illinois-btrjwy.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Marquette_Building_lobby_detail_2_-_Chicago_Illinois.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "http://jnlegal.net/Marquette-%20Exterior.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://www.emporis.com/images/show/520654-Large.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://img.zanda.com/item/61020540000084/1024x768/Marquette_Building.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://www.emporis.com/images/show/130928-Large-fullheightview-view-from-the-southeast-before-the-restoration-of-the-cornice.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "https://www.cardcow.com/images/set374/card00155_fr.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://lpmcoproperties.com/wp-content/uploads/2016/12/MarqAppt-01_Rev-63_0000.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/47/58/8d/marquette-building.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "http://www.travelphotobase.com/i/USIL/ILCB161.JPG"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "https://c2.staticflickr.com/8/7253/7664484912_6c4fae0cd5_z.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Marquette_Building_exterior_entry_detail_-_Chicago_Illinois.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "http://images1.apartments.com/i2/F31VGrjksgtohsbdQv8-3XMqSMn24gFtFjKfZW7QLYU/117/3000-3030-w-marquette-rd-chicago-il-building-photo.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Hotel_pere_marquette_peoria_illinois_panorama.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "http://static.panoramio.com/photos/large/5752541.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://photos.wikimapia.org/p/00/02/24/54/04_big.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://buildingchicago.files.wordpress.com/2013/05/marquette-on-dearborn.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://www.travelphotobase.com/i/USIL/ILCBM01.JPG"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://farm4.staticflickr.com/3392/3283272853_d000b5b1cc_z.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://c1.staticflickr.com/9/8215/8342362070_b95b8b0507_b.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://2.bp.blogspot.com/_zJpnTu57Koc/SXiSoF4fdYI/AAAAAAAAHSQ/dUnO8DDM0Rw/w1200-h630-p-k-no-nu/LI-archi-MB-010b.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://www.towrs.com/Images/Building/System/2011/10/08/MarquetteBuilding00905003a.jpg"
+        }
+    }
+}

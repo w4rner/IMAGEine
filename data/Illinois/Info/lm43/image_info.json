@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://3.bp.blogspot.com/-CvzAupnntpE/TaYgAP7joPI/AAAAAAAAAEM/p2TdrJawBEk/s1600/CIMG5039.JPG"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://www.abrahamlincolnonline.org/lincoln/sites/lindsay2.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c1.staticflickr.com/3/2667/3710855066_a3524e0cf6_b.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://kristinabraham.com/IL%20Vachel%20lindsay.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://i.pinimg.com/736x/af/d7/82/afd782d64fc8ca582bdba75c219701ae--pocket-watch-barware.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://lynnedavis2.files.wordpress.com/2015/09/img_0483.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "http://static1.squarespace.com/static/540f7f5ce4b05f0d2fb4a74e/565dcf72e4b07e6c27a30cc7/565dcf72e4b07253132a9d1c/1448988532362/IL_SPR_12052015PicPast_4_VJ.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://cdn.grid.fotosearch.com/ULY/ULY363/u74770216.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://www.firelightpublishing.com/gallery/large/Springfield_autumn_09_0049.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://static.panoramio.com/photos/large/8044120.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "http://static.panoramio.com/photos/large/44736160.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/76/28/42/the-home-is-near-the.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://static.panoramio.com/photos/large/8044137.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx61uGZNaZAcA8X2jzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519618542/RO=11/RU=https%3a%2f%2ffarm8.staticflickr.com%2f7073%2f7359114498_96627fc328_o_d.jpg/RK=2/RS=_8fYxdvy9imHwNKCApXLB83qswU-"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://i.pinimg.com/236x/dc/df/c8/dcdfc8258113e5e035d9e232a0b5a71c.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://static.panoramio.com/photos/large/44012049.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.english.illinois.edu/maps/poets/g_l/lindsay/exhibit/vachhouse.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "http://static.panoramio.com/photos/large/17620436.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://static.panoramio.com/photos/large/82550440.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "http://static.panoramio.com/photos/large/8044133.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "http://photos1.blogger.com/blogger/3025/1940/1600/lindsayhomenew0001.1.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://lynnedavis2.files.wordpress.com/2015/09/img_0450.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "http://gh-inc.com/wp-content/uploads/2014/03/VachelLindsey_Exterior-950x380.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://i.pinimg.com/736x/35/75/87/3575877c686b91ae3fc35e3f64d35a2a.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vachel_Lindsay_House.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://americanwritersmuseum.org/wp-content/uploads/2017/03/Vachel-Lindsay-Home1.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://files.idssasp.com/public/C116/1c709f3a-6aaa-45eb-9c53-fc03ffeaabca/82e2683f-a959-42f8-8def-3366f1456def.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://c2.staticflickr.com/4/3628/3639979654_e9e811ee5c_b.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/0f/76/28/3f/the-home.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://www.pasfieldhouse.com/img/page_photos/historic_homes/vachel_lindsay.jpg"
+        }
+    }
+}

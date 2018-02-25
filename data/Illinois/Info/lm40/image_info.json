@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://civilwardailygazette.com/wp-content/uploads/2010/10/lincolnhouse.jpg",
+            25
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lincoln_Home_1.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://farm7.staticflickr.com/6172/6182165046_57e1fe6f53_z.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c2.staticflickr.com/4/3058/2792864561_6299ae5bf1_b.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://ironbrigader.com/wp-content/uploads/2012/08/Abraham-Lincoln-Home-Springfield-IL-in-2012.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://farm4.staticflickr.com/3573/3565250228_3692fc1024_z.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://www.pacificwalkhomes.com/wp-content/uploads/2014/08/abraham-lincoln-front-his-springfield-illinois-home-425330.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "http://www.abrahamlincolnonline.org/lincoln/gallery/homefront.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://cdn.history.com/sites/2/2013/11/illinois-lincoln-home-P.jpeg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://i.pinimg.com/736x/99/68/f5/9968f5cca3231007247f4fdd566442af.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://galenf.com/us/lincoln17.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "http://purpleroofs.com/gay-travel-blog/wp-content/uploads/2011/12/Lincoln-Home.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://i.pinimg.com/736x/da/5f/8b/da5f8b287dd75df5fd7cb65ec17259ec.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://4.bp.blogspot.com/-cHuhHNYw6mQ/T_IQd-a3u-I/AAAAAAAAHQw/X5RJgDwEymw/s1600/Lincoln+Home,+Springfield.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://3.bp.blogspot.com/-c6_qT5fft9s/VPZEeud3QWI/AAAAAAAAbac/M-6GfoqFRwY/s1600/DSC04553.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://2.bp.blogspot.com/-MldRQI8MXh4/UXs5mZR534I/AAAAAAAAB3k/K1JLK4V4HSM/s1600/President+Lincoln%27s+Home;+Springfield+Il-02916.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://www.abrahamlincolnonline.org/lincoln/sites/home.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "https://guycounseling.com/wp-content/uploads/2017/04/abraham-lincon-home-springfield-illinois-640x381.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "http://djtravel.homestead.com/files/Lincoln_Home__Springfield__IL.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://1.bp.blogspot.com/-8cvj-61kTgk/RaqDeG7KnqI/AAAAAAAAAEg/c6qXAbnDsz8/s1600/Lincoln+Home.JPG"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://johnsmurrayphotography.homestead.com/files/web107435.JPG"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://farm3.staticflickr.com/2661/4023840526_68c2e6168b_b.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "https://i.pinimg.com/originals/6f/7d/28/6f7d2824899120d8c1615689d6f55190.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://messersmith.name/news/wp-content/uploads/2009/06/springfield_lincoln_house_p5290381.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://c2.staticflickr.com/8/7193/6842766830_28d0a592ef_z.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://2.bp.blogspot.com/-0Wn120mO0oM/Ti8cmuVgNtI/AAAAAAAACqQ/1lJqUEF4gBA/s1600/Lincoln+home.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://i.pinimg.com/736x/97/7c/f3/977cf3bbc27a438e81c41f3d37cb17e1.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://i.pinimg.com/originals/04/22/d3/0422d38be41ef5ecdfe18c77c958a69c.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://mycropht.files.wordpress.com/2012/02/1-1253801715-abraham-lincoln-s-home-in-springfield.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/14/9e/be/view-of-lincoln-home.jpg"
+        }
+    }
+}

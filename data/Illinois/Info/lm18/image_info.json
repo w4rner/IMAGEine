@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://2.bp.blogspot.com/-HJZyBIb3eNU/VVVjK6PtwYI/AAAAAAAACtM/rBbUa7yclIs/s1600/jean-baptiste.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://adjameson.files.wordpress.com/2013/03/jean-baptiste-point-du-sable-01.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://3.bp.blogspot.com/--9xBmKdgCz8/VVVf6i3zlWI/AAAAAAAACtA/EL8BIsxcd40/w1200-h630-p-k-no-nu/black%2Bhistory%2Bafrican%2Bhistory%2BNational-Black-Heritage-Stamps-Jean-Baptiste-Pointe-Du-Sable.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.mindbonics.com/wp-content/uploads/2013/07/The-Boy-Illinois-%e2%80%93-Jean-Baptiste.png"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://files.ctctcdn.com/60f0b894201/6e997e3f-2812-4e70-9085-77131d0e536e.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://cdn.blackenterprise.com/wp-content/blogs.dir/1/files/2010/06/Jean-Baptiste-Pointe-Du-Sable.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jean_Baptiste_Beaubien_Chicago_June_30%2C_2012-36.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://stlouishistoryblog.files.wordpress.com/2015/09/img_0400.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Battle_of_Bad_Axe.jpg/606px-Battle_of_Bad_Axe.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Battle_of_Bad_Axe.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/DuSable_HS_Campus.jpg/1200px-DuSable_HS_Campus.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://1.bp.blogspot.com/-NXPsNeBNSAw/Ue7Y4ZWdLJI/AAAAAAAABSY/9Ml9jJS8mWA/s1600/DuSable+settlement.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://1.bp.blogspot.com/-jeT04cGWkYQ/Tf793PJASTI/AAAAAAAAg68/CGlwZBuAMns/s1600/LI-RW-DS-010b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.afrikmag.com/wp-content/uploads/2016/10/jean_baptiste_point_du_sable.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://cache1.asset-cache.net/gc/131203549-american-newspaper-publisher-john-h-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=fOqRSGnZREbdOD5U9z9THyyDQC2U1Owbtf3WetgwjvRYjg26T4qRuplDC%2fEq3GtRutHsBA8vvQYYnqI1T2Psh15SxXNILAb5kkDSqMNKAPo%3d"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_DuSable_Museum.jpg/1200px-The_DuSable_Museum.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://4.bp.blogspot.com/-ENilXgZWdSw/Tf8H5DMylbI/AAAAAAAAg8k/dvtmkqvyPqQ/s1600/LI-RW-DS-024b.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://f.hypotheses.org/wp-content/blogs.dir/1259/files/2014/01/Point-1-e1390827866106.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://2.bp.blogspot.com/_zJpnTu57Koc/S8HHqzMrA7I/AAAAAAAAQyI/AXfpME92lxc/s1600/LI-sculp-CM-002b.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_DuSable_Museum.jpg/220px-The_DuSable_Museum.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "https://c1.staticflickr.com/9/8134/30082084256_ea08bf6eac_b.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://www.atozkidsstuff.com/images/states/maps/illinoismapflag.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "https://upload.wikimedia.org/wikipedia/en/timeline/ce0c88d9e87689179518e09c9ecab7b3.png"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://4.bp.blogspot.com/-xSKJps-dL7c/UY2reIw8l3I/AAAAAAAAAKo/mHwwpLpNVOQ/s1600/Jean-Baptiste+Pointe+Du+Sable.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://www.theclio.com/web/ul/17418.33526.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://farm9.staticflickr.com/8169/7986616921_7f9f9b66ff_z.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://traditionalblackpowderhunting.com/wp-content/uploads/2015/08/Du_Sable_Bust_Chicago.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://www.belpoz.com/spa/_files/spa_album/pic_9247.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Jean_Baptiste_Point_du_Sable_Andreas_1884.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://2.bp.blogspot.com/-Zroc_h7S6EU/TVq3DljjI5I/AAAAAAAAbD8/F2cinUTCWmc/s1600/LI-sculp-4009b.jpg"
+        }
+    }
+}

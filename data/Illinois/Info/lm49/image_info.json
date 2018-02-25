@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://www.famousscientists.org/images/Robert-A-Millikan.jpg",
+            20
+        ],
+        [
+            "https://www.imortuary.com/images/geo/illinois/dahinda/DahindaDowntown.jpg",
+            29
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://farm6.staticflickr.com/5275/7375073482_de439783da_z.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20080909_Robert_A._Millikan_House.JPG/1920px-20080909_Robert_A._Millikan_House.JPG"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c2.staticflickr.com/4/3082/3196426161_fe2b2bcb15_z.jpg?zz=1"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://i.pinimg.com/originals/f0/2e/05/f02e05babc5bb3c1a868125f131beacc.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.mcnees.org/architecture/prairie_arch_images/illinois/prairie-arch-Decateur-Irving-Hse-2-Miliken-we-so-4329-remc.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://www.zunoconstructioninc.com/image/32037086_scaled_1036x777.JPG"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Robert_Silhan_House%2C_Berwyn%2C_IL.jpg/1280px-Robert_Silhan_House%2C_Berwyn%2C_IL.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://ssl.cdn-redfin.com/photo/68/mbpaddedwide/058/genMid.09503058_0.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://i.pinimg.com/736x/ab/9d/cb/ab9dcbca29fedc140cfb81806b838411.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://i.pinimg.com/736x/0a/1a/17/0a1a17cb94c489b6243c240c31840e54.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://i.pinimg.com/564x/2c/2b/ef/2c2bef901903f62d8f61f1f7f3374577.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://www.poorwilliam.net/pix/millikan.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://i.pinimg.com/236x/b8/7b/f8/b87bf8c7a3353dd4d1f9789ad00609b9.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/South_Dearborn_Street_060409.jpg/600px-South_Dearborn_Street_060409.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "https://ilgiliforum.com/resim/2013/01/251/71423_dr_robert_milikanin_nobel_odullu_unlu_bir_evrimci.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Robert_Andrews_Millikan_1920s.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://www.harnackhaus-berlin.mpg.de/11999/Harnack_Haus_Geschichte_01-1354280499.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://www.enciklopedija.hr/Ilustracije/HE7_0035.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://www.brandesautographs.com/media/catalog/product/cache/2/image/535x/602f0fa2c1f0d1ba5e241f914e856ff9/6/0/6016613.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://timelineadrianavolgaf.wikispaces.com/file/view/robertmillikaboil_drop.jpg/95888574/425x238/robertmillikaboil_drop.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 30,
+            "source_url": "http://timelineadrianavolgaf.wikispaces.com/file/view/robertmillikaboil_drop.jpg/95888574/400x275/robertmillikaboil_drop.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://c2.staticflickr.com/4/3440/3196427897_cfabb5c455_z.jpg?zz=1"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Old_Main_Knox_College.jpg/600px-Old_Main_Knox_College.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://scarc.library.oregonstate.edu/coll/pauling/catalogue/09/1948i.62-400w.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://farm8.staticflickr.com/7016/6577550511_a5f9ee44fb_z.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://www.mcnees.org/architecture/prairie_arch_images/illinois/decatur/prairie-arch-Decateur-Irving-hse-2-miliken-so-ea-4336-remc.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://c1.staticflickr.com/3/2630/3891442950_bba51a9769_z.jpg?zz=1"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Robert_S._Abbott_House%2C_4742_Martin_Luther_King_Drive%2C_Chicago_Cook_County%2C_Illinois.jpg/619px-Robert_S._Abbott_House%2C_4742_Martin_Luther_King_Drive%2C_Chicago_Cook_County%2C_Illinois.jpg"
+        }
+    }
+}

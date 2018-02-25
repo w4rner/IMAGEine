@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://riversong.files.wordpress.com/2014/05/kincaid-site-s-illinois.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://farm4.staticflickr.com/3254/2987773472_1dfcab5ab2_z.jpg?zz=1"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://sites.google.com/site/southernmostil/_/rsrc/1472877783260/prehistory/kincaid1/kincaid2.JPG"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://i.ytimg.com/vi/2YWrsOKnzko/0.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.chromesun.com/Illustrations/Publications/KincaidKiosk_HRoe_2007.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://enjoyillinois.com/assets/Tourism-Operators/images/_resampled/CroppedFocusedImageWyI4MDAiLCI2MDAiLCJ4Iiw0OV0/Kincaid-kiosk-and-mound2.JPG"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://c1.staticflickr.com/3/2674/3690677685_8cee0fcc55_z.jpg?zz=1"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://i.pinimg.com/736x/a1/df/60/a1df60476bb3460d6a6e2db78215a959.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://i.ytimg.com/vi/i1Ww0gAtctI/0.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://www.kincaidmounds.com/Images/Figure%201.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://www.kincaidmounds.com/Images/Mounds%20Map%20large.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "https://www.archaeological.org/sites/default/files/styles/medium250/public/project_photo_2617.JPG?itok=9m1abBs2"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "https://i.ytimg.com/vi/jqRqemS5xwQ/hqdefault.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.writework.com/uploads/4/48780/english-image-kincaid-site-massac-co-illinois.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/b/7f/b7f67e3d-f7bc-50ef-b836-413c683742f3/568d6f006c568.image.jpg?resize=1766%2C1173"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://mw2.google.com/mw-panoramio/photos/medium/1946354.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://i290.photobucket.com/albums/ll273/wereracd/summer08049-1.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://sites.google.com/site/southernmostil/_/rsrc/1472877780000/prehistory/kincaid1/averylake3.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://www.archaeological.org/sites/default/files/flannery_3.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/2/24/2242c353-465f-5101-9336-eb604a75f4c2/55c2b19a6bc5c.image.jpg?resize=1200%2C761"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "https://www.bandbhomes.com/sites/default/files/styles/full800/public/projects/Kincaid%20Home0001.jpg?itok=aUnafWss"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "https://sites.google.com/site/southernmostil/_/rsrc/1472877782044/prehistory/kincaid1/kincaid4.jpg?height=189&width=200"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 30,
+            "source_url": "https://sites.google.com/site/southernmostil/prehistory/kincaid1/kincaid3.jpg?attredirects=0"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Chromesun_kincaid_site_01.jpg/125px-Chromesun_kincaid_site_01.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kincaid_Mounds_State_Historic_Site_HRoe_2012.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kincaid_Mounds_1300_CE_HRoe_2017.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/9a1f3009-966e-4218-97d6-2867a2ddc814_d.JPG"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://sites.google.com/site/southernmostil/_/rsrc/1472877778693/prehistory/kincaid1/kincaid6.jpg?height=178&width=420"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://s3.amazonaws.com/gs-geo-images/3341d430-b94b-4897-aea4-2c3f5f29fcd2.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://enjoyillinois.files.wordpress.com/2011/10/kincaid-mounds.jpg"
+        }
+    }
+}

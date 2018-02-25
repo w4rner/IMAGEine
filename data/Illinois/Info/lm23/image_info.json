@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://i2.wp.com/www.trendygroom.com/wp-content/uploads/2015/07/Fort-de-Chartres-Engagement-Session-3.jpg?resize=600%2C400",
+            22
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://static.panoramio.com/photos/large/12443703.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://static.panoramio.com/photos/large/12443740.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://www.ameriquefrancaise.org/media-6947/fort_chartres_19.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://i.pinimg.com/564x/e0/cd/d9/e0cdd985e8e9d93ead35af4ffc714b91.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.ameriquefrancaise.org/media-6930/fort_chartres_1.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://2.bp.blogspot.com/_vb_Yo_ELC48/TIqT9ENjlCI/AAAAAAAAf-g/MBCE4K1CxVA/w1200-h630-p-nu/Fort_de_Chartres-front_curtain_and_gatehouse.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://farm4.staticflickr.com/3101/3173628987_6dda49671f_z.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/c1/dc18c89d-a641-514e-9d78-91379c7bb05e/515478ad0ef9b.preview-620.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://photos.legendsofamerica.com/img/s10/v108/p738530422-3.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://c8.alamy.com/comp/A6MC8K/fort-de-chartres-state-historic-site-near-prairie-du-rocher-il-A6MC8K.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://i.pinimg.com/736x/95/2e/50/952e506d09d65af4be3599518d81f6a5.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://flintknapper.com/Fort07-6CB.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://fortwiki.com/images/thumb/0/07/Fort_De_Chartres_Land_Gate_-_4.jpg/300px-Fort_De_Chartres_Land_Gate_-_4.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://static.panoramio.com/photos/large/4380702.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://www.militaryghosts.com/fortc1.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://camelsnose.files.wordpress.com/2009/11/img_2520.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://media.connectingstlouis.com/500/fort-de-chartres-illinois-13.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://i.pinimg.com/736x/4d/3e/69/4d3e69dc3de0fc8fa4a2c96aa0475ef2.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://www.destination360.com/north-america/us/illinois/images/s/fort-de-chartres.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://fort.de.chartes.tripod.com/sitebuildercontent/sitebuilderpictures/fieldtrip.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://i.pinimg.com/originals/06/96/2e/06962e4095504326c634217baa3d00a8.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "http://lcweb2.loc.gov/service/pnp/habshaer/il/il0500/il0591/photos/063492pv.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.ameriquefrancaise.org/media-6932/6932_fort_chartres_3.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://static.panoramio.com/photos/large/12443729.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://camelsnose.files.wordpress.com/2009/11/img_2466.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://static.panoramio.com/photos/large/59846303.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fort_de_Chartres_02Aug2007-32.jpg/1200px-Fort_de_Chartres_02Aug2007-32.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://thoughtsfromthehighway.files.wordpress.com/2012/11/fort-de-chartres_jpg.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://1.bp.blogspot.com/-UgKF-af3gMs/WCOeKqe6UgI/AAAAAAAAKD0/7N5JI88QlkIlO6juAjO7TPM9XXMaOn9bwCLcB/w1200-h630-p-k-no-nu/DSCF0648.JPG"
+        }
+    }
+}

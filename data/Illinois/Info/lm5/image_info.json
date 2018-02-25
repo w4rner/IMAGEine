@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://i.pinimg.com/564x/53/62/ca/5362cabb2a45ff7199d63ed2e5836113.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://i.pinimg.com/originals/c2/69/6e/c2696eb6eed92ef90482db791b3b0b20.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c2.staticflickr.com/4/3527/5816612312_c84f2382e1_b.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.paulrwilliamsproject.org/site_files/images/061347pv-thumb5.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://1.bp.blogspot.com/_0bRrhyfW294/S-ytBnWI8NI/AAAAAAAABJM/1knRWLzdNOg/s1600/bw+ss.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://i.pinimg.com/736x/fa/83/e7/fa83e7fdb0ffbd89fe49b8cd3d79cfe8.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://i.pinimg.com/originals/a0/f0/d6/a0f0d696fb54634ce17da90e0d807db6.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://urbangreenberg.files.wordpress.com/2008/10/kveus1444s.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://1.bp.blogspot.com/-ab2s9jKPAvg/USWccjRcZlI/AAAAAAAAdXc/sjkbIcOVJik/s1600/peoria+3.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://c1.staticflickr.com/1/69/170659365_4f041fd744_b.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://i.pinimg.com/736x/c8/b0/fd/c8b0fd1c02b64c4d817b231bb78b60cc.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Carson_Pirie_Scott_building%2C_Chicago%2C_Illinois_-_Louis_Sullivan.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "https://farm8.staticflickr.com/7014/6607187427_52ff3c783b_z.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://i.pinimg.com/originals/d3/f6/64/d3f664a0e2135db1a1cadf296afa7fe6.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://4.bp.blogspot.com/-xPxyfxPvcJw/USWcc5LMslI/AAAAAAAAdXg/O-k_xGJDDDw/s1600/peoria.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "https://i.pinimg.com/736x/0c/03/b4/0c03b49415caa9f6e52b31253a4bd70c.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "https://i.pinimg.com/originals/62/57/80/625780e9ebde0b61583be46494466faa.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Carson,_Pirie,_Scott_and_Company_Building_1_South_State_Street_entrance.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://4.bp.blogspot.com/-2PNEa0kp878/TmYvPomyrMI/AAAAAAAAstw/p8YXFW-8BTk/s1600/PHOTO+-+CHICAGO+-+CARSON+PIRIE+SCOTT+DEPARTMENT+STORE+-+STATE+STREET+ENTRANCE+-+1985.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "http://2.bp.blogspot.com/-1_u1XCYIpeM/USWcasYmHjI/AAAAAAAAdWY/1Ftx9oE3bfs/s1600/decatur.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage/carsonpiriescott1910.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://c2.staticflickr.com/8/7275/7652813096_ecc0eaf447_b.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "http://78.media.tumblr.com/3c39c588e123a05f9fd4d20362f15004/tumblr_nbc831K9Ty1qd9dz2o1_500.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://media1.britannica.com/eb-media/54/19654-004-550880EC.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx6_7LJJaRFwA.3CjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519558011/RO=11/RU=https%3a%2f%2fs-media-cache-ak0.pinimg.com%2f736x%2fdb%2f58%2fe7%2fdb58e71ed918c2d6704f377c0b9f328e.jpg/RK=2/RS=Gqr3_9hFxn.hfYcnrk3E3fGLLSw-"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://i.pinimg.com/736x/e6/25/7f/e6257ff6c40d2614d8f9b77c79fc6c63.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://c7.alamy.com/comp/BXR4EW/carson-pirie-scott-and-company-building-1-south-state-street-chicago-BXR4EW.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://www.avenuedstereo.com/modern/sullivan_carson.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://c2.staticflickr.com/6/5296/5554349510_bfa7e9d904_z.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://i.pinimg.com/736x/27/fb/1b/27fb1bf6f055332571ee219aa0c2b6c4.jpg"
+        }
+    }
+}

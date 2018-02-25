@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://makeitbetter.net/wp-content/uploads/2015/12/travel-Galena-Ulysses-S-Grant-home.png",
+            20
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/1f/2d/a3/galena.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://www.planetware.com/photos-large/USIL/illinois-galena-ulysses-s-grant-home.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://c8.alamy.com/comp/BBKGR0/president-ulysses-s-grant-home-in-galena-illinois-BBKGR0.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.suitcasesandsippycups.com/wp-content/uploads/2012/02/grant-house-galena-il.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://i.pinimg.com/originals/b0/1a/d9/b01ad981ea77ad63efdee5bd3f8a589b.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://travelgardeneat.files.wordpress.com/2012/10/galena-grant-house-1-10_20_12.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://i.pinimg.com/736x/34/33/65/343365ce86023a90df53ae9ecdb5e845.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://static.panoramio.com/photos/large/58136014.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://1.bp.blogspot.com/-U6CknlaYDK8/U-I6-ImAVDI/AAAAAAAAD0I/N5TNt4qO33g/s1600/Ulysses+S.+Grant+Home+3.JPG"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://static.panoramio.com/photos/large/18025995.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://1.bp.blogspot.com/-APWutxOC2O4/WRd0EOh3CjI/AAAAAAAACSM/BoHRp5DZVRgHj6WlyF3FKh78P2yMKgE9wCLcB/s1600/Galena%252C%2BIL%2BTrip%2B2017-14.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/b0/8e/c1/ulysses-s-grant-s-home.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://static.panoramio.com/photos/large/14598917.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.destination360.com/north-america/us/illinois/images/s/illinois-grant-home.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://ironbrigader.com/wp-content/uploads/2012/07/U.S.-Grant-Home-Galena-Il-1024x823.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://farm1.staticflickr.com/99/257914917_b913e69959.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "https://3.bp.blogspot.com/-o0dhtW5i_Gk/V7jUPCS0W8I/AAAAAAAAUko/utURmXqf0ooWKAyNS_iabL8I9sN_FIWXwCLcB/s1600/ush1.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://i.pinimg.com/736x/79/4d/8f/794d8f178a2245c13c7dd9487918098e.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/04/23/3d/ac/ulysses-s-grant-home.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "https://3.bp.blogspot.com/-X9yov-FdFMw/WRd0EDuFDzI/AAAAAAAACSI/eJHIPLiKhm0qH7m8_dJHF-zwtqdamHM4QCLcB/s1600/Galena%252C%2BIL%2BTrip%2B2017-8.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "http://1.bp.blogspot.com/-JOGQe5VyTgQ/U-I68wXhs8I/AAAAAAAAD0A/SFu1_2jTjWE/s1600/Ulysses+S.+Grant+Home.JPG"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 30,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/09/0c/72/af/ulysses-s-grant-home.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.vacationgalena.com/wp-content/uploads/2014/10/Ulysses-S-Grant-Home-Galena-Illinois.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://c8.alamy.com/comp/BBKGRF/president-ulysses-s-grant-home-in-galena-illinois-BBKGRF.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://i.pinimg.com/736x/97/42/90/9742904b00c04e7535bb3a463a229673.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://i.pinimg.com/736x/46/98/9f/46989f85b44ed116c26ccdecd0fa73e7.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://icons-ak.wunderground.com/data/wximagenew/w/webgal/180-800.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/USGrantHomeGalena.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Galena_IL_U.S._Grant_Home1.JPG"
+        }
+    }
+}

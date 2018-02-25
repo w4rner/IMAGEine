@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/20080909_Arthur_H._Compton_House.JPG/1200px-20080909_Arthur_H._Compton_House.JPG"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://c2.vgtstatic.com/thumbll/2/0/205168-v1/arthur-h-compton-house.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Theurer-Wrigley_House_Lake_View_Ave.jpg/600px-Theurer-Wrigley_House_Lake_View_Ave.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://p.rdcpix.com/v02/lddc95244-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://p.rdcpix.com/v01/lde5a3b44-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://cdn.cbhomes.com/s3/mediasvc-prd/properties/8027f6a2a45b8ea3-08863816.jpg?preset=lmain"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://p.rdcpix.com/v01/l4f0b3a45-m2xd-w1020_h770_q80.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://p.rdcpix.com/v02/lf002eb43-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://ap.rdcpix.com/2076231489/cb668af6b59e9ab9ff4983974e529ae9l-m0xd-w480_h480_q80.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://p.rdcpix.com/v01/ldf995d45-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://ap.rdcpix.com/1688084290/d3f1501a85d0923d82812869ca64b3e7l-m0xd-w1020_h770_q80.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://cdn.cbhomes.com/s3/mediasvc-prd/properties/dB0746b301eF4A9-09607274.jpg?preset=lcarouselcrop"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "https://p.rdcpix.com/v02/l6f8b7a44-m0xd-w1020_h770_q80.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://c2.staticflickr.com/8/7080/7373049818_c751dc5a41_b.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "https://ap.rdcpix.com/894045351/4bce95e69b815617afc4f0f0d97aba2al-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://ap.rdcpix.com/1653027298/cd734aaba1d3ac44d9c73e88b9cd6ec5l-m0xd-w480_h480_q80.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://p.rdcpix.com/v01/l265baa44-m0xd-w400_h300_q80.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://p.rdcpix.com/v01/le36f7d44-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://ap.rdcpix.com/1940421965/b01e8e638736766dfb75ff428762234el-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "http://www.math.uwaterloo.ca/tsp/us/img_pic_chicago/q116.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "https://ap.rdcpix.com/356227738/cdcf1533fed0f3a2be534405d8f1d625l-m1xd-r3_w60_h60_q80.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "http://ap.rdcpix.com/1714321464/e673117bc8e40c72b42f4e7ea796abbel-m0xd-w480_h480_q80.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "http://p.rdcpix.com/v01/l2c957e45-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://www.atomicheritage.org/sites/default/files/Arthur%20Compton%20House%20zol87%20flickriver.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://ap.rdcpix.com/1273930254/f527ddbd9b235886bb265de84e6fe704l-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://farm3.staticflickr.com/2912/14651644505_332b210b83_b.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://ap.rdcpix.com/656982326/8f7c72e28c35661290ad753045509fdbl-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://www.homesbymarco.com/pics/homes/large/1693419/29w345_arthur_compton_ct_warrenville_il_01.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://p.rdcpix.com/v01/le3411f45-m0xd-w640_h480_q80.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://ap.rdcpix.com/466281395/cc013093390639991847d492995799e6l-m0xd-w640_h480_q80.jpg"
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Montgomery_Ward_Catalogue_House.JPG/1200px-Montgomery_Ward_Catalogue_House.JPG"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://i.pinimg.com/736x/7e/c9/cf/7ec9cfa8b7cbaed60389a357f3b72c17.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c1.staticflickr.com/5/4073/4957529852_323e99b8be_b.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://thetrolleydodger.files.wordpress.com/2015/03/img594.jpg?w=665&h=458"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://billpomerenk.com/travel/natl_hist_landmarks/NHL_pages/Pictures/Illinois/DSC01121.JPG"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://condorpartners.net/wp-content/uploads/2014/09/Montgomery-e1411752914479-1024x695.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://img1.etsystatic.com/170/0/5744229/il_340x270.1153833739_912f.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "https://i.pinimg.com/736x/fc/6a/4e/fc6a4e3c364fbc811bd243d4bb03363c.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "https://www.cardcow.com/images/set347/card00446_fr.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 19,
+            "source_url": "http://condorpartners.net/wp-content/uploads/2014/09/montgomery-2-e1411752871131-1024x696.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 20,
+            "source_url": "https://www.cardcow.com/images/set593/card00991_fr.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 21,
+            "source_url": "http://l7.alamy.com/zooms/698dc9c23c7443c7bb7bc02b8c5a79c7/montgomery-ward-store-at-serramonte-shopping-center-daly-city-california-c4fwx1.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "https://c2.staticflickr.com/8/7243/7267203954_3bd1b0355f_b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://imageserver-bisnow1.netdna-ssl.com/Pywtc-fKdaAV29Dbs7z0Hg7VxS0=/710x484/publisher/58f0bf6eecb47_Montgomery_Ward_Company_Complex_4.jpeg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.angelfire.com/rnb/lecentre1/wardsmolineil.JPG"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "https://www.cardcow.com/images/set236/card00447_fr.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 25,
+            "source_url": "https://i.pinimg.com/736x/95/f2/b9/95f2b98e3518976ffdfdff36946369ed--montgomery-ward-mount-vernon.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 27,
+            "source_url": "http://www.billburmaster.com/lecentre/images/wardschicagoil_frd2.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.angelfire.com/rnb/lecentre1/montgomerywardsburlingtonia.JPG"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 29,
+            "source_url": "http://condorpartners.net/wp-content/uploads/2014/09/the-Montgomery-Club-Superior-Room-Bar1-e1411753089455.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 30,
+            "source_url": "http://site.scripophily.net/yswimages/mowacoil192.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 31,
+            "source_url": "http://nyx.uky.edu/dips/xt702v2c8t1s/data/96pa101_1930_1939/96pa101_1930_1939_954a_p/96pa101_1930_1939_954a/96pa101_1930_1939_954a.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 32,
+            "source_url": "http://www.angelfire.com/rnb/lecentre1/wardsdwightil.JPG"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://il9.picdn.net/shutterstock/videos/5141600/thumb/1.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Montgomery.jpg/1200px-The_Montgomery.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://www.math.uwaterloo.ca/tsp/us/img_pic_chicago/q341.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://c2.staticflickr.com/8/7279/7853516408_2e130ef495_z.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://yunc.net/bbs/icon/member_image_box/82/USA-066.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://img0.etsystatic.com/139/0/5744229/il_fullxfull.979779196_eanp.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit-of-Progress-01.jpg/220px-Spirit-of-Progress-01.jpg"
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Abraham_Lincoln_Tomb_Springfield_Illiois.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lincoln_Tomb_in_Spring.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lincoln%27s_Tomb.JPG"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://static.panoramio.com/photos/large/10150123.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.firelightpublishing.com/gallery/large/Lincoln_tomb_2010_219.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://static.panoramio.com/photos/large/9156244.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "http://i.pinimg.com/736x/2f/4d/1e/2f4d1e45cfc9e3d303ed87f021fb0a3c.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://i.pinimg.com/736x/88/4d/ce/884dcebc22f803b12edb280fa92c2432.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://farm4.staticflickr.com/3455/3809399911_f837c87958_z.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://farm9.staticflickr.com/8151/7167048461_e152db393c_z.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "http://static.panoramio.com/photos/large/1270436.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://i.pinimg.com/736x/9c/72/e4/9c72e4f1e8a8121274b859cb731a7cfc.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://www.wrhammons.com/lincolnstomb.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://static.panoramio.com/photos/large/5729629.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://1.bp.blogspot.com/-G5UbmjhXXRo/UFVz7lBvPAI/AAAAAAAAD0g/Tj-KlT2KVq8/s1600/IMG_5867.JPG"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "https://farm3.staticflickr.com/2521/3809399887_1b37df52d3_z.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201505/402850017.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "http://3.bp.blogspot.com/_RGgtQyYhJv8/S8ZYuRlp-PI/AAAAAAAAAiU/qhilKaphsCU/s1600/DSCN2082.JPG"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "https://i.pinimg.com/736x/ed/a5/7a/eda57aef53fe0212f642cfd43a98a076.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "http://i.pinimg.com/originals/61/e1/07/61e10755e65582521466c5135e435590.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "http://www.planetware.com/i/photo/lincolns-tomb-state-historic-site-springfield-il225.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://i.pinimg.com/564x/06/80/a4/0680a4f2f0d88496c2621039cecc20ec.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "https://c2.staticflickr.com/8/7384/12146733863_589f2a8618_z.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://i.pinimg.com/736x/70/29/3d/70293df6b8031cc282652b4314cb125d.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://pics4.city-data.com/cpicv/vfiles2623.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://2.bp.blogspot.com/-km_QuYAXd3c/TjTBvCNv10I/AAAAAAAAB0w/6IFvdNC_7cI/s1600/050.JPG"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://djtravel.homestead.com/files/LincolnTomb.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://1.bp.blogspot.com/-rGtqnbgH1Ok/TmgqE09AxAI/AAAAAAAACR0/onpfsuvspro/s1600/2011-09-06+15.45.40.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://farm8.staticflickr.com/7318/9342844273_2b919e43d7_z.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://galenf.com/us/us153.jpg"
+        }
+    }
+}

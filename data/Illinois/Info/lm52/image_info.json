@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://illinoisalumni.org/wp-content/uploads/2016/06/29_WEB_L_MorrowPlots_UI-03-130918-657_ByLBrianStauffer_COUIArchives_2_28.jpg",
+            14
+        ],
+        [
+            "http://dailyillini.com/wp-content/uploads/2016/12/A6_MorrowPlots1.jpg",
+            17
+        ],
+        [
+            "http://farmillinois.org/wp-content/uploads/2015/06/The-Morrow-Plots.jpg",
+            25
+        ],
+        [
+            "http://cdn.onlyinyourstate.com/wp-content/uploads/2016/06/a-279-700x525.jpg",
+            27
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://c2.staticflickr.com/2/1085/537413317_425effc9f4_b.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://dekalbcountyonline.com/wp-content/uploads/2017/01/MorrowPlots1.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Morrow_Plots_University_of_Illinois_at_Urbana-Champaign.jpg/1200px-Morrow_Plots_University_of_Illinois_at_Urbana-Champaign.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://testimages.tourtheten.com/wp-content/uploads/2012/06/IMG_2458-300x225.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://s3.amazonaws.com/media.wbur.org/wordpress/11/files/2014/07/0714_morrow-plots2-624x436.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://www.ilfbpartners.com/wp-content/uploads/2017/11/149SPR18SUB002-657x440.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://aminus3.s3.amazonaws.com/image/g0008/u00007126/i00237972/a2118b25fe4876170e79251fd208c452_large.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 18,
+            "source_url": "https://www.prismnet.com/~davedave/v2004/Illinois/MorrowTwo.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 19,
+            "source_url": "http://1.bp.blogspot.com/_umhm8qcF5ic/THJ7S7E1j_I/AAAAAAAAA5M/WvmkE2Hp9ZM/s1600/CrossCountry2010+026.JPG"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 20,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UIUC_20071006_img_2298.jpg/100px-UIUC_20071006_img_2298.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Morrow_Plots_UIUC.JPG/1200px-Morrow_Plots_UIUC.JPG"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "http://nue.okstate.edu/Long_Term_Experiments/ASA_Long_Term_Plots/Sanborn002.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 23,
+            "source_url": "https://www.prismnet.com/~davedave/v2004/Illinois/MorrowOne.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/UIUC_morrow_plot.JPG"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 24,
+            "source_url": "http://publish.illinois.edu/lfr/files/2016/01/IMG_1382-1.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 26,
+            "source_url": "http://publish.illinois.edu/undergradlibrary/files/2017/05/18337409_1581928465152692_180043839_n.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.pnmmedia.com/uploads/8/3/4/2/8342307/3548831_orig.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 29,
+            "source_url": "http://1.bp.blogspot.com/_x_y92RbfgCk/TJUzp9AKA1I/AAAAAAAAAP4/odUkl0Ihszg/s1600/091410+Morrow+Plots.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 30,
+            "source_url": "https://www.prismnet.com/~davedave/v2004/Illinois/UGLibrary.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://i.pinimg.com/736x/c1/78/1e/c1781e1020428eb4fb1211b39f77e73a.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://theblacksheeponline.com/wp-content/uploads/2016/10/VirginSacrifice.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://uihistories.library.illinois.edu/virtualtour/landmarks/morrowplots/45045_l.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/92ce65d8-0bff-42c8-9999-c92099bc63df_d.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://i.pinimg.com/736x/b4/fd/62/b4fd6266ee9785c97244c100d0e34d73--college-school-college-life.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://i.pinimg.com/736x/06/3e/dd/063edd21116a37fff438c21fd74e952c.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://media.mnn.com/sites/default/files/morrow.jpg"
+        }
+    }
+}

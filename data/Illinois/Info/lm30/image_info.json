@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://hegelercarus.org/wp-content/uploads/2014/02/jwh-exterior.jpg",
+            19
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://cgarchitecturalphotography.com/wp-content/uploads/2013/06/HegelerCarusMansion20130623003-1024x679.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://2.bp.blogspot.com/-vYQQwoK5-z8/UQm_wyV8JmI/AAAAAAAAE2g/i051Bv1_bnI/s1600/Hegeler+Carus+Hegeler+Mansion+(East+Side)+at+Sunrise+Joe+Balynas.JPG"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://i.pinimg.com/736x/1f/f1/60/1ff1605247dd72db6e57ad25ca8e78e5.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/08/63/bc/f6/side-view-of-the-hegeler.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/03/ef/b0/90/the-hegeler-carus-mansion.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://2.bp.blogspot.com/-mlhKsPnvMy0/UQnAO4uydhI/AAAAAAAAE2o/-1DMnF0bfjs/s1600/Hegeler+Carus+Mansion.JPG"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "http://img.gawkerassets.com/img/18ju8xadmxvcsjpg/ku-xlarge.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://farm7.staticflickr.com/6215/6272752170_e1c075db28_z.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://3.bp.blogspot.com/-P6_OSN7kmO0/VIhuQxDhTdI/AAAAAAAAZtc/GsAJ2x_YLYE/s1600/Hegeler%2BCarus%2BMansion.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://2.bp.blogspot.com/-hBPJdECQUQ0/TePj6QKr6PI/AAAAAAAAEGk/0P1x2jkUe5k/s1600/110507%2BHegeler.JPG"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://i.pinimg.com/564x/6f/be/4a/6fbe4a8fb8d191d1c940271d68404d15.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://i.pinimg.com/736x/c6/60/fd/c660fdad9d3067a00dc3975f40182088.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://cgarchitecturalphotography.com/wp-content/uploads/2013/06/HegelerCarusMansion20130623006.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://i.pinimg.com/736x/92/09/87/92098726361ac3f5518a49915c027975.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://lcweb2.loc.gov/pnp/habshaer/il/il0900/il0937/photos/363318pv.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://3.bp.blogspot.com/-j-vX0rymNbQ/UQnCjiSkYxI/AAAAAAAAE24/7BYZjUt9J5w/s1600/Hegeler+Carus+Mansion+(South+Side).JPG"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/03/ef/b0/8f/the-hegeler-carus-mansion.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://78.media.tumblr.com/tumblr_ljo0mufzyZ1qzzmkno1_1280.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://breezecourier.com/SiteImages/Article/OriginalSize/150165a.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://www.chicagoillinoisweddingphotography.com/uploads/2011/10/hegeler-carus-mansion.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "https://c1.staticflickr.com/9/8400/8652119205_88d9a16112_z.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "https://i.pinimg.com/736x/fa/59/a0/fa59a0c99c4979a76d77722c705014f0.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://1.bp.blogspot.com/-EojWebCVJYI/TiS9j9f5ZYI/AAAAAAAAAF4/Ksz2TJJscvA/s1600/11-07-18+Hegeler+Carus+Mansion.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hegeler-Carus_Mansion_%288765254143%29.jpg/1200px-Hegeler-Carus_Mansion_%288765254143%29.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://c1.staticflickr.com/1/82/212176187_417956bd80_b.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://cgarchitecturalphotography.com/wp-content/uploads/2013/06/HegelerCarusMansion20130623004-1024x680.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://cgarchitecturalphotography.com/wp-content/uploads/2013/06/HegelerCarusMansion20130623007.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://cgarchitecturalphotography.com/wp-content/uploads/2013/06/HegelerCarusMansion20130623005-1024x680.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/02/51/d0/c9/the-hegeler-carus-mansion.jpg"
+        }
+    }
+}

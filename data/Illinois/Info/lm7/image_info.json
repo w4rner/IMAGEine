@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://i1.trekearth.com/photos/125471/ghf.jpg",
+            1
+        ],
+        [
+            "http://holeinthedonut.com/wp-content/uploads/2015/01/Illinois-Chicago-Board-of-Trade-Building-art-deco-facade.jpg",
+            4
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://c8.alamy.com/comp/D2R892/chicago-board-of-trade-building-downtown-chicago-illinois-united-states-D2R892.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 2,
+            "source_url": "http://imgc.allpostersimages.com/images/P-473-488-90/37/3767/INOZF00Z/posters/board-of-trade-building-chicago-illinois.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "https://farm7.staticflickr.com/6160/6198996793_7ba0a66f7d_z.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 14,
+            "source_url": "http://s3.amazonaws.com/architecture-org/files/buildings/chicago-board-of-trade-07-ear-2.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 15,
+            "source_url": "http://l450v.alamy.com/450v/dyxay9/chicago-board-of-trade-building-lasalle-street-chicago-il-dyxay9.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 16,
+            "source_url": "http://c8.alamy.com/comp/DDNT39/usa-illinois-chicago-chicago-board-of-trade-building-and-carved-name-DDNT39.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 17,
+            "source_url": "http://n7.alamy.com/zooms/a5cd9311d44249949e9d2ae4f9ea202f/chicago-board-of-trade-building-chicago-illinois-the-art-deco-building-f6b7n8.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 18,
+            "source_url": "http://static.panoramio.com/photos/large/44510505.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 19,
+            "source_url": "https://replicabuildings.com/images/souvenir-building-replica-board-of-trade-100-1024.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 20,
+            "source_url": "https://www.chicago-photographs.com/wp-content/uploads/2014/03/chicago-board-of-trade-building-photograph.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "http://footage.framepool.com/shotimg/qf/657454702-chicago-board-of-trade-building-wall-clock-financial-district-waving-somebody-waving-a-flag.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "http://c8.alamy.com/comp/ADD8M9/chicago-board-of-trade-building-facade-chicago-illinois-ADD8M9.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 23,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chicago_Board_of_Trade_Building.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 5,
+            "source_url": "https://c1.staticflickr.com/7/6165/6199512940_45dec25328_z.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 24,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/01/1f/f0/e2/chicago-board-of-trade.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 25,
+            "source_url": "http://68.media.tumblr.com/tumblr_ldv3q34aq81qe7vo3o1_1280.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 26,
+            "source_url": "http://imgc.allpostersimages.com/images/P-473-488-90/37/3767/UXOZF00Z/posters/board-of-trade-building-chicago-illinois.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 27,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx6.dMZJaumoAFwyjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519559197/RO=11/RU=https%3a%2f%2ffarm4.staticflickr.com%2f3673%2f11004312754_86a12ffcc7_k_d.jpg/RK=2/RS=7ijvZJoedKA4S8.ldY7_4Si7i_I-"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 28,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chicago_Board_of_Trade_Building8.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 29,
+            "source_url": "http://s3.amazonaws.com/architecture-org/files/modules/cbot-building-eric-allix-rogers-01.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 30,
+            "source_url": "http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/lasalle-street-canyon-with-chicago-board-of-trade-building-at-the-south-side-ii-chicago-illinois-silvio-ligutti.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 6,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Chicago_Board_Of_Trade_Building.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 7,
+            "source_url": "http://en.academic.ru/pictures/enwiki/67/Chicago_Board_Of_Trade_Building.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 9,
+            "source_url": "http://photos.wikimapia.org/p/00/02/24/15/75_big.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 10,
+            "source_url": "https://onholidaysagain.com/wp-content/uploads/2016/06/Chicago-Board-of-Trade-Building.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 11,
+            "source_url": "https://farm4.staticflickr.com/3326/3597671438_cd56390ff9_z.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 12,
+            "source_url": "https://farm7.staticflickr.com/6159/6170637863_e2cf0f52f1_z.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 13,
+            "source_url": "http://imgc.allpostersimages.com/images/P-473-488-90/68/6873/656J100Z/poster/amanda-hall-chicago-board-of-trade-building-downtown-chicago-illinois-united-states-of-america.jpg"
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "ERRORS_TEST": [
+        [
+            "http://www.megalithic.co.uk/a558/a312/gallery/The_Americas/USA/Great_Lakes_Midwest/Modoc_IMG_8547.JPG",
+            0
+        ]
+    ],
+    "ERRORS_TRAIN": [
+        [
+            "http://www.naturallyamazing.com/americasparks/981.jpg",
+            17
+        ],
+        [
+            "https://www.naturallyamazing.com/americasparks/983.jpg",
+            20
+        ],
+        [
+            "https://www.naturallyamazing.com/americasparks/982.jpg",
+            26
+        ],
+        [
+            "http://cdn.onlyinyourstate.com/wp-content/uploads/2016/06/a-283-700x524.jpg",
+            29
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://media.connectingstlouis.com/500/modoc-rock-shelter-historical-site-2.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Modoc_Rock_Shelter.jpg/1920px-Modoc_Rock_Shelter.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "http://media.connectingstlouis.com/500/modoc-illinois.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.museum.state.il.us/muslink/nat_amer/pre/images/pre0102_14_250.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://media.connectingstlouis.com/500/modoc-rock-shelter-historical-site-4.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://greatriverroad.com/stegen/randimages/lilpopeye2947.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://www.stateparks.com/images/maps/parks_static/5869.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://media.connectingstlouis.com/500/modoc-rock-shelter-historical-site-3.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 18,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Piney_Creek_South_Site.jpg/100px-Piney_Creek_South_Site.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 19,
+            "source_url": "http://greatriverroad.com/stegen/stgimages/lilkbell2926.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "https://i.pinimg.com/736x/fb/c5/5c/fbc55c15c6ff105beedad924ea2af456--fall-leaves-trout.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "http://o.vgtstatic.com/ic/m/s/l/mid/205249.png"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 23,
+            "source_url": "http://creekbed.org/collection/images/ferrypoint.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.lib.niu.edu/2006/ih050606-2.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 24,
+            "source_url": "http://anthropology.artsci.wustl.edu/files/anthropology/imce/kristi2.JPG"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 25,
+            "source_url": "http://media.connectingstlouis.com/500/fort-kaskaskia-illinois-9.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 27,
+            "source_url": "http://creekbed.org/collection/images/ferry.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.tomgoetz.com/midwest2004/midwest048.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "https://i.pinimg.com/736x/bd/3d/91/bd3d9112b151a3706ad34089b16e15d9.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 6,
+            "source_url": "http://greatriverroad.com/stegen/randimages/modoc141016.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "https://cpb-us-west-2-juc1ugur1qwqqqo4.stackpathdns.com/iblog.iup.edu/dist/6/11/files/2016/07/Modocimages.-1k900ne.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "http://www.lib.niu.edu/2006/ih050606-3.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "https://images-na.ssl-images-amazon.com/images/I/51SlcwxpfgL._SX218_BO1,204,203,200_QL40_.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "http://greatriverroad.com/stegen/randimages/lilcovered6483.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://c2.vgtstatic.com/thumbll/2/0/205249-v1/modoc-rock-shelter.jpg"
+        }
+    }
+}

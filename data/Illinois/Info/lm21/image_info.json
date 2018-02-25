@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://www.landmarks.org/wp-content/uploads/2016/07/farnsworth_house.jpg",
+            2
+        ],
+        [
+            "http://www.archdata.org/img/bldg/806_farnsworth-house_built_exterior_peter-guthrie.jpg",
+            6
+        ],
+        [
+            "https://www.farnsworthhouse.org/wp-content/uploads/2014/10/Main-Image_960x528.jpg",
+            16
+        ],
+        [
+            "https://weburbanist.com/wp-content/uploads/2016/04/midcentury-modern-farnsworth-house-960x640.jpg",
+            25
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://farm1.staticflickr.com/75/172418907_1df156fe11_o.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://www.e-architect.co.uk/wp-content/uploads/2016/02/farnsworth-house-plano-illinois-3.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "https://www.e-architect.co.uk/wp-content/uploads/2016/02/farnsworth-house-plano-illinois-2.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 13,
+            "source_url": "http://i.pinimg.com/736x/5f/b3/da/5fb3da025fb0cae078931efb50c976c7.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 14,
+            "source_url": "https://www.e-architect.co.uk/wp-content/uploads/2016/02/farnsworth-house-plano-illinois-7.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 15,
+            "source_url": "http://4.bp.blogspot.com/-M3NAmklb3aI/U8NETbdhxMI/AAAAAAAAfsE/9KSNMucb3Mo/s1600/IMG_5662.JPG"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 17,
+            "source_url": "https://i.pinimg.com/736x/51/81/57/518157ecc61fd9ab067d196b4b5e0497.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 18,
+            "source_url": "https://saoromaomoveis.files.wordpress.com/2011/06/farnsworth.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 19,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/FarnsworthHouse-Mies-5.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 20,
+            "source_url": "http://www.cgarchitect.com/content/portfolioitems/2012/06/52945/farnsworth_house_large.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/2d/df/c2/farnsworth-house.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "https://c1.staticflickr.com/9/8261/8638013543_807969457c_z.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 23,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/FarnsworthHouse-Mies-1.jpg/1280px-FarnsworthHouse-Mies-1.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "http://4.bp.blogspot.com/-G7iy-IQT0ek/VTWOySj5oBI/AAAAAAAA5f4/vSE57s19J9c/s1600/Farnsworth%2BHouse%2Bde%2BLudwig%2Bvan%2Bder%2BRohe.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 24,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/f1/bf/da/farnsworth-house.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 26,
+            "source_url": "http://farnsworthhouse.org/wp-content/uploads/2011/03/hb-entire-exterior-19841.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 27,
+            "source_url": "https://theredlist.com/media/database/architecture/across_the_landscape/mies_van_der_rohe_farnsworth_house/005_mies_van_der_rohe_farnsworth_house_theredlist.png"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 28,
+            "source_url": "https://www.e-architect.co.uk/wp-content/uploads/2016/02/farnsworth-house-plano-illinois-x130216-wc-520x347.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 29,
+            "source_url": "http://www.cgarchitect.com/content/portfolioitems/2012/05/52397/Farnsworth_House_V09_large.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "https://theredlist.com/media/database/architecture/across_the_landscape/mies_van_der_rohe_farnsworth_house/001_mies_van_der_rohe_farnsworth_house_theredlist.png"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 7,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrB8p8CSpJahksAoNijzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519565442/RO=11/RU=https%3a%2f%2fs-media-cache-ak0.pinimg.com%2f736x%2f7b%2fea%2f55%2f7bea55e62daec2b2d9a03d41396f317b.jpg/RK=2/RS=IgAvynRYoMReHg98pMQGuwI951o-"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 8,
+            "source_url": "http://4.bp.blogspot.com/-qVOEaw1X7G0/TZuzwFRy_wI/AAAAAAAAABk/1lMXPu1uo1k/s1600/03fullfrontal.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 9,
+            "source_url": "https://rdzphotographyblog.files.wordpress.com/2017/10/2017-10-13-13-plano-il-farnsworth-house.jpg?w=924&h=0&crop=1"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 10,
+            "source_url": "http://2.bp.blogspot.com/-x7kg3QtsSvo/TaX3TLveO3I/AAAAAAABthc/yKuiiGqcmh8/s400/Farnsworth%2BOpen.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 11,
+            "source_url": "https://saoromaomoveis.files.wordpress.com/2011/06/farnsworth_house-07.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 12,
+            "source_url": "http://cdn.wedding-spot.com/images/venues/12124/Farnsworth-House-Wedding-Plano-IL-4.1494451277.jpg"
+        }
+    }
+}

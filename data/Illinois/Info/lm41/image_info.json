@@ -1,0 +1,130 @@
+{
+    "ERRORS_TEST": [
+        [
+            "https://livingnewdeal.org/wp-content/uploads/2013/12/1200px-20100801_Alfred_Caldwell_Lily_Pool_from_east-1024x768.jpg",
+            0
+        ]
+    ],
+    "ERRORS_TRAIN": [
+        [
+            "https://livingnewdeal.org/wp-content/uploads/2013/12/1200px-Alfred_Caldwell_Lily_Pool_October-1000x745.jpg",
+            6
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://www.gardenvisit.com/uploads/image/image/154/15422/alfred_caldwell_lily_pond_original.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 2,
+            "source_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bYEY98IZI26NUUVfFcGh4Q/o.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.dayofdreams.com/Venue%20Pages/Alfred%20Caldwell%20Lily%20Pool/Alfred%20Caldwell%20Lily%20Pool%20Image%203.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 13,
+            "source_url": "http://l7.alamy.com/zooms/104de180cfb54f08bb6b051f38f20b10/alfred-caldwell-lily-pool-lincoln-park-chicago-illinois-e78g0k.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 14,
+            "source_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x4P49XJYr57nmo3wTniS1g/o.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 15,
+            "source_url": "http://n7.alamy.com/zooms/9ddc75e97ebf4f7ea9d37f0ad3ce2ff5/alfred-caldwell-lily-pool-the-rookery-lincoln-park-chicago-il-c31g3h.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 16,
+            "source_url": "http://www.aviewoncities.com/img/chicago/kveus3534s.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 17,
+            "source_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9abn797klkWg5umBUcqHqQ/o.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 18,
+            "source_url": "http://l7.alamy.com/zooms/c1e8730e0d4540fc96bd8990ee2d34a9/alfred-caldwell-lily-pool-lincoln-park-chicago-illinois-e78g0h.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 19,
+            "source_url": "http://4.bp.blogspot.com/-0IjOxE3Sc5E/UdnnJCXzWaI/AAAAAAAAC-M/accwpVHUqjg/s1600/Chicago_lily+04.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 20,
+            "source_url": "https://s3-media2.fl.yelpcdn.com/bphoto/65Sf_SYOk6pfJYumPPC9Rg/348s.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 21,
+            "source_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bB5L6PMx9cdOgfA15oXzyA/o.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fR2Mww0SeaTRXhY09lq5dA/l.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.dayofdreams.com/Venues%20in%20waiting/Alfred%20Caldwell%20Lily%20Pool.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/20100801_Alfred_Caldwell_Lily_Pool_from_southsoutheast-2_cropped.jpg/1200px-20100801_Alfred_Caldwell_Lily_Pool_from_southsoutheast-2_cropped.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1l9PWwHrO1ZSH7oByJYq0w/o.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 25,
+            "source_url": "http://lincolnparkconservancy.org/wp-content/uploads/2015/07/LP-Pavilion-in-Spring-for-Upper-Section-1-of-2-SPF-2009.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 26,
+            "source_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UYIAvy2pL7jhQRH6e7vayg/o.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 27,
+            "source_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B_lI1F_3LY1_IDwxn7EXnw/348s.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.dayofdreams.com/Venue%20Pages/Alfred%20Caldwell%20Lily%20Pool/Alfred%20Caldwell%20Lily%20Pool%20Image%205.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3712iJIFo3rDAoSISByiGg/o.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q4zrQx_uSNMNf8r4eUQKMg/o.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 7,
+            "source_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Oy9AZxOVcqW3OXxwF7xPVQ/o.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 8,
+            "source_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HQsyd1pYhX4iWtTO21XxvQ/348s.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 9,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alfred_Caldwell_Lily_Pool_Fall_2010.JPG/543px-Alfred_Caldwell_Lily_Pool_Fall_2010.JPG"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 10,
+            "source_url": "https://i.pinimg.com/originals/a1/f7/b6/a1f7b6fd6a648b7dc3bc826a779c3236.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.dayofdreams.com/Venue%20Pages/Alfred%20Caldwell%20Lily%20Pool/Alfred%20Caldwell%20Lily%20Pool%20Image%206.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.explorechicagoportfolio.com/ecblog/wp-content/uploads/2012/06/alfredcaldwell.jpg"
+        }
+    }
+}

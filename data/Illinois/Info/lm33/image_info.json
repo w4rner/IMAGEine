@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://holeinthedonut.com/wp-content/uploads/2010/02/Hull_House_Museum_Chicago2.jpg",
+            8
+        ],
+        [
+            "http://cdn.ientry.com/sites/webpronews/article_pics/hullhouse555.jpg",
+            25
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://i.pinimg.com/736x/55/80/ee/5580eec02f880de3129a2f2f02f3da76.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://farm8.staticflickr.com/7003/6647694027_be5033819d_z.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://static2.thisisinsider.com/image/57f6a5528c6c5022008b46df-1200/illinois-hull-house-chicago.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wZTZfbfjAPdNeixDy3r-8w/348s.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://1.bp.blogspot.com/-rRSeLyCtmZQ/UEsxyC5P2dI/AAAAAAAAAdQ/ML1oNAelD-o/s1600/hull-house.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "https://www.illinoishauntedhouses.com/real-haunt-photo/jane-addams-hull-house_2298.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://www.illinoishauntedhouses.com/real-haunt-photo/jane-addams-hull-house_2296.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://www.chicagonow.com/chicago-history-cop/files/2012/01/Hull-House-Museum.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://4.bp.blogspot.com/-tC8Ot0_J-d0/US60z2Bb5jI/AAAAAAAAFV8/w1p01y9ButE/s1600/Hull+museum+front.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "https://farm8.staticflickr.com/7007/6803301009_59f8fe58d2_z.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "https://newswise.com/images/uploads/2013/09/24/Hullcampus.JPG"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/20/30/f1/hull-house.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://s3-media3.ak.yelpcdn.com/bphoto/rbLeVoTuOFHbiu9HUoeIfQ/l.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://c0056906.cdn2.cloudfiles.rackspacecloud.com/11642-7.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "https://www.ghostlyactivities.com/wp-content/uploads/2013/06/Chicago-hull-4.grid-6x2.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hull_House_3.JPG"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "https://cgrendering.files.wordpress.com/2012/01/hull2.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 26,
+            "source_url": "https://cdn.theculturetrip.com/wp-content/uploads/2016/02/PHOTO-2_THINGS-TO-SEE-AND-DO-IN-LITTLE-ITALY.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 27,
+            "source_url": "https://farm5.staticflickr.com/4060/4291288422_6c9c36bd68_z.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "https://farm4.staticflickr.com/3484/3928454553_d621e9ab38_z.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hull_House%2C_Chicago%2C_IL.jpg/1200px-Hull_House%2C_Chicago%2C_IL.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://www.enjoyillinois.com/assets/Tourism-Operators/images/itims/25385_hull-house.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hull_House_2.JPG"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://c0056906.cdn2.cloudfiles.rackspacecloud.com/11642-5.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://static.panoramio.com/photos/large/47618050.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "https://media.nbcchicago.com/images/1200*900/hull-house09s.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "https://cardcow.com/images/set448/card00242_fr.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-o/03/3a/1d/24/jane-addams-hull-house.jpg"
+        }
+    }
+}
