@@ -1,0 +1,113 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pontiac_Il_John_R._Oughton_House10.JPG/1024px-Pontiac_Il_John_R._Oughton_House10.JPG",
+            9
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 25,
+            "source_url": "https://3.bp.blogspot.com/-DLFmuIwiwv4/VonHy4HFdQI/AAAAAAAAi8w/pOuihLD4gfU/s1600/Englewood%2BChicago%2BBungalow.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://farm4.staticflickr.com/3163/3911141770_f727e12697_z.jpg?zz=1"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 1,
+            "source_url": "https://farm4.staticflickr.com/3454/3911141688_2c6806c2b9_z.jpg?zz=1"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://media3.trover.com/T/550c36958e7cb2327d000eb2/fixedw_large_4x.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://cdn.patch.com/users/22835664/2015/05/T800x600/2015055554fc45b1077.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bloomington_IL_John_M._Hamilton_House1.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/75f414f5-cc4c-4d5e-aa78-7c7dde8bb841_d.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://c1.staticflickr.com/3/2703/4233141844_a964d8dd5c_b.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/John_Deere_Mansion_Moline.JPG/1200px-John_Deere_Mansion_Moline.JPG"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://c1.staticflickr.com/5/4010/4653119045_15cfa4212d_b.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://farm8.staticflickr.com/7243/7136754637_f62115ca24_z.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://luxport.s3.amazonaws.com/76596/1035%2BSheridan%2BRoad%2BWinnetka%2BIL%2BUSA%2B552404_001_S.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "https://c1.staticflickr.com/3/2580/4184835690_f87a11b052_b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 2,
+            "source_url": "http://c1.staticflickr.com/3/2524/3911141880_54af265a31_m.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "https://c1.staticflickr.com/5/4014/4639267481_e30e3cb2c0_b.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/John_L._Pentecost_House_%28Elmhurst%2C_Illinois%29_01.JPG/1200px-John_L._Pentecost_House_%28Elmhurst%2C_Illinois%29_01.JPG"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://johnsmurrayphotography.homestead.com/files/web107435.JPG"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://homesoftherichest.files.wordpress.com/2009/03/norwichmanor.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 3,
+            "source_url": "https://c1.staticflickr.com/3/2843/9182670387_c3877d4a78_b.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 4,
+            "source_url": "https://c2.staticflickr.com/4/3886/15192395292_41c1f2c626_b.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 5,
+            "source_url": "https://c1.staticflickr.com/3/2648/3910375079_1890f5e854_z.jpg?zz=1"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 6,
+            "source_url": "https://classconnection.s3.amazonaws.com/181/flashcards/2581181/jpg/pleasant_homes1360694723357.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 7,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ottawa_IL_John_Hossack_House1.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 8,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/JLLewisHouse.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ogle_County_Polo_Il_McGrath_House1.jpg/1200px-Ogle_County_Polo_Il_McGrath_House1.jpg"
+        }
+    }
+}

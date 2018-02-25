@@ -1,0 +1,112 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 25,
+            "source_url": "https://www.rockforddiocese.org/images/parishes/gallery/75/Holy-Family-Rockford-IL-02.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://www.illinoisinfocus.com/uploads/5/6/3/9/5639843/6641155_orig.jpg?808"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Holy_Family_Log_Church_Cahokia_063.jpg/1200px-Holy_Family_Log_Church_Cahokia_063.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 10,
+            "source_url": "https://farm4.staticflickr.com/3817/9820680663_e499448061_z.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 11,
+            "source_url": "https://1.bp.blogspot.com/_ICCoEC9hSwc/Rzk-YlL9bNI/AAAAAAAADps/zrdVEyG4guI/s400/Holy+Family+Roman+Catholic+Log+Church,+in+Cahokia,+Illinois,+USA+-+exterior.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 12,
+            "source_url": "https://farm2.staticflickr.com/1031/1261327663_216a4c6693.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 13,
+            "source_url": "http://media.connectingstlouis.com/500/holy-family-catholic-church-cahokia-2.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 14,
+            "source_url": "http://photos1.blogger.com/blogger/501/687/1600/Holy%20Family%20Log%20Church.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 15,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Church_of_the_Holy_Family%2C_State_Route_157%2C_Cahokia_%28St._Clair_County%2C_Illinois%29.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 16,
+            "source_url": "http://1.bp.blogspot.com/-Udcmo5eH_PA/Uj9XqYs90bI/AAAAAAAABhA/6iusLWgG3u0/s1600/IMG_7699.JPG"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 17,
+            "source_url": "http://media.connectingstlouis.com/500/holy-family-catholic-church-cahokia.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 18,
+            "source_url": "http://www.decaturholyfamily.com.php56-19.dfw3-1.websitetestlink.com/wp-content/uploads/2016/01/hf-church-copy-1600x800.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 19,
+            "source_url": "http://3.bp.blogspot.com/-75R484qGOcA/Uj9XlrGZktI/AAAAAAAABgw/ppZKFGQ77zM/s1600/IMG_7687.JPG"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 2,
+            "source_url": "http://greatriverroad.com/stegen/clairimages/logchurch14070.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 20,
+            "source_url": "https://1.bp.blogspot.com/_ICCoEC9hSwc/Rzk-DVL9bJI/AAAAAAAADpM/buAxiFrviho/s400/Holy+Family+Roman+Catholic+Log+Church,+in+Cahokia,+Illinois,+USA+-+bell.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 21,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Holy_Family_Church_%28Roman_Catholic%29%2C_1104-1114_West_Roosevelt_Road%2C_Chicago_%28Cook_County%2C_Illinois%29.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 22,
+            "source_url": "http://www.institute-christ-king.org/assets/cahokia_mast.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 23,
+            "source_url": "https://farm3.staticflickr.com/2366/2102334307_59ee79caec_z.jpg?zz=1"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 24,
+            "source_url": "https://farm3.staticflickr.com/2502/3786857797_faee76401a_z.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 3,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/11526632-b456-463c-a506-3508c92a01d6_d.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 4,
+            "source_url": "http://i.pinimg.com/736x/66/7f/91/667f912e29789332be9244225a6f5a7b.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 5,
+            "source_url": "http://mississippivalleytraveler.com/wp-content/uploads/tn_Cahokia-IL-Holy-Family-Church01.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 6,
+            "source_url": "http://www.spiritualtravels.info/wp-content/uploads/2010/12/IMG_84001-300x200.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 7,
+            "source_url": "http://pics4.city-data.com/cpicv/vfiles14018.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 8,
+            "source_url": "https://c2.staticflickr.com/8/7441/9820684715_429bee6f51_z.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 9,
+            "source_url": "http://2.bp.blogspot.com/-LZ1KlVz_E1I/Uj9XcRO_9VI/AAAAAAAABgo/fpZbx5X06eA/s1600/IMG_7690.JPG"
+        }
+    }
+}
