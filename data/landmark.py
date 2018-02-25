@@ -119,16 +119,21 @@ class Landmark(object):
         and returns the urls of images. Finds up to number specified
         in photo_count. Appends url's to self.picture_urls
 
+        NOTE: the picture_urls are flipped, so that the test 
+        		url's pull from the first images found, rather than the last found
+
         Inputs: 
             photo_count: (int) number of photo url's to grab
             driver: (webdriver) Selenium firefox webdriver instance
         '''
 
-        image_urls = scrape_images_yahoo.click_thru_save(self.yahoo_images_url, driver, photo_count)
+        scrape_results = scrape_images_yahoo.click_via_action_keys(self.yahoo_images_url, driver, photo_count)
 
-        self.picture_urls = image_urls[0]
-        self.success_count = image_urls[1]  
-        self.fail_count = image_urls[2] 
+        urls = scrape_results[0]
+
+        self.picture_urls = urls[::-1]
+        self.success_count = scrape_results[1]  
+        self.fail_count = scrape_results[2] 
 
 
     def save_photos(self, test_count, test_location, training_location):
@@ -168,7 +173,11 @@ class Landmark(object):
         in_train_data = 0
         train_errors = []
         train_info = {}
-        for image_url, result_number in self.picture_urls[0:len(self.picture_urls) - test_index]:
+
+        remaining_photos = self.picture_urls[0:len(self.picture_urls) - test_index]
+
+        # NOTE: we flipped had flipped the photos so that the test data is from the beginning - now flip back
+        for image_url, result_number in remaining_photos[::-1]:
 
             file_name = "FILE_"+str(in_train_data)+".jpg"
 
@@ -231,7 +240,6 @@ class Landmark(object):
             outfile.write(info_json)
 
         # Save out photos
-        print("Calling save_photos with:{}".format(st_root))
         self.save_photos(test_count=test_count , test_location=test_root , training_location=train_root)
 
         # Save image_info.json

@@ -25,7 +25,7 @@ def url_to_soup(url):
     text = read_request2(req)
     assert text != "", "in request_to_soup: text is blank string"
 
-    return bs4.BeautifulSoup(text)
+    return bs4.BeautifulSoup(text, "lxml")
 
 def get_request(url):
     '''
