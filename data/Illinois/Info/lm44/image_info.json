@@ -1,0 +1,16 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Owen_Lovejoy_Homestead._1905..jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://www.illinoisinfocus.com/uploads/5/6/3/9/5639843/1756295_orig.jpg?643"
+        }
+    }
+}
