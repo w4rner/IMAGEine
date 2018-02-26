@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://www.bestplaces.net/images/city/1765104_il_rock_island_arsenal.png",
+            20
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://militarybases.com/images/bases/rockisland2.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://www.landsat.com/town-aerial-map/illinois/rock-island-arsenal-il-1765104.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "https://s3.amazonaws.com/bonanzleimages/afu/images/9202/2317/__kgrhqvhjbce7_8vfqoqbp_c6s4gbw__60_3.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 13,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/06/ba/70/c7/rock-island-arsenal.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 14,
+            "source_url": "http://2.bp.blogspot.com/-U2msd5p-ERI/UC2jMPXjvAI/AAAAAAAAMV8/VlVJawTIRDY/s400/080312_16.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 15,
+            "source_url": "http://sitelocationpartnership.com/moreinfoimages/quad_cities_first/rockisland.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 16,
+            "source_url": "http://media1.trover.com/T/54f5ed8fe9ae422911004b71/fixedw_large_4x.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 17,
+            "source_url": "http://pix.epodunk.com/IL/il_rock_island01.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 18,
+            "source_url": "http://bustos.house.gov/sites/bustos.house.gov/files/featured_image/Arsenal.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 21,
+            "source_url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/3/bb/3bbd27fe-dac0-5069-9134-9dd0a6c72cc5/5425dd797ac18.image.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 22,
+            "source_url": "http://static.panoramio.com/photos/large/12813535.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 23,
+            "source_url": "https://tankfinder.files.wordpress.com/2014/08/m4a3shermantank_rockislandarsenalil1.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 24,
+            "source_url": "https://c2.staticflickr.com/4/3548/3801323551_3b6c541ac5_z.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.mvr.usace.army.mil/portals/48/docs/Recreation/ODM/images/ARSENAL%20VISITOR%20GUIDE%20MAP,%20FALL%202015.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 25,
+            "source_url": "http://www.illinoisancestors.org/rockisland/arsenalbridge.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 26,
+            "source_url": "http://www.mygenealogyhound.com/maps/illinois-maps/il-rock-island-county-1870-map.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 27,
+            "source_url": "https://farm8.staticflickr.com/7290/9932370664_75910d3154_z.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 28,
+            "source_url": "http://quarriesandbeyond.org/states/images/il/il-rock_island_arsenal_pc.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 29,
+            "source_url": "http://usgwarchives.net/il/rockisland/postcards/brdam.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 30,
+            "source_url": "http://i.ebayimg.com/images/i/200666223330-0-1/s-l1000.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 31,
+            "source_url": "http://www.airphotona.com/stockimg/images/11417.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 33,
+            "source_url": "http://pics4.city-data.com/cpicc/cfiles16399.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "http://www.landsat.com/town-aerial-map/illinois/map/rock-island-arsenal-il-1765104.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 6,
+            "source_url": "https://militarybases.com/wp-content/uploads/2010/08/rockIsland.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "https://siteselection.com/issues/2010/nov/images/RockIslandArsenalAerial_27890_2.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "http://www.airphotona.com/stockimg/images/14062.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "http://www.landsat.com/town-aerial-map/illinois/detail/rock-island-arsenal-il-1765104.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 11,
+            "source_url": "https://farm2.staticflickr.com/1154/645197672_79294689ca_z.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 12,
+            "source_url": "http://2.bp.blogspot.com/-Yl7lt8cyVR4/T8pCbZKzokI/AAAAAAAAKAA/6ovbTrcN3Sk/s1600/Rock+Island+Arsenal+%25284%2529.jpg"
+        }
+    }
+}

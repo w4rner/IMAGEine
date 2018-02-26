@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://usercontent1.hubstatic.com/8969325_f260.jpg",
+            28
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://www.enjoynationalparks.com/wp-content/uploads/chi-stevenson-farm-20140423.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Adlai_E._Stevenson_II_Farm.JPG/1024px-Adlai_E._Stevenson_II_Farm.JPG"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://www.lcfpd.org/assets/1/22/NewsDimensionMain/adlai-full.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://3.bp.blogspot.com/-ZKbTq_b63zg/UGjaAldL7-I/AAAAAAAADzo/W2TlY1VmlQM/s1600/Adlai+5D.7711.s.A98.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "https://farm2.staticflickr.com/1102/543528226_1f7a107b3f.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "https://lauriesportraits.files.wordpress.com/2014/04/img_6305-e1398689787494.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stevenson_House_%287440859406%29.jpg/220px-Stevenson_House_%287440859406%29.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 17,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/2831fee5-b8f9-41f1-8d51-8b2264bc4f43_d.JPG"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 18,
+            "source_url": "https://farm2.staticflickr.com/1354/543528278_c35b56fc07.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 19,
+            "source_url": "https://media1.britannica.com/eb-media/08/116608-004-835400D8.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 20,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/0ad01d46-7463-41c2-8f7f-7a6686806c4a_ls.JPG"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 21,
+            "source_url": "http://static1.uk.businessinsider.com/image/54593087dd0895e0048b465b-1200/2-adlai-e-stevenson-high-school-lincolnshire-il.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "https://farm1.staticflickr.com/25/63154873_2e5bf0438b_z.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://4.bp.blogspot.com/_Qy92ZWX6mbE/TSYqqPXjHoI/AAAAAAAABPQ/jF9Ly6OuJSA/s1600/stevenson%2Bhome.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "https://farm1.staticflickr.com/30/63154871_512afed824_z.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "http://2.bp.blogspot.com/-q3UjsobhPQI/UGjbmvB4bvI/AAAAAAAADz4/PEvYAlyN68c/s1600/Adlai+Picture5.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 25,
+            "source_url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/8/f3/8f36c7cc-6a98-5227-9290-ccc585e402bc/5955716362cd9.image.jpg?resize=1200%2C835"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 26,
+            "source_url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/b/40/b4026354-2e95-51ca-8225-d0a359b047ff/59557162e55a9.image.jpg?resize=1200%2C809"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 27,
+            "source_url": "http://www.mchistory.org/perch/resources/aes-ii.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 29,
+            "source_url": "http://www.mchistory.org/old/find/images/stevenson_hope.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 30,
+            "source_url": "http://3.bp.blogspot.com/_Qy92ZWX6mbE/TSTn9GNUAFI/AAAAAAAABO4/fg-G8bLvCHQ/s1600/Adlai_HollandServiceDoor.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 31,
+            "source_url": "http://exhibits.library.northwestern.edu/archives/exhibits/alumni/stevenson.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://3.bp.blogspot.com/_Qy92ZWX6mbE/TSTk44PZsyI/AAAAAAAABOg/lgrRyC4sxjc/s1600/FrankHollandwAdlai_1948_HollandCollection_ChicagoPhotographers.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://chicagotonight.wttw.com/sites/default/files/field/image/Adlai_E.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrB8p1WVZNar2QAH.ijzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519633878/RO=11/RU=https%3a%2f%2ffarm9.staticflickr.com%2f8253%2f8612073054_bd1bcbe967_q_d.jpg/RK=2/RS=ukLVHe_MaxvVsdzIVLonmPC5wOk-"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QvwlZ0CuHa1VPECHLmOC5w/ls.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bloomington_Il_Adlai_E._Stevenson_II_House5.JPG"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "http://3.bp.blogspot.com/_Qy92ZWX6mbE/TSYn_TqVBLI/AAAAAAAABPI/NVxitcHYtBM/s1600/Life%2BMagazine%2BCover_Copyright_GettyImage.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bloomington_Il_Adlai_E._Stevenson_II_House2.JPG"
+        }
+    }
+}

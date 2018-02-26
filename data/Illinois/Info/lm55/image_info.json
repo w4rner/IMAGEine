@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://photographyofmarkpolege.com/wp-content/uploads/2012/10/Garrison_Hill_Cemetery_sign1.jpg",
+            11
+        ],
+        [
+            "http://www.naturallyamazing.com/americasparks/984.jpg",
+            25
+        ],
+        [
+            "https://randolph.illinoisgenweb.org/wp-content/uploads/2014/03/Kaskaskia-circa-1850-engraving-by-Hermann-Meyer.jpg",
+            31
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Old_Kaskaskia_Village_from_W.jpg/1200px-Old_Kaskaskia_Village_from_W.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://lh5.googleusercontent.com/-G0txpAUKUmA/TWtqudpIINI/AAAAAAAAAqM/yPXkmkhVU8U/s1600/july19kaskskia2.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://farm4.staticflickr.com/3178/2841615486_481dd57889_z.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.jocelyngreen.com/sites/default/files/wp-content/uploads/2015/07/Kaskaskia-cemetery2_0.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 14,
+            "source_url": "http://freepages.genealogy.rootsweb.ancestry.com/~labrier/garirsoncem_2.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 15,
+            "source_url": "http://mw2.google.com/mw-panoramio/photos/medium/42971479.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 16,
+            "source_url": "http://freepages.genealogy.rootsweb.ancestry.com/~labrier/kaskychch_2.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 17,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LaSalleIL_HotelKaskaskia.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 18,
+            "source_url": "http://www.teresco.org/pics/austin-20050720-0807/0723/P7230022.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 19,
+            "source_url": "http://l7.alamy.com/zooms/fcb214b8915245fdbacc399836f6a8be/fort-kaskaskia-state-historic-site-ellis-grove-il-a6mc7t.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 20,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Fort_Kaskaskia_082.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 21,
+            "source_url": "http://media.connectingstlouis.com/500/fort-kaskaskia-illinois-9.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "http://greatriverroad.com/stegen/randimages/kbell2926.JPG"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://c2.staticflickr.com/4/3660/3381193200_7acb700b0f_b.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.ilstatehouse.com/images/PasthistB.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "http://greatriverroad.com/stegen/randimages/fortkask14157.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 26,
+            "source_url": "http://media.connectingstlouis.com/500/fort-kaskaskia-illinois-17.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 27,
+            "source_url": "https://i.pinimg.com/236x/81/81/22/818122450442321adc199a7ea1038013.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 29,
+            "source_url": "http://i.ebayimg.com/images/i/271571427951-0-1/s-l1000.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 30,
+            "source_url": "http://www.ayresgeospatial.com/wp-content/uploads/2014/12/Kaskaskia2.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://c1.staticflickr.com/4/3589/3381193206_20f06884cf.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://www.teresco.org/pics/austin-20050720-0807/0723/P7230033.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kaskaskia_state_house_Making_of_Illinois_Skinner_House.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://c1.staticflickr.com/1/11/92212348_94a515a45f_z.jpg?zz=1"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://4.bp.blogspot.com/-wDjST0HRiq8/T1dpDJlYa5I/AAAAAAAAAEg/vo0lQMvq0PA/s400/cahokiacourthouse.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://4.bp.blogspot.com/-e0r1KimXKO8/WE7TXaa1d5I/AAAAAAAALE8/UL1abtDtdtsxL85_LNhK2_Q-2IKAbAbbgCEw/s1600/Illinois_State_Capitols_001.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://farm9.staticflickr.com/8473/8144672392_35be000f78_z.jpg"
+        }
+    }
+}

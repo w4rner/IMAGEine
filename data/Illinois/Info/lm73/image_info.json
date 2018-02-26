@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://www.archdata.org/img/bldg/6570_600_sr-crown-hall_built_exterior.jpg",
+            13
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://www.mimoa.eu/images/5804_l.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx62NUZNa5H4Aia6jzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519632909/RO=11/RU=http%3a%2f%2fimg.readtiger.com%2fwkp%2fen%2fCrown_Hall_1.jpg/RK=2/RS=Ou.NIlqAhQFTYE0nwX4dS4D6k6s-"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/S.R._Crown_Hall.jpg/1200px-S.R._Crown_Hall.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://s3.amazonaws.com/architecture-org/files/buildings/crown-hall-06-ear-2.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Crown_Hall_2.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://larryspeck.com/wp-content/uploads/2011/09/2011-4281.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://static.panoramio.com/photos/large/15360714.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://s3.amazonaws.com/architecture-org/files/modules/iit-crown-hall-eric-allix-rogers-08.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "https://i2iart.files.wordpress.com/2010/11/20101101_0601-as-smart-object-2.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx61XUpNafWAA7vWjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519633111/RO=11/RU=https%3a%2f%2fs-media-cache-ak0.pinimg.com%2foriginals%2fef%2f85%2f03%2fef85031a09bc0d7199adce94719acde1.jpg/RK=2/RS=FfJFjBIgrj2hKIH3xi9gRHdxMKg-"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://i.pinimg.com/736x/25/7d/71/257d71d3a6e0a1c2c376df1364b5f784.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://www.gofunchicago.com/image-files/s-r-crown-hall-chicago.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "https://c2.staticflickr.com/6/5326/9678892824_0736a55152_b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Crown_Hall_Entrance_060514.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "https://c2.staticflickr.com/6/5326/9678892630_097d73e018_b.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-o/04/81/77/a4/sr-crown-hall.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://images.artnet.com/images_us/magazine/features/cassidy/cassidy9-15-05-3.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://s3.amazonaws.com/architecture-org/files/modules/iit-crown-hall-05.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://c2.staticflickr.com/4/3247/2822158677_bd7fc0948d_b.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "https://web.iit.edu/sites/web/files/departments/event-services/images/crown_hall.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.encyclopedia.chicagohistory.org/fallback/3862.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "http://larryspeck.com/wp-content/uploads/2011/09/2011-4282.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://ahughessystemssitesbuilding2014.files.wordpress.com/2014/09/crown-hall-facade.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Crown_Hall_060514.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://2.bp.blogspot.com/-JaN72p4snRw/T1qGTItNxwI/AAAAAAAAMGo/9E32kYNPjtc/s1600/Mies_van_der_Rohe_Crown%2BHall2.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://media1.britannica.com/eb-media/13/149313-004-973A0164.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://2.bp.blogspot.com/-WHvDBWfmBEk/T1qGTQ7URvI/AAAAAAAAMG0/G3aC35WMLRc/s1600/Mies_van_der_Rohe_Crown%2BHall1.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://larryspeck.com/wp-content/uploads/2011/09/2011-4276_.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://larryspeck.com/wp-content/uploads/2011/09/2011-4278.jpg"
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/South_Dearborn_Street_060409.jpg/1200px-South_Dearborn_Street_060409.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://2.bp.blogspot.com/-0IpWDI3CmHY/Td6E9kqXIUI/AAAAAAAAfws/sm0vVqjlneQ/s1600/LI-archi-PRD-502b.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20070110_Donahue_Building_and_Plymouth_and_Polk.JPG/1200px-20070110_Donahue_Building_and_Plymouth_and_Polk.JPG"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://c1.staticflickr.com/7/6046/6289388424_79301fc618_b.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://c1.staticflickr.com/7/6031/6284316584_d08f22103b_b.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://3.bp.blogspot.com/-WCepCkNw5Yk/Td5eoY7FqGI/AAAAAAAAfsk/jtgsE05wTtY/s1600/LI-archi-Dearborn-012b.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://www.seechicagorealestate.com/uploads/printers_row_640.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chicago_locator_map.png"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20080909_Kenwood_Evangelical_Church_from_west.JPG/600px-20080909_Kenwood_Evangelical_Church_from_west.JPG"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://2.bp.blogspot.com/-3-Qt7En1ZwU/VOxr7p173KI/AAAAAAAAB1M/Qf2NQbDPKYM/s1600/UZY20000000035.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://terribuseman.files.wordpress.com/2011/10/front1.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://i.pinimg.com/236x/b5/64/18/b564187f8ba894e0abb23d3bffd3ac3a.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "https://c1.staticflickr.com/9/8148/7684797002_d0db9a0626_b.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://farm7.staticflickr.com/6009/6018243047_6606025523_z.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://www.chicagocmwc.com/files/printer_row.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/35/4e/f3/354ef3fabb92d5b315df17417988308c.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://l450v.alamy.com/450v/byy01w/barbers-shop-monadnock-building-chicago-illinois-usa-byy01w.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "http://l450v.alamy.com/450v/byxyhc/barbers-shop-monadnock-building-chicago-illinois-usa-byxyhc.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://l450v.alamy.com/450v/byxyet/barbers-shop-monadnock-building-chicago-illinois-usa-byxyet.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "http://images-mediawiki-sites.thefullwiki.org/04/3/6/1/65385483422094061.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Monadnock_Aluminum_Staircase_1893.JPG"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://cdn3.vox-cdn.com/uploads/chorus_asset/file/6545377/720-dearborn-15.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6545353/720-dearborn-2.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://c382899.r99.cf1.rackcdn.com/9781241159047.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Monadnock.jpg/1200px-Monadnock.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://c6.staticflickr.com/8/7028/6726801933_5220b26aa5.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://farm7.staticflickr.com/6136/6022966639_57e33aac17_z.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://farm9.staticflickr.com/8433/7881293530_9a30d18784_z.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://farm8.staticflickr.com/7578/15776972210_2efb0287af_z.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Burling_Row_House_District_1_crop.jpg/600px-Burling_Row_House_District_1_crop.jpg"
+        }
+    }
+}

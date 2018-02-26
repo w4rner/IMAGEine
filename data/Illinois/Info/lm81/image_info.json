@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://sportsmockery.com/wp-content/uploads/2014/08/00quad_1024x768.jpg",
+            10
+        ],
+        [
+            "https://www.ic.edu/Customized/Uploads/ByDate/2015/March_2015/March_24th_2015/100_946645578.jpg",
+            27
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Astronomical_Observatory_University_of_Illinois_at_Urbana-Champaign_from_northwest.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Astronomical_Observatory_University_of_Illinois_at_Urbana-Champaign_from_west.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/UIUC_Observatory.JPG"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://bayimages.net/images/57/john-hancock-observatory-chicago-10457.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://chicagolife.me/wp-content/uploads/2015/06/astronimical-observatory-telescope.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "https://s3-external-1.amazonaws.com/youvisit-img/Assets/img/locations/80014/1280_profile.jpg?v="
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://c2.staticflickr.com/4/3578/3831491266_4369b54d15_b.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://static3.businessinsider.com/image/568a9de1e6183eee168b664f/17-university-of-illinois-at-urbana-champaign.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://bayimages.net/images/11k/view-from-john-hancock-observatory-10733.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://static.panoramio.com/photos/large/45644016.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "https://www.eiu.edu/physics/images/ObservMap.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://bayimages.net/images/11k/chicago-buildings-viewed-from-john-hancock-observatory-10734.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "https://farm1.staticflickr.com/119/285359460_9052e32efe_z.jpg?zz=1"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://astronomy.snjr.net/blog/wp-content/uploads/2011/07/edDSC_0105.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://d32dsh9a6dg9hg.cloudfront.net/wp-content/uploads/2014/04/HancockStadium.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.business.uic.edu/sites/default/files/content/fields/intro_image/recruiters.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "https://3dprint.com/wp-content/uploads/2014/10/learnprostheticschool-1024x768.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://c1.staticflickr.com/4/3009/2744512135_1e0ee83b1c.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://23fb88ad5ca22a1b4d32-e1951aed44f4258f5fd1721b94cf0277.ssl.cf5.rackcdn.com/IL002-2-ipad.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.chicagobusiness.com/apps/pbcsi.dll/storyimage/CG/20170418/BLOGS02/170419862/AR/0/University-of-Illinois.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "https://c2.staticflickr.com/8/7366/11812387644_574a7de725_b.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www2.phy.ilstu.edu/~trw/planetfiles/moreimages/building.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Prairie_Observatory%2C_Oakland_Illinois%2C_North_Facade.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://upload.wikimedia.org/wikipedia/en/8/81/Illini_Union.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Elgin_National_Watch_Company_Observatory_%28Elgin%2C_IL%29_04.JPG"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Elgin_National_Watch_Company_Observatory_%28Elgin,_IL%29_01.JPG"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://upload.wikimedia.org/wikipedia/en/a/a8/Foellinger_Auditorium.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://images.mapsofworld.com/travel/John-Hancock-Observatory-680x1024.jpg"
+        }
+    }
+}

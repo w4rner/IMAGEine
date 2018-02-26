@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://holeinthedonut.com/wp-content/uploads/2015/01/Illinois-Chicago-Shedd-Aquarium2.jpg",
+            9
+        ],
+        [
+            "http://holeinthedonut.com/wp-content/uploads/2009/08/Chicago_Shedd_Aquarium1.jpg",
+            10
+        ],
+        [
+            "https://assets.doctorlogic.com/Images/Sites/M/MillenniumSurgical/Destination/157964.jpg?w=840&h=630&quality=80&mode=max&deviceType=Desktop",
+            17
+        ],
+        [
+            "http://www.ecustomgutter.com/images/753/images/shedd-aquarium.jpg",
+            27
+        ],
+        [
+            "http://www.cityprofile.com/forum/attachments/illinois/3277-chicago-shedd_aquarium2.jpg",
+            28
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Shedd_Aquarium_Chicago_August_2005.jpg/1024px-Shedd_Aquarium_Chicago_August_2005.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://ih0.redbubble.net/image.4169795.3603/flat,800x800,075,f.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://cacsmusicchicago.files.wordpress.com/2011/02/shedd-11.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 13,
+            "source_url": "http://static.panoramio.com/photos/large/42278045.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 14,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/06/7f/42/69/shedd-aquarium.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 15,
+            "source_url": "http://thingstodo.net/wp-content/uploads/2015/08/2174_Shedd-3.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 16,
+            "source_url": "https://c2.staticflickr.com/8/7247/7511419458_c75db4144c_z.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 18,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/JohnGSheddAquarium.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 19,
+            "source_url": "http://i.pinimg.com/736x/d4/d0/e5/d4d0e5da99ee23350c6f7f1a564ed30b.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 20,
+            "source_url": "http://media.ruebarue.com/photos/places/4695153826594816/1-shedd-aquarium.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "https://i.pinimg.com/736x/90/2f/ee/902feec0e9758f5687f3f17e099abac2.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "http://www.dayofdreams.com/Venue%20Pages/John_G_Shedd_Aquarium_Chicago_illinois.htm.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.destination360.com/north-america/us/illinois/chicago/images/s/shedd-aquarium.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.sheddaquariumfreedays.com/wp-content/uploads/2012/06/shedd-aquarium-chicago.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 24,
+            "source_url": "https://c1.staticflickr.com/5/4038/4658940726_51421a641b_b.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 25,
+            "source_url": "http://chicagotonight.wttw.com/sites/default/files/field/image/Shedd051817.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 29,
+            "source_url": "https://i.pinimg.com/736x/59/7a/f2/597af2a7242b3c0f89700b6f30e54c7a.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 30,
+            "source_url": "http://www.danleysoundlabs.com/danley/wp-content/uploads/2012/07/Oceanarium_Dolphins.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.travelingtousa.net/gallery/what-to-visit-in-illinois/shedd_aquarium.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://i.pinimg.com/736x/2f/44/6d/2f446d355261026d9eb3423d5262f43d.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://thumbs.dreamstime.com/z/shedd-aquarium-chicago-illinois-27328753.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://i.pinimg.com/736x/26/9e/ba/269ebac57fbaba678ba2a6bfb1c48a3a.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://thumbs.dreamstime.com/z/shedd-aquarium-chicago-illinois-28288244.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 11,
+            "source_url": "https://i.pinimg.com/736x/19/04/af/1904af454b2d5f2767536dfdc1875dc1.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 12,
+            "source_url": "http://thingstodo.net/wp-content/uploads/2015/08/2174_Shedd-2.jpg"
+        }
+    }
+}

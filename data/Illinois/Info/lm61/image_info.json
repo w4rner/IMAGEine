@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://www.ebony.com/wp-content/uploads/2016/08/h371_original_55568-767x575.jpg",
+            2
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://static.panoramio.com/photos/large/16460311.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://cannondesignblog.com/wp-content/uploads/2011/03/Pullman-Historic-District.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/03/2e/f4/5c/pullman-historic-district.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "https://farm6.staticflickr.com/5038/5869198641_aaf3b256cb_z.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "https://i.pinimg.com/736x/d6/f8/c8/d6f8c814f40a6012046bdc71e219e98f.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://i.pinimg.com/736x/9e/46/a5/9e46a5eef4746a0cb5c2d6a4edb5fc22.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://static.panoramio.com/photos/large/16460118.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://img1.imagesbn.com/p/9780738500294_p0_v1_s260x420.JPG"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "https://res.cloudinary.com/dk/image/upload/c_crop,h_1705,w_4500,x_0,y_73/fl_keep_iptc,q_70,c_fill,h_452,w_1192,f_auto/chicago/pullman-historic-district.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://static.panoramio.com/photos/large/16460410.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "https://farm9.staticflickr.com/8663/16409703477_bbb4a80dce.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/07/92/f0/0e/pullman-historic-district.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://www.gannett-cdn.com/-mm-/f5d784a78a78450ed8f510637bba438667991674/c=293-0-4634-3264&r=x404&c=534x401/local/-/media/2016/11/30/WIGroup/Milwaukee/636161052529111229-getaway04p3.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzcxMzg0ZmE1NzNmMWVmMGFkZTlhZTQ3ODRlNDNlYWE2NThhMDM3NmQuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDgxIC1hdXRvLW9yaWVudCJdLFsicCIsInRodW1iIiwiNjAweD4iXV0/71384fa573f1ef0ade9ae4784e43eaa658a0376d.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/03/2e/f4/6c/pullman-historic-district.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://www.bet.com/news/politics/2015/02/11/senators-congresswoman-celebrate-pullman-designation/_jcr_content/image.heroimage.dimg/__1423672779378/021115-Politics-Pullman-Historic-District-South-Side-Chicago.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/03/2e/f4/62/pullman-historic-district.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://cdn.moneycrashers.com/wp-content/uploads/2015/07/pullman-train-factory-chicago.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://www.pullmanil.org/images/slice_ht.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "https://c2.staticflickr.com/6/5142/5869224737_20d37c03d6_b.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "https://c2.staticflickr.com/8/7418/11865096046_1fafa9c01a_b.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "http://www.chicagoarchitecture.org/wp-content/uploads/2014/08/Pullman-factory-Chicago-Illinois-April-2012-003a-1024x682.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "https://farm9.staticflickr.com/8574/16429958020_6274e190ab_z.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 6,
+            "source_url": "https://i.pinimg.com/736x/bd/23/b9/bd23b90477cb86cce49fe93261523fbb.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "https://farm8.staticflickr.com/7007/6476919235_97f3acf75f_z.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "https://farm9.staticflickr.com/8593/15994791504_1ae084b486_z.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "https://i.pinimg.com/originals/2f/13/79/2f1379d60ce5c940a17afe2306c84f44.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "https://i.pinimg.com/736x/0e/79/38/0e7938739976af980af34656d923e1c7.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.city-data.com/articles/images/img2791493.jpg"
+        }
+    }
+}

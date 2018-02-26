@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://www.chicagocamping.org/wp-content/uploads/2012/05/starved-rock-woods.jpg",
+            10
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://travelmamas.com/wp-content/uploads/2013/12/Starved_Rock_State_Park_9-682x1024.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/FrenchCynWaterfall_StarvedRockSP_IL.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://4.bp.blogspot.com/-m50kHmc7A50/T8d7V9vuluI/AAAAAAAABLk/ouDqZsgoFtQ/s1600/Starved+Rock+Illinois+Canyon.JPG"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://static.thousandwonders.net/Starved.Rock.State.Park.original.1297.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://3.bp.blogspot.com/-qrXuxwUo7cU/UCCkHhj7DjI/AAAAAAAAFPQ/3wRUyVFUo9Y/s1600/illinois-starved-rock-state-park.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://i.pinimg.com/736x/e1/68/7e/e1687e9f6b786c89efff0596ef2ce782.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://i.pinimg.com/736x/8a/66/6c/8a666cc8dc59ed9f398f0496129e7a0b.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "https://i.pinimg.com/736x/bd/84/8f/bd848f5f155a1a4e0bc0365a69d43825.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://static.panoramio.com/photos/large/41852321.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://jamiewayne.com/wp-content/gallery/starved-rock-illinois-2013/img_3478.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://exit78.com/wp-content/uploads/2011/06/Starved-Rock-State-Park-Illinois-September-9-2008.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "https://www.dnr.illinois.gov/RotatorImages/360600/StarvedRock.5321.C.360600.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://static.panoramio.com/photos/large/104765943.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Starved_Rock_Illinois_on_Illinois_River.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "https://prairierivers.org/wp-content/uploads/2012/11/starved_rock_waterfall.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Gfp-illinois-starved-rock-state-park-waterfall-canyon.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://www.thehedgepost.com/wp-content/uploads/2012/09/Starved-Rock-French-Canyon.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://youdontknowfit.files.wordpress.com/2012/08/235.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Gfp-illinois-starved-rock-state-park-view-of-canyon-wall.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://i.pinimg.com/736x/4c/f8/da/4cf8da34f22841a0296df8244b25c395.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://i.pinimg.com/736x/4c/4b/6e/4c4b6e8bcefcb23f3142eaf16b7ba001.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "http://static.panoramio.com/photos/large/5017611.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.mikereyfman.com/Photography-Landscape-Nature/Starved-Rock-State-Park-Illinois-USA/photos/MR0107.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://1.bp.blogspot.com/-Tgn6YeJiS20/T8d85ICfsiI/AAAAAAAABL0/rWdqjy3hEB4/s1600/Starved+Rock+Illinois+Canyon+5.JPG"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://www-personal.umich.edu/~jensenl/visuals/album/2006/starved/IMG_5776.JPG"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://www.thehedgepost.com/wp-content/uploads/2012/09/Starved-Rock-French-Canyon-2.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://i.pinimg.com/736x/b6/75/bf/b675bfd86353b0e235f67e5725b17621.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://www.chicagoillinoisweddingphotography.com/uploads/2010/08/starved-rock-state-park-engagement.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://1.bp.blogspot.com/-jQpF503a8RA/Uvuw6Ch50qI/AAAAAAAAE14/04SCt-gi8Bc/s1600/Starved+Rock+State+Park,+Illinois.jpg"
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Second_Presbyterian_Church_Chicago_IL.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://2.bp.blogspot.com/_zJpnTu57Koc/TH99r3zRTJI/AAAAAAAAWZc/n-WTQLUehaU/s1600/LI-archi-MR-307b.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c2.staticflickr.com/6/5770/21169376475_7b3a3a9c4b_b.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://c1.staticflickr.com/1/744/20982530359_dc016d4d4a_b.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.mygenealogyhound.com/vintage-postcards/illinois-postcards/IL-Bloomington-Illinois-Second-Presbyterian-Church-vintage-postcard-photo.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://c2.staticflickr.com/6/5618/21139701656_d7eb919ae6_b.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/02/6d/f9/4c/filename-6712025953-d5dc477da7.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://www.emporis.com/images/show/260044-Large-lookingup-looking-up-at-the-tower.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://www.romineweddings.com/wp-content/uploads/2010/10/056.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://c1.staticflickr.com/1/710/20546012164_37aa6b60e2_b.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://c1.staticflickr.com/1/648/20981913989_2365a3f23e_b.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://i.pinimg.com/originals/32/1e/3e/321e3e7e6ccf145b194a8d613ed3731f.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://www.peoriacountyillinois.info/churches/second_presbyterian_church_1906.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://c1.staticflickr.com/1/572/21173722241_afc91cf84e_b.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://bookshow.blurb.com/bookshow/cache/P370005/md/cover_2.jpeg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "https://i.pinimg.com/736x/4f/d7/48/4fd748cc62b613db6c80eb98d7f2f14f--stained-glass-windows-chicago.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://3.bp.blogspot.com/_zJpnTu57Koc/TH97tQJQmtI/AAAAAAAAWYs/DbNqJRlaBkE/s1600/LI-archi-SPC-390b.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://i.pinimg.com/736x/f6/5a/4a/f65a4a3f1b3a8094dd546d4754ea9416.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "https://c2.staticflickr.com/6/5622/20547499823_02d901fdf0_b.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "https://www.cardcow.com/images/set630/card00937_fr.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "https://c2.staticflickr.com/6/5638/20979135549_381e4acecb_b.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://i.pinimg.com/736x/b9/b3/c4/b9b3c4847ae9dd30274eb90ffa6567bf--peoria-illinois-church.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "https://c1.staticflickr.com/1/695/21168712405_a390eb9e75_b.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://towngoodiesch.wdfiles.com/local--files/place:us-il-chicago-second-presbyterian-church/Second-Presbyterian-Church.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://www.cardcow.com/images/set100/card00050_fr.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/d3b1c36a-e9f7-4237-83c5-8c6da33072fc_d.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://i3.irishmirror.ie/incoming/article4175120.ece/ALTERNATES/s615/The-Second-Presbyterian-Churchjpeg.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://4.bp.blogspot.com/_zJpnTu57Koc/S7s9ZgLkAjI/AAAAAAAAQko/HdgBP-Ha1pY/s1600/LI-archi-SPC-201b.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://www.marylmartin.com/wp-content/uploads/2016/09/0000509690.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://imagehost.vendio.com/bin/imageserver.x/00000000/neglus/bloomingtonilchurch726.jpg"
+        }
+    }
+}

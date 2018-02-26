@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://farm3.staticflickr.com/2440/3769225902_c00fd81775_z.jpg?zz=1"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrB8pvsTZNaETYAnsWjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519631980/RO=11/RU=https%3a%2f%2ffarm5.staticflickr.com%2f4111%2f5192328949_34c4bb3dff_o_d.jpg/RK=2/RS=Ondmr9nXRFM3d_mXy9qeP5yA20I-"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://www.publicartinchicago.com/wp-content/uploads/2017/03/LI-UC-HM-001c.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://www.hmdb.org/Photos2/258/Photo258377.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://res.cloudinary.com/bombmagazine/image/upload/v1412020455/63_kane_02_body.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "https://www.atomicheritage.org/sites/default/files/10692500395_2163aa0c2f_o.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://www.lib.niu.edu/2003/ih070307-2.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "https://c1.staticflickr.com/3/2533/3802398478_73ab305699_b.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "https://i.pinimg.com/600x315/b2/91/74/b291743c8b1333252c10346747a517d4.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "https://radonc-sites.uchicago.edu/sites/radonc.uchicago.edu/files/styles/galleryimage/public/uploads/images/482px-Szilard_and_Hilberry.jpg?itok=FiaFdvit"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201711/566992965.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "https://c2.staticflickr.com/8/7136/8167736696_e977d3bd56_b.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://interactive.wttw.com/sites/default/files/styles/pull-right/public/images/2017/01/09/CP-1.jpg?itok=IIUZ7ETn"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Henry_Moore_Nuclear_Energy.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "https://i.kinja-img.com/gawker-media/image/upload/s--YvgIA_St--/c_scale,fl_progressive,q_80,w_800/198zsiwyjbqvrjpg.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://capitoilette.files.wordpress.com/2013/01/uchicago-nuke-plaque.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://interactive.wttw.com/sites/default/files/styles/full/public/images/2017/01/09/CP-1Painting.jpg?itok=KugKPB3U"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://i.pinimg.com/600x315/0e/b7/0b/0eb70b65ce6fbb868b16232776341369.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://images.myshared.ru/17/1167395/slide_22.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "https://d3qi0qp55mx5f5.cloudfront.net/www/i/features/20171128_CP1_Plaque.jpg?mtime=1511754171"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://ethw.org/w/images/3/3c/Enrico_Fermi.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrEx603T5NaogIAZACjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519632311/RO=11/RU=http%3a%2f%2fbombmagazine.org%2fsystem%2frich%2frich_files%2frich_files%2f000%2f100%2f602%2foriginal%2f21_Welling_body.jpg/RK=2/RS=63QHdR4v5czWy22..pJKwqDaLpY-"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 30,
+            "source_url": "https://lh3.googleusercontent.com/-8tjvNnemOIw/VxSIr79xOTI/AAAAAAABM-c/uPEnM57cptM/site-a-plot-m-36.jpg?imgmax=800"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://c1.staticflickr.com/7/6045/6340908440_9aa0a01e31.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/c3c9cba6-16d7-4d2d-a46c-8ca71e9aefbc_d.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrB8p0nTpNaAREA_CujzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519632039/RO=11/RU=https%3a%2f%2ffarm6.staticflickr.com%2f5515%2f10585075464_a6e29cefb0_o_d.jpg/RK=2/RS=Sdyy.w2FcrTcuisYAHzHv_GpHTI-"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://news.uchicago.edu/sites/default/files/styles/leading_regular/public/images/image/20171120/moore-site-sized.jpg?itok=aX2S-Hm-"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://3.bp.blogspot.com/-PFy3I3NXtF4/TXBHcIHgOhI/AAAAAAAAceo/iu778Mjf28U/s1600/LI-sculp-WP-060b.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/4dde8ba5-3664-4d11-91f9-2f625737fc3f_ls.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://c1.staticflickr.com/7/6196/6059221360_948c236920_b.jpg"
+        }
+    }
+}

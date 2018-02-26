@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/2010-03-03_1872x2808_chicago_reliance_building.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Reliance_Building_%28Burnham_Hotel%29_-_Chicago%2C_Illinois.JPG/768px-Reliance_Building_%28Burnham_Hotel%29_-_Chicago%2C_Illinois.JPG"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://farm3.staticflickr.com/2267/5812977050_5a53320372_z.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://lcweb2.loc.gov/service/pnp/habshaer/il/il0000/il0041/photos/060997pv.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://img.zanda.com/item/71000570000096/1024x768/Reliance_Building.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://www.architetturaeviaggi.it/moduli/galleria/america/2388_nor.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "http://l7.alamy.com/zooms/6c659f5786bb4bd6ae5a5c5f71e2a624/the-reliance-building-in-chicago-illinois-usa-ct6163.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://www.emporis.de/images/show/519632-Large.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "http://2.bp.blogspot.com/-UXb7uH1DpmU/TlWeAQF_25I/AAAAAAAACLY/dtzcvznnjLs/s1600/IMG_0001.JPG"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://localcontent.zenfs.com/18d4/18d4eb11799b752df32566861749c883.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://www.emporis.com/images/show/520668-Large-exterior-view-from-the-southeast.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Reliance_Building1.JPG"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "https://www.emporis.com/images/show/115425-Large-lookingup-northeast-corner.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://c2.staticflickr.com/8/7262/7653647518_f87a71a0e1_b.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "https://i.pinimg.com/736x/19/17/29/191729e4bf1939df2c9be43c184c36c5.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://www.oldplaces.org/illinois/reliance.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://l7.alamy.com/zooms/e5230fedbd97460f964f87af17f27e53/the-reliance-building-by-daniel-burnham-forerunner-of-modern-skyscrapers-d86dmn.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://i.pinimg.com/originals/72/cd/c5/72cdc5db51a49d7fd29b71fda6ce3a38.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "https://classconnection.s3.amazonaws.com/585/flashcards/1107585/jpg/reliance_building_by_burnham_and_root1329458120709.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "https://files1.structurae.de/files/photos/5256/2015-06-04/dsc06497.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage/reliancebuilding.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "https://www.emporis.de/images/show/525495-Large.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "https://www.taschen.com/media/images/1640/preview_01_modern_arch_a_z_2_vol_xl_image002_02926_1506011729_id_889922.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.inetours.com/Chicago/images/Arch/Reliance_3177.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Reliance_Building_in_September_2015.jpg/1920px-Reliance_Building_in_September_2015.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://farm6.staticflickr.com/5038/5805546959_ff74f4ecbd_z.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://i.pinimg.com/originals/77/78/b2/7778b2cc12f503e2973148dd779930a2.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://timstonor.files.wordpress.com/2011/06/img_1984.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://static.panoramio.com/photos/large/41500029.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Reliance_Building%2C_Chicago%2C_Illinois_%28November_2005%29.jpg"
+        }
+    }
+}

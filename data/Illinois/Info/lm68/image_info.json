@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://thumbs.ebaystatic.com/d/l400/pict/222187952500_1.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 2,
+            "source_url": "https://www.picclickimg.com/00/s/MTA4MFgxNjAw/z/bcQAAOSwLEtYiOwC/$/Photo-Memory-Box-Sold-By-Searsroebuck-And-Cochicagoil-_57.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "https://img1.etsystatic.com/132/0/6927912/il_fullxfull.860342383_r5e9.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 13,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NORTH_SIDE%2C_VIEW_OF_TRUCK_DOCKS_-_Sears_Roebuck_and_Company_Mail_Order_Plant%2C_Merchandise_Building%2C_924_South_Homan_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C110A-15.tif/lossy-page1-594px-thumbnail.tif.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 14,
+            "source_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wYQs4E-786dG41VAM2D9zQ/ls.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 16,
+            "source_url": "http://s3-media2.ak.yelpcdn.com/bphoto/iUBA75To0UvklZH7tdmX1A/ls.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 17,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sears_Merchandise_Building_Tower.jpg/1920px-Sears_Merchandise_Building_Tower.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 18,
+            "source_url": "http://www.erbzine.com/mag12/dans06h4.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 19,
+            "source_url": "http://s3-media1.ak.yelpcdn.com/bphoto/-JGmZos5EmGBoY_vkbvTGw/ls.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 20,
+            "source_url": "http://s3-media4.ak.yelpcdn.com/bphoto/sZtpW8TelETm5pDUId32ag/l.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 21,
+            "source_url": "http://s3-media2.fl.yelpcdn.com/bphoto/7vVSGqR54i8fHug43p0_VA/l.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 22,
+            "source_url": "http://images.sammleraktien-online.de/sears_1000_blau.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 23,
+            "source_url": "https://i.pinimg.com/736x/73/2c/7d/732c7ddf1b3791d4fb140b49fd303f00.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 5,
+            "source_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8gIR-Swprz2bnLVKcCOhIg/ls.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 24,
+            "source_url": "http://i.ebayimg.com/images/i/370160108797-0-1/s-l1000.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 25,
+            "source_url": "https://www.picclickimg.com/00/s/MTIwMFgxNjAw/z/iO8AAOSw9GhYiOz3/$/Photo-Memory-Box-Sold-By-Searsroebuck-And-Cochicagoil-_57.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 26,
+            "source_url": "https://www.cardcow.com/images/set515/card00814_fr.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 27,
+            "source_url": "https://img.yumpu.com/16176306/1/358x462/townsend-v-sears-roebuck-and-company-state-of-illinois.jpg?quality=85"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 28,
+            "source_url": "http://thumbs.ebaystatic.com/d/l600/pict/142401859693_1.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 29,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/d88cccd9-6743-49d0-aa7b-95bf0d8922c6_d.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 30,
+            "source_url": "http://landmarkhunter.com/photos/50/98/509898-M.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 31,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/92c4ff49-a61f-4d15-88fb-3b7d26f0f4a5_d.JPG"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 32,
+            "source_url": "http://www.homansquare.org/wp-content/uploads/2015/02/000210_000_1913_track_meet_smtower_admin_mdl.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 6,
+            "source_url": "https://s3.amazonaws.com/thmb.inkfrog.com/pix/uffdahhh3/k022211b0026.JPG/600/0"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 7,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NORTHEAST_CORNER_-_Sears_Roebuck_and_Company_Mail_Order_Plant%2C_Merchandise_Building%2C_924_South_Homan_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C110A-2.tif/lossy-page1-820px-thumbnail.tif.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 8,
+            "source_url": "http://images.addoway.com.s3.amazonaws.com/items/2293/131325/2293_1_663cc5.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 9,
+            "source_url": "http://reefermadnessmuseum.org/chap04/Illinois/Sears_A.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 10,
+            "source_url": "https://www.picclickimg.com/00/s/MTIwMFgxNjAw/z/6EgAAOSw5cNYiOzZ/$/Photo-Memory-Box-Sold-By-Searsroebuck-And-Cochicagoil-_57.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 11,
+            "source_url": "http://ecx.images-amazon.com/images/I/51MP5MAWTZL._SY344_BO1,204,203,200_QL70_.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 12,
+            "source_url": "https://www.cardcow.com/images/set152/card00091_fr.jpg"
+        }
+    }
+}

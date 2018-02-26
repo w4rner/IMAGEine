@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://3.bp.blogspot.com/-Ig1WWB1WKw4/UATL7QfGKuI/AAAAAAAAyxs/HEdbFNAOwZU/s640/Unity+Temple.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://i.pinimg.com/736x/17/f7/e4/17f7e475b223ebf065b3c5968e2d2a2a.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://rubens.anu.edu.au/raid2/no_dgb/pics/4/large/002132922905_12.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oak_park_unity_temple.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://l7.alamy.com/zooms/d95a144d52f84848b0579c873a1b1893/unity-temple-illinois-usa-awtyj1.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://1.bp.blogspot.com/-bHqmHpTX-y8/UATL19G5K6I/AAAAAAAAyxc/QQbuqOKnsdM/s1600/Unity+Temple+2.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://i.pinimg.com/736x/0b/29/d2/0b29d2d4683c9c2c61246641a7cedb2d.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://media.expedia.com/media/content/shared/images/travelguides/destination/178248/Unity-Temple-26637.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://farm9.staticflickr.com/8529/8453071188_7b9e5468db_z.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "http://williamchyr.com/wp-content/uploads/2016/03/flw_unity_temple.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://media.expedia.com/media/content/shared/images/travelguides/destination/178248/Unity-Temple-26633.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://c8.alamy.com/comp/AGYM6C/unity-temple-lake-street-at-kenilworth-avenue-oak-park-illinois-1904-AGYM6C.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://galenf.com/wright/unity11.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oak_Park_Il_Unity_Temple9.jpg/1200px-Oak_Park_Il_Unity_Temple9.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "https://i.pinimg.com/736x/c6/66/34/c66634a8bd17563e64d852ecd15d0367.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://i.pinimg.com/736x/65/3a/52/653a52443d095be8a1d70f56ad4ba0c0.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://galenf.com/wright/unity10.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "https://c1.staticflickr.com/9/8383/8453077650_fe30a42a5e_b.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://oakparkdining.com/www.oakparkdining.com/images/large/unity-temple-oak-park-il-590x368.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "http://www.oakparkdining.com/www.oakparkdining.com/images/large/unity-temple-oak-park-illinois-588x369.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 27,
+            "source_url": "https://c1.staticflickr.com/6/5298/5400679101_de7ff493db.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.dayofdreams.com/default%20image%20folder/Unity%20Temple%20Oak%20Park%20Illinois.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 29,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/GENERAL_VIEW_-_Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-6_%28CT%29.tif/lossy-page1-1280px-GENERAL_VIEW_-_Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-6_%28CT%29.tif.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.mcnees.org/architecture/prairie_arch_images/oak_park/unity-temple/flw-arch_oak_park_unity_temple_lake_st_front_remc.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Unity_Temple_(7404079726).jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://fulbrightchicago.files.wordpress.com/2012/08/unity_temple1.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://i.pinimg.com/736x/a4/04/57/a40457ecf7907c491e8c028e68cb1e75.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://static.panoramio.com/photos/large/4354060.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://galenf.com/wright/unity12.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://cdn.vox-cdn.com/thumbor/JzHFMhQrHbNZxOI_WJBOFvD-d0k=/0x0:1400x934/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/55995869/UnityTemple_NicholasJamesPhoto_20.0.jpeg"
+        }
+    }
+}

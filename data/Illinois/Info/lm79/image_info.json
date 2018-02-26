@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://i.pinimg.com/564x/19/83/ef/1983ef01245b1bf2d067bf5d312196a6.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/U-505chicago.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "https://www.msichicago.org/fileadmin/assets/whats_here/exhibits/press_photos/u-505_submarine/U-505_ExhibitOverview.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://static.thousandwonders.net/Museum.of.Science.and.Industry.original.17684.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "https://www.cardcow.com/images/set212/card00309_fr.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "https://i.pinimg.com/736x/e6/b7/21/e6b721dbc7958522635079a8d1b0b55d.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://www.wsp-pb.com/Globaln/USA/Halvorson/Projects/u-505-submarine-01.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "https://c1.staticflickr.com/3/2569/3730150909_902a98a917_b.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "https://img1.10bestmedia.com/Images/Photos/134918/MSI-U505-Submarine_54_990x660_201404221612.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 19,
+            "source_url": "https://chuckmanchicagonostalgia.files.wordpress.com/2010/11/postcard-chicago-museum-of-science-and-industry-german-www-ii-u-505-submarine-i-used-to-take-tours.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 20,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/U-505_at_MSI_Chicago_Illinois,_USA,_Port_Bow_Torpedo_Tube.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 21,
+            "source_url": "http://i.ebayimg.com/images/i/361405508804-0-1/s-l1000.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "https://i.pinimg.com/736x/36/d7/46/36d74675addab493adcff9cbca13513a.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 4,
+            "source_url": "https://i.ytimg.com/vi/ELJpRmemh-s/maxresdefault.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "https://chuckmanchicagonostalgia.files.wordpress.com/2009/07/x-montage_u_505_comes_to_chicago.jpg?w=510"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "http://i.pinimg.com/736x/4e/84/23/4e8423ebac8f345a37919c4050c7e357.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 25,
+            "source_url": "http://www.warrelics.eu/forum/attachments/history-research-third-reich-ww2/333727d1334746300-u-505-u-boat-chicago-u534f.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 26,
+            "source_url": "https://farm9.static.flickr.com/8696/17232513660_2543bff27a_b.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 27,
+            "source_url": "http://www.uboatarchive.net/U-505Color.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "http://wreckhunter.net/images/u505-illus-sm-MSI.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "https://chuckmanchicagonostalgia.files.wordpress.com/2012/11/postcard-chicago-museum-of-science-and-industry-u-505-german-submarine-arrives-jackson-park-in-floating-dry-dock-1954.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 31,
+            "source_url": "https://chuckmanchicagonostalgia.files.wordpress.com/2012/09/photo-chicago-german-u-505-submarine-being-brought-into-city-by-barge-and-tugboats-19541.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 32,
+            "source_url": "https://www.cardcow.com/images/set228/card00596_fr.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/U505wide.jpg/240px-U505wide.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 6,
+            "source_url": "http://l7.alamy.com/zooms/cac34fef5a2a4393a023ae4d2bd03083/german-world-war-ii-submarine-u-505-exhibit-museum-of-science-and-add8hb.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "http://s3-media2.fl.yelpcdn.com/bphoto/HxMo9oFUJ0_cmC8NDRfbdg/o.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "http://www.wsp-pb.com/Globaln/USA/Halvorson/Projects/u-505-submarine-03.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "http://c1.vgtstatic.com/pic/6099.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "https://www.roadsideamerica.com/attract/images-icon/il/ILCHIsub_prov_msi_scottbrownell_480x320.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://illinoisscienceandindustrymuseum.weebly.com/uploads/5/3/0/3/53039727/7718230.jpg?507"
+        }
+    }
+}

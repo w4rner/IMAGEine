@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Room_405%2C_George_Herbert_Jones_Laboratory%2C_The_University_of_Chicago_%287189830229%29.jpg/1200px-Room_405%2C_George_Herbert_Jones_Laboratory%2C_The_University_of_Chicago_%287189830229%29.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://www.energy.gov/sites/prod/files/styles/borealis_photo_gallery_large_respondsmall/public/Rm405_JonesChemLab_UChicago_Aug20_1942.jpg?itok=dpA0LWT0"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/George_Herbert_Jones_Laboratory.jpg/600px-George_Herbert_Jones_Laboratory.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Broadview_Hall_at_UChicago.jpg/440px-Broadview_Hall_at_UChicago.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://en.academic.ru/pictures/enwiki/83/Snell_Hitchcock1.JPG"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Blackstone_Hall_at_UChicago.jpg/440px-Blackstone_Hall_at_UChicago.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Snell_Hall.jpg/640px-Snell_Hall.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Breckoutside.JPG/440px-Breckoutside.JPG"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ratner_Athletic_Center.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_dorm_behind_Burton-Judson_%284423733575%29.jpg/440px-New_dorm_behind_Burton-Judson_%284423733575%29.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "https://readtiger.com/img/wkp/en/Henry_Hinds_Laboratory_at_University_of_Chicago5.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "https://energy.gov/sites/prod/files/styles/borealis_photo_gallery_large_respondsmall/public/2017/06/f34/DurangoCO_021523pr.jpg?itok=tDKai440"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rockefeller_Chapel_Entire_Structure.jpg/240px-Rockefeller_Chapel_Entire_Structure.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jones_Laboratory_Room_405_Plaque.jpg/90px-Jones_Laboratory_Room_405_Plaque.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://www.urban75.org/blog/images/comacchio-ferrera-italy-13.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://galton.uchicago.edu/seminars/billingsley/graphics/jpgs/werner_wendelin_91x116_w_credit.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://img5.zergnet.com/2344166_300.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://statistics.uchicago.edu/seminars/billingsley/graphics/jpgs/Diaconis_Persi_192x246.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nuclear_jet_engines%2C.jpg/250px-Nuclear_jet_engines%2C.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://www.urban75.org/blog/images/comacchio-ferrera-italy-33.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20070601_Lorado_Taft_Midway_Studio.JPG/120px-20070601_Lorado_Taft_Midway_Studio.JPG"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "http://statistics.uchicago.edu/seminars/billingsley/graphics/billingsley_head3.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 30,
+            "source_url": "http://galton.uchicago.edu/seminars/billingsley/graphics/jpgs/Sheffield_Scott_91x116.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://c2.staticflickr.com/8/7088/7189830229_56b2bd4390_s.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://www.atomicheritage.org/sites/default/files/Jones%20Lab_0.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "http://www.thoroughlygood.me/wp-content/uploads/2014/11/hugoherbertjones.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://energy.gov/sites/prod/files/styles/large/public/BerkeleyGilmanHall_exterior.jpg?itok=Z8U14wi1"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://i.dailymail.co.uk/i/pix/2012/02/01/article-0-118C5E20000005DC-495_310x474.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://energy.gov/sites/prod/files/styles/large/public/GrandJunction_cabin_circa1947.jpg?itok=lTpwtIR0"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Charles_Hitchcock_Hall.jpg/500px-Charles_Hitchcock_Hall.jpg"
+        }
+    }
+}

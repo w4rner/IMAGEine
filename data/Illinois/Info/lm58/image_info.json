@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/52da9c31-c566-44c4-8ffa-e175460a891c_d.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://landmarkhunter.com/photos/52/45/524578-M.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://chuckmanchicagonostalgia.files.wordpress.com/2016/09/postcard-chicago-union-stock-yards-historic-stone-gate-tinted.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/02/cf/c8/historic-gate.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://r.search.yahoo.com/_ylt=AwrB8psbN5NanykAlwCjzbkF;_ylu=X3oDMTBpcGszamw0BHNlYwNmcC1pbWcEc2xrA2ltZw--/RV=2/RE=1519626139/RO=11/RU=http%3a%2f%2fd2ydh70d4b5xgv.cloudfront.net%2fimages%2ff%2f3%2f1964-chicago-il-old-stone-gate-stockyard-men-horse-cowboy-hat-wire-photo-cc789c6fc1554d53de6670bc16314a9b.jpg/RK=2/RS=0MFXMGHd4pCqRfIXuDnC2LbMQhE-"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "https://thumbs.dreamstime.com/z/union-stock-yard-gate-early-spring-picture-preserved-entrance-chicago-illinois-stone-arch-was-51681455.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://s3.amazonaws.com/gs-waymarking-images/4ce835b1-574a-4b87-96ac-4706cb391e7d.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://s3-media2.fl.yelpcdn.com/bphoto/aEDbxCFW7jOU2PVCTkI1Cg/348s.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "https://farm6.staticflickr.com/5095/5591864161_981877ca41_z.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/I_Will_133C_Entrance_to_Stock_Yards_Chicago_F.png"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "https://2.bp.blogspot.com/-snScpH11YqE/VwcZwEjun0I/AAAAAAAAkik/x4_-BO0SNDIUXpg-x5gYy_SRkZ7i_P2FgCPcB/w1200-h630-p-k-no-nu/Stockyards%2Bgate.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://chicago101.freeservers.com/index/stockyards/stockyards01.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Union_Stock_Yards%2C_Chicago%2C_Illinois%2C_circa_1901-1907.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://travelphotobase.com/i/USIL/ILDS0351.JPG"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://c8.alamy.com/comp/BBGT4J/entrance-to-the-union-stockyards-chicago-1890s-BBGT4J.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.barrysbest.net/Webring/ChicagoUnionStockYardGate.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages/unionstockgate.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/02/d0/1e/one-of-the-remaining.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://2.bp.blogspot.com/-w2kZEPJnOz8/VwcXlc0dtHI/AAAAAAAAkiU/2m1MDj4kOz4x8f3tDzpaLZtcYJQ_13xBA/s1600/Back%2Bof%2Bthe%2BYards%2BGraystone.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "https://farm6.staticflickr.com/5308/5592446190_9842ab84b7_z.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://lcweb2.loc.gov/service/pnp/fsa/8c19000/8c19500/8c19538v.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "https://farm6.staticflickr.com/5190/5592453392_7a416f03a4_z.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 30,
+            "source_url": "http://d2ydh70d4b5xgv.cloudfront.net/images/d/6/1974-chicago-illinois-stockyards-stone-gate-entrance-refurbishment-press-photo-a2bb59588267acacb7ab4869c66f771a.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://landmarkhunter.com/photos/52/45/524580-M.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://landmarkhunter.com/photos/52/45/524579-M.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 7,
+            "source_url": "http://cache4.asset-cache.net/gc/112081811-the-old-stone-gate-of-the-chicago-union-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=lGnjDs01aeQKqjld9R%2fRaRboPTDMgzB%2fdV9zmcUGjHch02D0SZXdG241Er6%2fCl53J3M6Ny0YkAMJD%2bLdA6cZMA%3d%3d"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 8,
+            "source_url": "https://c1.staticflickr.com/8/7023/6827974827_de895c0d0c_b.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 9,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chicago_Union_Stockyard_Gate.jpg/240px-Chicago_Union_Stockyard_Gate.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "http://usheritage.com/wp-content/uploads/2014/04/Stockyards-Gate.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://cache1.asset-cache.net/xr/112081579.jpg?v=1&c=IWSAsset&k=3&d=77BFBA49EF87892140FEB0FF7845C57D35CC8A8CAAE9728CF5EC3D7CBDCF53C23DA6EFF8EBE7984DE30A760B0D811297"
+        }
+    }
+}

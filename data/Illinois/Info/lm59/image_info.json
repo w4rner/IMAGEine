@@ -1,0 +1,130 @@
+{
+    "ERRORS_TEST": [
+        [
+            "http://dailyillini.com/wp-content/uploads/2016/09/A6_UISO-900x600.jpg",
+            0
+        ]
+    ],
+    "ERRORS_TRAIN": [
+        [
+            "https://static.planetminecraft.com/files/resource_media/screenshot/1227/Screen-Shot-2012-07-02-at-121914-PM_2763226.jpg",
+            4
+        ],
+        [
+            "http://www.zmpllc.com/wp-content/uploads/2012/07/orchestra-hall-3842918925_9108ed29dc_o.jpg",
+            6
+        ],
+        [
+            "https://static.planetminecraft.com/files/resource_media/screenshot/1227/494_image3_large_2763269.jpg",
+            8
+        ],
+        [
+            "https://static.planetminecraft.com/files/resource_media/screenshot/1227/633288402601562500_2763240.jpg",
+            9
+        ],
+        [
+            "https://static.planetminecraft.com/files/resource_media/screenshot/1227/Screen-Shot-2012-07-02-at-121902-PM_2763217.jpg",
+            10
+        ],
+        [
+            "https://static.planetminecraft.com/files/resource_media/screenshot/1227/Screen-Shot-2012-07-02-at-121457-PM_2763187.jpg",
+            11
+        ],
+        [
+            "http://www.randomactsofkelliness.com/wp-content/uploads/2013/01/Chicago-Symphony-Center_Inside.jpg",
+            13
+        ],
+        [
+            "http://blogs.wfmt.com/offmic/files/2015/01/CSO.jpg",
+            26
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://i.pinimg.com/736x/66/44/13/664413549559bb6f8b88e6d8c22ad3ee.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 2,
+            "source_url": "https://igx.4sqi.net/img/general/600x600/2843025_qBBwvcEKV4u5ZBrtEvoq2XnjjL-19qhr3vVS5PtEeYk.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 3,
+            "source_url": "https://blogatmci.files.wordpress.com/2014/02/chicago-orchestra-hall-at-symphony-center-03.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 19,
+            "source_url": "https://irs1.4sqi.net/img/general/600x600/5514480_47QgfPBCBRV7EaC4yh6e4jO7G9X_DhNEROB2oePvpVU.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 20,
+            "source_url": "http://afipo.org/wp-content/uploads/2015/04/Orchestra-Hall-0-e1380722802147.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 21,
+            "source_url": "http://www.chicagoontheaisle.com/wp-content/uploads/2013/04/Chicago-Symphony-Orchestra-Hall-resplendant-with-choral-and-orchestral-forces-under-Riccardo-Muti-April-2013-credit-Todd-Rosenberg.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 22,
+            "source_url": "http://static.flickr.com/25/61686582_8c40df6b30_o.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 24,
+            "source_url": "http://pipedreams.publicradio.org/gallery/us_midwest/illinois/images/chicago_orchestra-hall_casavant_lg.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 25,
+            "source_url": "http://s3-media3.fl.yelpcdn.com/bphoto/l8O7JCCA5JZEvD4-lGYLdg/o.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 27,
+            "source_url": "http://fda-online.com/uploads/111Chicago_1.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 28,
+            "source_url": "http://photos.cinematreasures.org/production/photos/97991/1396998437/large.jpg?1396998437"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 29,
+            "source_url": "https://i.pinimg.com/236x/ef/d4/d2/efd4d2cae53bcedb12a8e40ae7d3dc53.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 30,
+            "source_url": "http://photos.cinematreasures.org/production/photos/93367/1390691299/large.PNG?1390691299"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 5,
+            "source_url": "https://mikebm.files.wordpress.com/2008/12/chicagosymphonyhall4.jpg?w=529"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 7,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Orchestra_Hall_Chicago.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.som.com/FILE/11787/thumbs__0071_chicago_symphony_center_-_1998_orchestra_hall_renovation.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 14,
+            "source_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aT6GXNKTXDIkTv6WLq0hDA/ls.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 15,
+            "source_url": "http://s3-media1.ak.yelpcdn.com/bphoto/jyS8ZZNi7D0LQVU79tpFJA/ls.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 16,
+            "source_url": "http://vitruvius.com.br/media/images/magazines/grid_9/0ca238ff781d_orchestra_hall_copy.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 17,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Orchestra_Hall_Chicago.JPG"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 18,
+            "source_url": "http://www.towrs.com/Images/Building/System/2012/10/13/OrchestraHallChicagoIllinois102012002a.jpg"
+        }
+    }
+}

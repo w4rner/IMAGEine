@@ -1,0 +1,128 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20070601_Lorado_Taft_Midway_Studio_%283%29.JPG/1200px-20070601_Lorado_Taft_Midway_Studio_%283%29.JPG"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://farm8.staticflickr.com/7232/7376813776_f773ef9a37_z.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://c1.staticflickr.com/3/2360/2217059249_8c3920904b.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Woodlawn_Streetmap_Image.png/171px-Woodlawn_Streetmap_Image.png"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "https://www.theclio.com/web/ul/23230.49580.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://78.media.tumblr.com/d1d95315c3b9e755c379c5f4c1a848bc/tumblr_nix67dwA9T1qcaxqeo2_500.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://farm1.staticflickr.com/133/360690431_7bf01e8036.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://www.iloveallertonpark.com/wp-content/uploads/2017/04/IMG_6652-e1491312081253.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://4.bp.blogspot.com/-tiW5fmdSfCo/USVkYGRZgHI/AAAAAAAAFJU/fd4Thonv8gQ/s1600/Fountain+of+Time+Chicago+Taft.JPG"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://4.bp.blogspot.com/--2-jiEImsW0/Thi61wRuGgI/AAAAAAAAERI/_qj2HW4JjYw/s1600/026.JPG"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://4.bp.blogspot.com/-AIJdn_8g05c/Thi6um9FLVI/AAAAAAAAERA/ekWa2U4sVas/s1600/030.JPG"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://brusharchitects.com/staging/wp-content/uploads/2014/02/midway-studios-300.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "https://i.pinimg.com/736x/f2/76/c4/f276c46d7e53ba651b6c960713cfc5a6.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20070601_Lorado_Taft_Midway_Studio.JPG/1920px-20070601_Lorado_Taft_Midway_Studio.JPG"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Taft_at_work_on_Fountain_of_Time.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "https://i.pinimg.com/736x/3e/8b/ed/3e8bed61fce71a316daf564805c41233.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://78.media.tumblr.com/cba396f8571393990c0bd07ac58ed588/tumblr_nke46mnOE91r0p8d9o4_500.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Panorama_of_the_Fountain_of_Time.JPG/800px-Panorama_of_the_Fountain_of_Time.JPG"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://taftbeautifuldreamer.com/wp/wp-content/uploads/2012/12/Taft-and-Dream-Museum-300x220.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://68.media.tumblr.com/bab302498d39dbe914abe818588fcfe4/tumblr_n79mtoSIpf1r79v1io1_400.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.lib.niu.edu/1989/ii890132-1.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Fountain_of_Creation.jpg"
+        },
+        "FILE_28.jpg": {
+            "image_rank": 30,
+            "source_url": "https://media1.britannica.com/eb-media/03/191403-004-2E7E6E58.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://static.panoramio.com/photos/large/90454213.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://osaarchivum.org/galeria/sites/chicago_newyorke/sections/--05-/ch_065.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20070601_Lorado_Taft_Midway_Studio_%282%29.JPG/160px-20070601_Lorado_Taft_Midway_Studio_%282%29.JPG"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://2.bp.blogspot.com/-vMIulL8gj-0/WAFaRuICEII/AAAAAAAADxo/NkZz7CRKFs4o2o7LvAeMsn2wE7mK0BDKQCLcB/s1600/Lorado%2BTaft%2BMidway%2BStudios.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://4.bp.blogspot.com/-Y1xPhm_4EfM/T_67cP8Uc8I/AAAAAAAAu9w/UOcTl21FQMk/s1600/LI-taftstudio-001b.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 10,
+            "source_url": "http://2.bp.blogspot.com/-OeDylGtnLpM/Thi6yCkGa2I/AAAAAAAAERE/NgYTtcjGdcw/s1600/029.JPG"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "http://78.media.tumblr.com/ce0c8b2153640b93763b99d8adb7d422/tumblr_nix67dwA9T1qcaxqeo3_500.jpg"
+        }
+    }
+}

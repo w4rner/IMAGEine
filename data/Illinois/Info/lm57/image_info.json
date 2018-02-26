@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://www.visionsoftravel.org/wp-content/uploads/2015/03/IllinoisStateCapitol003.jpg",
+            10
+        ],
+        [
+            "http://www.visionsoftravel.org/wp-content/uploads/2015/03/IllinoisStateCapitol002.jpg",
+            28
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "http://capitolshots.com/wp-content/uploads/2014/03/Old-State-Capitol-Of-Illinois.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://static.panoramio.com/photos/large/14605767.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Springfield,Illinois-Old_State_Capitol.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 12,
+            "source_url": "http://pics4.city-data.com/cpicc/cfiles30085.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 13,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2002.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://galenf.com/us/capitol02.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/01/06/4b/9c/old-state-capitol-building.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "https://c2.staticflickr.com/4/3210/2761560024_8bd6f07bbb_z.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://historiccommissions.springfield.il.us/images/SubPages/LargePhotos/pic2-Old-State-Capitol.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/05/98/6e/43/old-state-capitol-state.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://www.illinoisinfocus.com/uploads/5/6/3/9/5639843/7010070_orig.jpg?824"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "https://thechicagofiles.files.wordpress.com/2017/06/old-state-capitol-building-springfield.jpg?w=1280&h=959"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2010.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://www.illinoisinfocus.com/uploads/5/6/3/9/5639843/2981806_orig.jpg?818"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://l7.alamy.com/zooms/8079186073fc464eae1959fd77aa9665/old-state-capitol-historic-site-springfield-illinois-degb91.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2016.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2008.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "http://n7.alamy.com/zooms/8fade36cb90140cf8d5e1fef802d6fe1/illinois-springfield-old-state-capitol-statehouse-from-1839-to-1876-ap2780.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/23/ea/ae/old-state-capitol-1.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2004.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2005.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2012.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://farm4.staticflickr.com/3269/2990857094_8796941f00_z.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://farm4.staticflickr.com/3206/2990003595_e6ff03e20d_z.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://capitolshots.com/wp-content/uploads/galleries/post-660/full/Illinois-Old-State-Capitol-2007.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://static.panoramio.com/photos/large/52317546.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Etc_450.jpg/1920px-Etc_450.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 11,
+            "source_url": "https://c1.staticflickr.com/3/2246/2760691353_e941d7716c_z.jpg"
+        }
+    }
+}

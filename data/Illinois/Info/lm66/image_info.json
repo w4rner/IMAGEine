@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://i1.trekearth.com/photos/93064/the_rookery.jpg",
+            14
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://i.pinimg.com/736x/10/00/b9/1000b93f47cef441d9cc92e8ffd0952d.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://i0.wp.com/www.pawsforbeer.com/wp-content/uploads/2014/09/15114001995_e96d17137a_z.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rookery_Building_interior_view%2C_Chicago_USA.jpg/640px-Rookery_Building_interior_view%2C_Chicago_USA.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://l7.alamy.com/zooms/60348730824644a4bd6b9813a9cae607/the-rookery-building-light-court-lobby-chicago-illinois-drdt2c.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.peterbeers.net/interests/flw_rt/Illinois/Rookery/DSCN2112_Rookery.JPG"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "https://i.pinimg.com/736x/bb/b6/07/bbb607d415a750eb9685cc32cbc49959.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rookery_Building%2C_Chicago%2C_Illinois_%289181567286%29.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "http://c8.alamy.com/comp/BD3848/the-rookery-building-exterior-by-burnham-and-root-chicago-illinois-BD3848.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://78.media.tumblr.com/tumblr_lx4nv6MySS1qk7wiio1_1280.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://images.fineartamerica.com/images-medium-large/rookery-building-1886-in-chicago-everett.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://i1.wp.com/www.pawsforbeer.com/wp-content/uploads/2014/09/15113979605_cee0c94d0d_b.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://photos.wikimapia.org/p/00/00/46/75/61_big.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://therookerybuilding.com/images/content/feature-photo-hpgallery5.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "https://i.pinimg.com/736x/6c/8a/7a/6c8a7a3d97eee2c2c61dae96a91bca43.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "http://i.pinimg.com/736x/fc/f3/d9/fcf3d98783e709fcaa60c23f8898cd35.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://c0056906.cdn2.cloudfiles.rackspacecloud.com/10751-7.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "http://s3-media2.fl.yelpcdn.com/bphoto/fjAdW4kRwXEvrRwWWFjvYw/o.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://i.pinimg.com/736x/79/8c/8a/798c8a84dc6e3e1db57566bb7a4e9039.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "https://thumbs.dreamstime.com/z/rookery-building-interior-chicago-illinois-23972728.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 27,
+            "source_url": "http://therookerybuilding.com/images/content/feature-photo-hpgallery9.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "http://i.pinimg.com/736x/01/ce/bd/01cebd6aa9151b61636a06c9e31c744b.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Rookery_Building_court_%28Chicago%2C_IL%29.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://i.pinimg.com/736x/a5/14/d9/a514d9fa6c9ac4f4f617b034cdbabdb2.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://media2.trover.com/T/54174230d6bdd4381e0000b9/fixedw_large_2x.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JvywgakpRCmtGcaqQjnNsA/o.jpg"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://i0.wp.com/www.pawsforbeer.com/wp-content/uploads/2014/09/15110983661_0eb23bc39f_z.jpg?resize=426%2C640"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://img.zanda.com/item/41030520000068/1024x768/Rookery_Building.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://www.peterbeers.net/interests/flw_rt/Illinois/Rookery/DSCN2111_Rookery.JPG"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://photos.wikimapia.org/p/00/01/49/91/60_big.jpg"
+        }
+    }
+}
