@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://dumbonyc.com/wp-content/uploads/2014/01/Daniel-Hale-Williams-PS-307.jpg",
+            13
+        ],
+        [
+            "https://myhero.com/images/guest/g243/hero104184/daniel-hale-williams1.jpg",
+            27
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dr._Daniel_Hale_Willaims_House.jpg/1920px-Dr._Daniel_Hale_Willaims_House.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://images-mediawiki-sites.thefullwiki.org/06/1/6/1/11077664105166854.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://chicagopatterns.com/wp-content/uploads/2013/11/doctor_dan-1-900x600.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://images.classmates.com/pho124/H/X/X/6/146743004_display.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://www.michmarkers.com/images/S0712.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 14,
+            "source_url": "http://findingeliza.com/wp-content/uploads/2011/08/providenthospital.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 15,
+            "source_url": "https://i.pinimg.com/736x/63/be/bc/63bebcda78a8cd574977f2d7e09f094d.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 16,
+            "source_url": "https://jchatoff.files.wordpress.com/2011/07/8d02825r.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 17,
+            "source_url": "http://68.media.tumblr.com/180c626266c6df7af1be03312815c157/tumblr_ojxtnxXBe21r1g51jo1_1280.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://www.stlblackbiz.com/wp-content/uploads/2017/02/Daniel-Williams.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 19,
+            "source_url": "http://moses.law.umn.edu/darrow/photos/Provident_hospital.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 20,
+            "source_url": "http://www.atoztheusa.com/state_images/Timeline/IL/s-il-1890_williams.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 21,
+            "source_url": "http://slideplayer.com/slide/1618575/6/images/11/Dr.+Daniel+Hale+Williams.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://chicagopatterns.com/wp-content/uploads/2013/12/doctor_dan_1974-782x900.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 22,
+            "source_url": "https://burgess.house.gov/uploadedfiles/022012_aahm_daniel_hale_williams.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 23,
+            "source_url": "http://computerinfo7.weebly.com/uploads/2/6/8/1/26817275/2117363.jpg?253"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 24,
+            "source_url": "https://cdn.cpnscdn.com/static/blog/2015/02/Daniel-Hale-Williams.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 25,
+            "source_url": "https://www.biography.com/.image/t_share/MTE5NDg0MDU1MTY2NDIwNDk1/daniel-hale-williams-wc-9532269-1-402.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 26,
+            "source_url": "http://jesushouse.org.uk/sites/default/files/BHM_Daniel.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "http://www.todayifoundout.com/wp-content/uploads/2015/07/dr-williams.png"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 30,
+            "source_url": "http://i.pinimg.com/736x/2d/06/1b/2d061b62ee8a44dd863d6ac3787eac59.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://www.providentfoundation.org/images/content_img/gallery/001.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://i.pinimg.com/originals/ef/6b/28/ef6b28fae87d771bb46de8a480ab1840.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://blackthen.com/wp-content/uploads/2015/04/daniel-hale-williams.png"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Montgomery_Ward_Catalogue_House.JPG/600px-Montgomery_Ward_Catalogue_House.JPG"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://c1.staticflickr.com/5/4054/4304708036_f78bea4585.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://www.drkarenwinkfield.com/uploads/1/6/1/4/16142658/851441_orig.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://detroit1701.org/Graphics/Williams%20Residence%20B.jpg"
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "https://www.terraamericanart.org/wp-content/uploads/2015/08/AACL_Only_Wright_Frank_Lloyd_Wright_Home_and_Studio_Playroom_Caulfield2_FLWT-e1428342427331-1024x769.jpg",
+            27
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://c2.staticflickr.com/8/7014/6823650521_cffc81f5ec_b.jpg"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "http://www.thecraftsmanbungalow.com/wp-content/uploads/2013/08/IMG_4416b.jpg"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "http://www.appraisercitywide.com/xsites/appraisers/appraisercitywide/Content/UploadedFiles/Studio.JPG"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "https://c1.staticflickr.com/7/6230/6875938632_7d3f8c527c_b.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "http://makingitlovely.com/wp-content/uploads/2013/03/MG_5776a640.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://n7.alamy.com/zooms/76cef23a925945dbb487d67f4c8dbffe/frank-lloyd-wright-home-and-studio-428-forest-avenue-oak-park-illinois-ah0k9c.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://familyzip.com/pix/p7634/frank-lloyd-wright-home-tour2.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Frank_Lloyd_Wright_Home_Studio.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://78.media.tumblr.com/tumblr_m4kogkZrXF1qzqju7o1_1280.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 17,
+            "source_url": "https://i.pinimg.com/564x/94/77/0e/94770ef599480cfeaef598f35372a558.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 18,
+            "source_url": "https://media-cdn.tripadvisor.com/media/photo-s/05/bb/b3/93/wright-plus-home-walk.jpg"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 19,
+            "source_url": "http://flwright.org/sites/default/files/styles/thumbnailslideshow_bigimage/public/slideshow/homeandstudio_1.jpg?itok=mmI0ilOj"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 20,
+            "source_url": "http://st.hzcdn.com/simgs/a681cb7000bd24e3_4-3045/traditional-exterior.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://c8.alamy.com/comp/DW9TCF/frank-lloyd-wright-home-and-studio-oak-park-illinois-DW9TCF.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 21,
+            "source_url": "http://www.realestateprochicago.com/wp-content/uploads/2012/12/Frank-Lloyd-Wright-Home-and-Studio-in-Oak-Park-Cook-County-Illinoi.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 22,
+            "source_url": "http://media.cntraveler.com/photos/55ce0455c47ae13868ae3cd7/master/pass/frank-lloyd-wright-home-and-studio-interior-chicago.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 23,
+            "source_url": "http://www.thecraftsmanbungalow.com/wp-content/uploads/2013/08/IMG_4547a-605x814.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 24,
+            "source_url": "http://galenf.com/wright/house01.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 25,
+            "source_url": "http://c7.alamy.com/comp/BD3MB4/sign-at-frank-lloyd-wright-home-and-studio-oak-park-illinois-BD3MB4.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 26,
+            "source_url": "https://i.pinimg.com/originals/01/92/c0/0192c06385dd40e42dc8ecbf11ef2eb0.jpg"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 28,
+            "source_url": "https://media.expedia.com/media/content/shared/images/travelguides/destination/178248/Frank-Lloyd-Wright-Home-And-Studio-26630.jpg"
+        },
+        "FILE_27.jpg": {
+            "image_rank": 29,
+            "source_url": "https://classconnection.s3.amazonaws.com/502/flashcards/806502/jpg/wrighthome1318375742280.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Frank_LLoyd_Wright_Studio_Chicago_Frontage.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "http://media-cdn.tripadvisor.com/media/photo-s/01/f8/0f/b0/frank-lloyd-wright-home.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Frank_Lloyd_Wright_Home_and_Studio_%28west_side_zoom%29.JPG"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "http://n7.alamy.com/zooms/28ae06cf48544053b2083a2e81283394/frank-lloyd-wright-home-and-studio-oak-park-illinois-d86dbr.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "http://www.groupodell.com/wp-content/uploads/2013/02/wrighthome.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "https://c2.staticflickr.com/8/7215/6881389834_94384b7543.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "https://media.expedia.com/media/content/shared/images/travelguides/destination/178248/Frank-Lloyd-Wright-Home-And-Studio-26632.jpg"
+        }
+    }
+}

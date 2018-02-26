@@ -1,0 +1,129 @@
+{
+    "ERRORS_TEST": [],
+    "ERRORS_TRAIN": [
+        [
+            "http://ncph.org/wp-content/uploads/2015/09/7345674556_4ed3df57ac_o.jpg",
+            17
+        ],
+        [
+            "http://www.cnscvb.com/event_photos/willard.jpg",
+            19
+        ]
+    ],
+    "TEST_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 0,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Frances_Willard_House%2C_Evanston%2C_IL.JPG/1280px-Frances_Willard_House%2C_Evanston%2C_IL.JPG"
+        }
+    },
+    "TRAIN_DATA": {
+        "FILE_0.jpg": {
+            "image_rank": 1,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Willard%2C_Frances_House_1.JPG/1200px-Willard%2C_Frances_House_1.JPG"
+        },
+        "FILE_1.jpg": {
+            "image_rank": 2,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Frances_E._Willard_House%2C_Evanston%2C_IL.jpg/800px-Frances_E._Willard_House%2C_Evanston%2C_IL.jpg"
+        },
+        "FILE_10.jpg": {
+            "image_rank": 11,
+            "source_url": "http://chicagohousemuseums.org/media/cache/e6/dc/e6dc7f3111f8e5159be329563c541d5a.jpg"
+        },
+        "FILE_11.jpg": {
+            "image_rank": 12,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_2_of_5%29.tif/lossy-page1-761px-Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_2_of_5%29.tif.jpg"
+        },
+        "FILE_12.jpg": {
+            "image_rank": 13,
+            "source_url": "http://www.k12academics.com/sites/default/files/Frances%20Willard%20House%20Museum3.jpg"
+        },
+        "FILE_13.jpg": {
+            "image_rank": 14,
+            "source_url": "https://www.cardcow.com/images/set607/card00673_fr.jpg"
+        },
+        "FILE_14.jpg": {
+            "image_rank": 15,
+            "source_url": "http://www.dees-stribling.com/wp-content/uploads/2016/10/PA151446-e1476818147231.jpg"
+        },
+        "FILE_15.jpg": {
+            "image_rank": 16,
+            "source_url": "https://img0.etsystatic.com/110/1/6135382/il_340x270.884876098_6jho.jpg"
+        },
+        "FILE_16.jpg": {
+            "image_rank": 18,
+            "source_url": "http://static.panoramio.com/photos/large/94231227.jpg"
+        },
+        "FILE_17.jpg": {
+            "image_rank": 20,
+            "source_url": "http://www.saic.edu/sites/default/files/styles/adaptive_style/adaptive-image/public/Screen%20Shot%202016-04-13%20at%2012.43.35%20PM.png?itok=lIB7mh2R"
+        },
+        "FILE_18.jpg": {
+            "image_rank": 21,
+            "source_url": "http://static.panoramio.com/photos/large/40923922.jpg"
+        },
+        "FILE_19.jpg": {
+            "image_rank": 22,
+            "source_url": "http://dalbello.comminfo.rutgers.edu/FLVA/voices/839/voices/willard/images/home.jpg"
+        },
+        "FILE_2.jpg": {
+            "image_rank": 3,
+            "source_url": "http://static.panoramio.com/photos/large/73944305.jpg"
+        },
+        "FILE_20.jpg": {
+            "image_rank": 23,
+            "source_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NnLl_pDlqd_FOMKTu6mLfA/o.jpg"
+        },
+        "FILE_21.jpg": {
+            "image_rank": 24,
+            "source_url": "http://c2.vgtstatic.com/thumbll/2/0/205280-v1/frances-willard-house.jpg"
+        },
+        "FILE_22.jpg": {
+            "image_rank": 25,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_4_of_5%29.tif/lossy-page1-1280px-Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_4_of_5%29.tif.jpg"
+        },
+        "FILE_23.jpg": {
+            "image_rank": 26,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_1_of_5%29.tif/lossy-page1-764px-Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_1_of_5%29.tif.jpg"
+        },
+        "FILE_24.jpg": {
+            "image_rank": 27,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_3_of_5%29.tif/lossy-page1-9624px-Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_3_of_5%29.tif.jpg"
+        },
+        "FILE_25.jpg": {
+            "image_rank": 28,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_5_of_5%29.png/305px-Frances_E._Willard_House%2C_1730_Chicago_Avenue%2C_Evanston%2C_Cook_County%2C_IL_HABS_ILL%2C16-EVAN%2C4-_%28sheet_5_of_5%29.png"
+        },
+        "FILE_26.jpg": {
+            "image_rank": 29,
+            "source_url": "http://c1.staticflickr.com/5/4053/4678096989_8249900632.jpg"
+        },
+        "FILE_3.jpg": {
+            "image_rank": 4,
+            "source_url": "http://static.panoramio.com/photos/large/121769932.jpg"
+        },
+        "FILE_4.jpg": {
+            "image_rank": 5,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Frances_E_Willard_House%2C_1730_Chicago_Avenue%2C_Evanston_%28Cook_County%2C_Illinois%29.jpg/220px-Frances_E_Willard_House%2C_1730_Chicago_Avenue%2C_Evanston_%28Cook_County%2C_Illinois%29.jpg"
+        },
+        "FILE_5.jpg": {
+            "image_rank": 6,
+            "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/LITTLE_BRICK_HOUSE%2C_VANDALIA%2C_FAYETTE_COUNTY%2C_IL.JPG/600px-LITTLE_BRICK_HOUSE%2C_VANDALIA%2C_FAYETTE_COUNTY%2C_IL.JPG"
+        },
+        "FILE_6.jpg": {
+            "image_rank": 7,
+            "source_url": "https://farm5.staticflickr.com/4014/4678724114_8d16fde7c7_z.jpg"
+        },
+        "FILE_7.jpg": {
+            "image_rank": 8,
+            "source_url": "https://localcontent.zenfs.com/b932/b9326923783da5f6292c2b467d71fd8e.jpg"
+        },
+        "FILE_8.jpg": {
+            "image_rank": 9,
+            "source_url": "http://static.panoramio.com/photos/large/121769950.jpg"
+        },
+        "FILE_9.jpg": {
+            "image_rank": 10,
+            "source_url": "http://i.pinimg.com/736x/49/72/88/49728879a74d296c077264e67e5c5d63.jpg"
+        }
+    }
+}
