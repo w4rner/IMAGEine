@@ -2,7 +2,7 @@ import scrape_images_yahoo
 import data_fns 
 from selenium import webdriver
 import sys
-
+# https://iandmcanal.org/mazon-fossil-tour/
 
 # Run this from linux command line using nohup command format
 # nohup python3 get_data.py "Illinois" 30 1 0
@@ -55,4 +55,4 @@ if __name__ == "__main__":
     pull_data(state, photo_count, test_photo_count, start_count)
 
     print("**************DATA PULL COMPLETE**************")
-    data_fns.get_image_summary("/home/cnederhood/IMAGEine/data/Illinois/Info")
+    data_fns.gen_image_summary("/home/cnederhood/IMAGEine/data/Illinois/Info")
