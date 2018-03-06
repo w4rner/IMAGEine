@@ -1,0 +1,13 @@
+<h1> So you think you know your state? </h1>
+<h2> Illinois edition </h2>
+<br>
+<h2> Choose a question </h2>
+{% if landmarks %}
+    <ul>
+    {% for landmark in landmarks %}
+        <li><a href="/quiz/{{ landmark.id }}">{{ landmark.i_d }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No quiz is available.</p>
+{% endif %}

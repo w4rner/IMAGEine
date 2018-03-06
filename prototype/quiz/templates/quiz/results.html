@@ -1,0 +1,22 @@
+<h1> Results </h1>
+
+<img src=  "{{ landmark.photo }}", width=300, style="float:right">  <!-- photo url-->
+<ul>
+{% for choice in landmark.choice_set.all %}
+    <li>
+    <label for="choice{{ forloop.counter }}">{{ choice.name }}></label> <!-- displays choice text-->
+    {% if choice.correct %}
+    	<label> Correct </label>
+	{% endif %}
+	{% if choice.machine %}
+    	<label> Machine </label>
+	{% endif %}
+	{% if choice.guess %}
+    	<label> You </label>
+	{% endif %}
+ 	<br><!--line break between options-->
+ </li>
+{% endfor %}
+</ul>
+<br>
+<a href="/quiz/">Pick new question</a>

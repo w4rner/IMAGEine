@@ -1,0 +1,15 @@
+<h1> What is the name of this landmark? </h1>
+
+{% if error_message %}
+    <p><strong>{{ error_message }}</strong></p>
+{% endif %}
+<form action="vote/" method="post"> <!-- "post" alters data server-side vs. "get"-->
+{% csrf_token %}
+<img src=  "{{ landmark.photo }}", width=300, style="float:right">  <!-- photo url-->
+{% for choice in landmark.choice_set.all %}
+    <input type="radio" name="choice" id="choice{{ forloop.counter }}" value="{{ choice.id }}" />
+    <label for="choice{{ forloop.counter }}">{{ choice.name }}></label> <!-- displays choice text-->
+ 	<br><!--line break between options-->
+{% endfor %}
+<input type="submit" value="Vote" />
+</form>
