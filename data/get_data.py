@@ -2,13 +2,12 @@ import scrape_images_yahoo
 import data_fns 
 from selenium import webdriver
 import sys
-# https://iandmcanal.org/mazon-fossil-tour/
 
 # Run this from linux command line using nohup command format
 # nohup python3 get_data.py "Illinois" 30 1 0
 # nohup python3 get_data.py "Illinois" 30 1 28
 
-def pull_data(state, photo_count, test_photo_count, start_count = 0):
+def pull_data(state, photo_count, test_photo_count, start_count = 0, get_wiki=False):
     '''
     Given a state, and counts for photos and test number, 
     downloads and saves out structured data.
@@ -28,7 +27,8 @@ def pull_data(state, photo_count, test_photo_count, start_count = 0):
     cur_count = start_count
 
     for landmark in landmark_list[start_count:]:
-        #landmark.get_wiki_data()
+    	if get_wiki == True:
+        	landmark.get_wiki_data()
         landmark.get_photo_urls(photo_count, driver)
         landmark.save_to_file(test_count=test_photo_count)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
