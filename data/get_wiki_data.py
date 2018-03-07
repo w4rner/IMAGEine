@@ -4,8 +4,7 @@ from selenium import webdriver
 import sys
 
 # Run this from linux command line using nohup command format
-# nohup python3 get_data.py "Illinois" 30 1 0
-# nohup python3 get_data.py "Illinois" 30 1 28
+# python3 get_wiki_data.py "Illinois" "Illinois_wiki"
 
 def pull_wiki_data(state, file_name):
     '''
