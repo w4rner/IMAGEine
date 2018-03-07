@@ -1,11 +1,17 @@
+{% load staticfiles %}
 <head>
+    <!-- Bootstrap used on each page --> 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="{% static 'quiz/results.css' %}">
     <title> Know Your State </title>
 </head>
-<h1> So you think you know your state? </h1>
+<body>
+<h1> So you think you Know Your State? </h1>
+<img src=  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/2000px-Flag_of_Illinois.svg.png", width=300, style="float:right"> 
 <h2> Illinois edition </h2>
 <br>
+Our tecchies have built a computer program called a "machine learning algorithm", which tries to guess the name of a landmark given a picture of it. See if you can outguess it! And learn more about your state along the way!
 <h2> Choose a question </h2>
 {% if landmarks %}
     <ul>
@@ -16,3 +22,4 @@
 {% else %}
     <p>No quiz is available.</p>
 {% endif %}
+</body>

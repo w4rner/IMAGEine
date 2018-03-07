@@ -1,3 +1,11 @@
+{% load staticfiles %}
+<head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="{% static 'quiz/results.css' %}">
+    <title> Know Your State </title>
+</head>
+<body>
 <h1> What is the name of this landmark? </h1>
 
 {% if error_message %}
@@ -8,8 +16,9 @@
 <img src=  "{{ landmark.photo }}", width=300, style="float:right">  <!-- photo url-->
 {% for choice in landmark.choice_set.all %}
     <input type="radio" name="choice" id="choice{{ forloop.counter }}" value="{{ choice.id }}" />
-    <label for="choice{{ forloop.counter }}">{{ choice.name }}></label> <!-- displays choice text-->
+    <label for="choice{{ forloop.counter }}"> {{ choice.name }} </label> <!-- displays choice text-->
  	<br><!--line break between options-->
 {% endfor %}
 <input type="submit" value="Vote" />
 </form>
+</body>
