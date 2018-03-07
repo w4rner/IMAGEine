@@ -13,14 +13,14 @@ import scrape_images_yahoo
 class Landmark(object):
 
     LM_NUMBER = 0
-    ROOT = "/home/cnederhood/IMAGEine/data"
+    ROOT = os.getcwd()
     SEARCH_PRE = "https://images.search.yahoo.com/search/images;_ylt=AwrEx6zOI4laligA9wKLuLkF;_ylc=X1MDOTYwNTc0ODMEX3IDMgRiY2sDNmxrMXU5dGNwbG0zcCUyNmIlM0QzJTI2cyUzRGNxBGZyAwRncHJpZANyVnZqREVBblNDZXNfRGRfbUtMVzJBBG10ZXN0aWQDbnVsbARuX3N1Z2cDMTAEb3JpZ2luA2ltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDBHFzdHJsAzExBHF1ZXJ5A3NlYXJzIHRvd2VyBHRfc3RtcAMxNTE4OTM3MDQ0BHZ0ZXN0aWQDbnVsbA--?gprid=rVvjDEAnSCes_Dd_mKLW2A&pvid=vOSplzEwLjFq0D5PWZrYeQwfMjYwMQAAAAAWnBMt&fr2=sb-top-images.search.yahoo.com&p="
     SEARCH_POST = "&ei=UTF-8&iscqry=&fr=sfp"
 
     def __init__(self, name, state, root=""):
         '''
         Initializer for Landmark class, which is a container
-        class representing a national landmark
+        class representing a national landmark. Used to facilitate data retrieval
 
         Other than name and state, info will be populated
         by calling corresponding methods
@@ -29,10 +29,13 @@ class Landmark(object):
         - name: (str) of landmark name
         - id: (str) standardized id of landmark 
         - state: (str) landmark's state
+
         - summary: (str) first paragraph from wikipedia
         - full_text: (str) full text from wikipedia entry
         - url: (str) url to wikipedia entry
+
         - root: (str) directory location used to save data
+
         - picture_urls: (list) of tuples of url's pulled from yahoo images search, 
                         along with the priority (i.e. ("www.image.com/image0", 1) indicates url is 1st url checked
         - image_file_info: (dict) info on train, test, and errors of images urls
@@ -44,8 +47,8 @@ class Landmark(object):
         self.name = name
         self.id = "lm"+str(Landmark.LM_NUMBER)
         Landmark.LM_NUMBER += 1
-
         self.state = state
+        
         self.summary = ""
         self.full_text = ""
         self.url = ""
@@ -62,29 +65,31 @@ class Landmark(object):
 
     def get_wiki_data(self):
         '''
-        Populates the summary and the full_text
-        which are from the corresponding wiki pages
+        Populates the wikipedia related information, if possible.
+        If the name does not reflect a unique wiki page, try to add 
+        state as well, and if still not unique print Error message
+
+        Sets attributes:
+	        - summary: (str) first paragraph from wikipedia
+	        - full_text: (str) full text from wikipedia entry
+	        - url: (str) url to wikipedia entry
+
         '''
 
         control = True
         try:
             pg = wiki.page(self.name)
         except:
-            control = False
-
-
-        # Some names are not unique enough to return a single result - FIX
-        # except:
-        #   try:
-        #       pg = wiki.page(self.name+" "+self.state)
-        #   except:
-        #       control = False
-        #       print("ERROR: pg in get_wiki_data not unique")
+          try:
+              pg = wiki.page(self.name+" "+self.state)
+          except:
+              control = False
+              print("ERROR: pg in get_wiki_data not unique")
 
         if control == True:
-            self.summary = pg.summary
-            self.full_text = pg.content
-            self.url = pg.url
+	        self.summary = pg.summary.replace("\n", "\t")
+	        self.full_text = pg.content
+	        self.url = pg.url
 
     def pretty_print(self, summary=False):
         '''
@@ -102,7 +107,12 @@ class Landmark(object):
 
     def build_search_string(self):
         '''
-        Constructor method, builds the google url search string 
+        Using the PRE and POST strings from a yahoo images search, along with the 
+        name of the image, builds a yahoo images search url
+
+        This helper method is called in the constructor to set self.yahoo_images_url
+
+        Returns: search_url (str) of yahoo images search url
         '''
         str_name = self.name 
         search_terms = str_name.split()
@@ -125,6 +135,12 @@ class Landmark(object):
         Inputs: 
             photo_count: (int) number of photo url's to grab
             driver: (webdriver) Selenium firefox webdriver instance
+
+        Sets attributes:
+	        - picture_urls: (list) of tuples of url's pulled from yahoo images search, 
+	                        along with the priority (i.e. ("www.image.com/image0", 1) indicates url is 1st url checked
+	        - success_count: (int) when fetching image url's, the count of 'img' types added to picture_url list
+	        - fail_count: (int) when fetching image url's, the count of 'img' types NOT added to picture_url list
         '''
 
         scrape_results = scrape_images_yahoo.click_via_action_keys(self.yahoo_images_url, driver, photo_count)
@@ -145,6 +161,9 @@ class Landmark(object):
         Inputs:
             test_counts: (int) how many photos to include in testing data
             output_location: (str) location to save photo
+
+		Sets attributes:
+		    - image_file_info: (dict) info on train, test, and errors of images urls
         ''' 
 
         # save test data
@@ -198,12 +217,16 @@ class Landmark(object):
         string representation of object instance
         '''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
         return "STATE: {} \nNAME: {}".format(self.state, self.name)
+ 
+
                                                                                                                                                                                                                                                                     
     def save_to_file(self, test_count):
         '''
         Within Landmark.ROOT, saves the instance information
         into a json file into a file structure ordered by
-        ROOT >> State >> {Test, Train, Info} >> self.id
+        ROOT >> State >> Test  >> self.id
+                      >> Train >> self.id
+                      >> Info  >> self.id
 
         Inputs: 
             test_count: (int) how many photos to include in test data
