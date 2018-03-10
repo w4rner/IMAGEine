@@ -1,5 +1,5 @@
 # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
-# With contribution from Liqiang Yu for CAPP 122 project
+# Modified by Liqiang Yu for CAPP 122 course project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -26,6 +26,8 @@ import tensorflow as tf
 
 
 def load_graph(model_file):
+  """"Load a TensorFlow Graph object
+  """
   graph = tf.Graph()
   graph_def = tf.GraphDef()
 
