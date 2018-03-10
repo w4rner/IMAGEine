@@ -27,7 +27,7 @@ class Landmark(object):
 
         Attributes:
         - name: (str) of landmark name
-        - id: (str) standardized id of landmark 
+        - id: (str) standardized id of landmark. Analyses down the line need lowercase identifier
         - state: (str) landmark's state
 
         - summary: (str) first paragraph from wikipedia
@@ -37,7 +37,8 @@ class Landmark(object):
         - root: (str) directory location used to save data
 
         - picture_urls: (list) of tuples of url's pulled from yahoo images search, 
-                        along with the priority (i.e. ("www.image.com/image0", 1) indicates url is 1st url checked
+                        along with the priority (i.e. ("www.image.com/image0", 1) indicates url is 1st url checked.
+                        Having the priority allows for sanity check that image search is representative
         - image_file_info: (dict) info on train, test, and errors of images urls
         - success_count: (int) when fetching image url's, the count of 'img' types added to picture_url list
         - fail_count: (int) when fetching image url's, the count of 'img' types NOT added to picture_url list
@@ -70,9 +71,9 @@ class Landmark(object):
         state as well, and if still not unique print Error message
 
         Sets attributes:
-	        - summary: (str) first paragraph from wikipedia
-	        - full_text: (str) full text from wikipedia entry
-	        - url: (str) url to wikipedia entry
+            - summary: (str) first paragraph from wikipedia
+            - full_text: (str) full text from wikipedia entry
+            - url: (str) url to wikipedia entry
 
         '''
 
@@ -87,9 +88,9 @@ class Landmark(object):
               print("ERROR: pg in get_wiki_data not unique")
 
         if control == True:
-	        self.summary = pg.summary.replace("\n", "\t")
-	        self.full_text = pg.content
-	        self.url = pg.url
+            self.summary = pg.summary.replace("\n", "\t")
+            self.full_text = pg.content
+            self.url = pg.url
 
     def pretty_print(self, summary=False):
         '''
@@ -130,17 +131,17 @@ class Landmark(object):
         in photo_count. Appends url's to self.picture_urls
 
         NOTE: the picture_urls are flipped, so that the test 
-        		url's pull from the first images found, rather than the last found
+                url's pull from the first images found, rather than the last found
 
         Inputs: 
             photo_count: (int) number of photo url's to grab
             driver: (webdriver) Selenium firefox webdriver instance
 
         Sets attributes:
-	        - picture_urls: (list) of tuples of url's pulled from yahoo images search, 
-	                        along with the priority (i.e. ("www.image.com/image0", 1) indicates url is 1st url checked
-	        - success_count: (int) when fetching image url's, the count of 'img' types added to picture_url list
-	        - fail_count: (int) when fetching image url's, the count of 'img' types NOT added to picture_url list
+            - picture_urls: (list) of tuples of url's pulled from yahoo images search, 
+                            along with the priority (i.e. ("www.image.com/image0", 1) indicates url is 1st url checked
+            - success_count: (int) when fetching image url's, the count of 'img' types added to picture_url list
+            - fail_count: (int) when fetching image url's, the count of 'img' types NOT added to picture_url list
         '''
 
         scrape_results = scrape_images_yahoo.click_via_action_keys(self.yahoo_images_url, driver, photo_count)
@@ -162,8 +163,8 @@ class Landmark(object):
             test_counts: (int) how many photos to include in testing data
             output_location: (str) location to save photo
 
-		Sets attributes:
-		    - image_file_info: (dict) info on train, test, and errors of images urls
+        Sets attributes:
+            - image_file_info: (dict) info on train, test, and errors of images urls
         ''' 
 
         # save test data
@@ -227,6 +228,9 @@ class Landmark(object):
         ROOT >> State >> Test  >> self.id
                       >> Train >> self.id
                       >> Info  >> self.id
+
+        This folder/file structure is most easily used for analysis
+        down the line
 
         Inputs: 
             test_count: (int) how many photos to include in test data

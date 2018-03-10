@@ -5,6 +5,12 @@ def confirm_extension(state):
     '''
     Given a state, confirms that all training and testing 
     photos have extension .jpg and can be opened as an image
+
+    Some image urls have a perfectly valid link but for some
+    reason cannot be retrieved and were not filtered by other means.
+    This required some handcleaning of the images data. This function does
+    a first pass to assist in that handcleaning process by testing that the 
+    image files are valid images files.
     '''
 
     open_file_errors = []
