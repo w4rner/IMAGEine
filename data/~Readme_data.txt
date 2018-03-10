@@ -3,7 +3,7 @@
 # Location in folder: /data ##############################################
 # Author: Cooper Nederhood* ##############################################
 ##########################################################################
-* 3 small utility fn's from the webscraping PA are used. See data_fns.py for details
+* 3 small utility fn's from the webscraping PA are used. See data_fns.py for details. All other code is 100% original
 
 # Documentation for data gathering and validation process
 # Relevant scripts conatined in "IMAGEine/data/"
@@ -80,5 +80,12 @@
 	data. If the wiki data is bypassed in the run of "get_data.py" as shown above, the user can run
 	the function "get_wiki_data.py" to create a csv file of the relevant wiki information. The implementation
 	of the Illinois quiz uses this approach. This allowed for other streams of work, like the Machine Learning
-	algorithm to procede
+	algorithm to procede.
+
+	Finally, as discussed in our presentation, validating that the data retrieval process, which took days of running, 
+	was a succesful representation of the available images required the generation of summary statistics when data 
+	scraping. Summarizing this through the "gen_image_summary" function in 'data_fns.py' creates a simple easy to read summary for the given state summarizing the fail/successes for each images. The current incarnation of the quiz 
+	uses only Illinois data, but the structure and flexibly functionality can easily be scaled to other states. In
+	fact, to test that the code was still working I ran preliminary scrapes on North Dakota and Connecticut and the 
+	corresponding output file structure populated as planned. 
 
