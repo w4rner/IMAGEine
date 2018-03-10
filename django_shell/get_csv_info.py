@@ -4,6 +4,7 @@ path_landmarks = "../data/Illinois/Info/summary_lm.csv"
 path_machine_guess = "../transfer_learning/machine_guess.csv"
 path_wiki_info = "../data/Illinois/Illinois_wiki.csv"
 
+# By Cooper Nederhood (original)
 
 def create_template(path_landmarks, path_machine_guess, output_filename, path_wiki_info = None):
 	'''
