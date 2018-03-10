@@ -9,6 +9,7 @@ import os
 
 import scrape_images_yahoo
 
+# By Cooper Nederhood (original)
 
 class Landmark(object):
 

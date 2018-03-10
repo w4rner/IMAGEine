@@ -3,6 +3,9 @@ import data_fns
 from selenium import webdriver
 import sys
 
+# By Cooper Nederhood (original)
+
+
 # Run this from linux command line using nohup command format
 # python3 get_wiki_data.py "Illinois" "Illinois_wiki"
 

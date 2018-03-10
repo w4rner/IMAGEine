@@ -1,6 +1,9 @@
 import os
 from PIL import Image
 
+# By Cooper Nederhood (original)
+
+
 def confirm_extension(state):
     '''
     Given a state, confirms that all training and testing 

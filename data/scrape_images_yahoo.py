@@ -9,6 +9,9 @@ import json
 import io
 import os
 
+# By Cooper Nederhood (original)
+
+
 def click_via_action_keys(base_url, driver, target_count):
     '''
     Given a base_url from which to begin the image scraping, a
