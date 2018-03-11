@@ -1,5 +1,5 @@
 # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
-# Modified by Liqiang Yu for CAPP 122 course project
+# Copied by Liqiang Yu for CAPP 122 course project with few edits made
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.

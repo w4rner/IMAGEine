@@ -1,3 +1,4 @@
+# By Cooper Nederhood, Liqiang Yu and Laurence Warner (Original)
 #Run this file to populate website with quiz questions.
 
 from quiz.models import Landmark, Choice
