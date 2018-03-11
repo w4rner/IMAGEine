@@ -116,7 +116,11 @@
 	and creates a tensor for feeding the image and the output tensor after resizing 
 	and decoding. After preprocessing, we calculate the bottleneck values for the 
 	penultimate layer and store them locally in 'create_bottleneck_file' and 
-	'run_bottleneck_on_image'. 
+	'run_bottleneck_on_image'. And we specify the train step, loss function,
+	bottleneck tensor and a new layer for training as well as the evaluation step.
+	Last but not the least, we train the final layer using backward propagation. 
+	Finally, we evaluate the model performance by testing on the test data and save
+	the retrained graph to local folder.
 
 
 (4) - Papers and documentation read for landmark recognition
